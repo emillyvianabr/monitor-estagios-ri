@@ -31,7 +31,7 @@ def run():
         warnings, count, queries, accepted = [], 0, 0, 0
         terms = ['estágio'] if source in {'gupy', 'ciee', '99jobs'} else (config['terms'][:1] if args.smoke else config['terms'])
         for term in terms:
-            for scope in (config['scopes'] if source == 'linkedin' else ['public']):
+            for scope in (config['scopes'] if source in {'linkedin', 'indeed'} else ['public']):
                 spec = dict(source=source, term=term, scope=scope, smoke=args.smoke, limit=5 if args.smoke else config['resultsPerSearch'])
                 if source == '99jobs' and not args.smoke: spec['limit'] = 30
                 try:
@@ -68,7 +68,7 @@ def run():
         untouched = {j['url']: j for j in previous if not set(j.get('sources', [j['board']])) & set(args.sources)}
         jobs = [untouched.get(j['url'], j) for j in jobs]
         health.extend({**h, 'note': 'Coleta anterior: ' + (h.get('note') or '')} for h in previous_data.get('health', []) if h['board'] in config['sources'] and h['board'] not in args.sources)
-    data = dict(checkedAt=now, engine='Fontes públicas + LinkedIn via JobSpy', partial=args.smoke, health=health, jobs=jobs)
+    data = dict(checkedAt=now, engine='Fontes públicas + LinkedIn e Indeed via JobSpy', partial=args.smoke, health=health, jobs=jobs)
     write_json(file, data)
     write_json(ROOT / 'data/jobspy-audit.json', dict(checkedAt=now, queries=audit))
     return 1 if any(not h['ok'] for h in health) else 0

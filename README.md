@@ -40,7 +40,7 @@ Anúncios precisam ser identificados como estágio. Bancos de talentos são excl
 
 O pacote traz **4 anúncios da coleta anterior** para o painel abrir imediatamente. A busca ampliada para todos os cursos e áreas afins ainda não foi executada. Use a primeira execução manual para atualizar.
 
-Histórico e relatório ficam em `data/jobspy-jobs.json`, `data/jobspy-audit.json` e `reports/jobspy.md`. Os nomes são mantidos por compatibilidade, mas abrangem as quatro fontes. Anúncios são deduplicados por URL; anúncios equivalentes com links diferentes podem continuar separados. Ausência na coleta não comprova encerramento. Atualizações parciais conservam dados das fontes não consultadas.
+Histórico e relatório ficam em `data/jobspy-jobs.json`, `data/jobspy-audit.json` e `reports/jobspy.md`. Os nomes são mantidos por compatibilidade, mas abrangem as cinco fontes. Anúncios são deduplicados por URL; anúncios equivalentes com links diferentes podem continuar separados. Ausência na coleta não comprova encerramento. Atualizações parciais conservam dados das fontes não consultadas.
 
 ## Executar localmente
 
@@ -66,9 +66,17 @@ O monitor gera relatório mesmo quando uma fonte falha e termina com erro para s
 
 ## Verificação e referências
 
-19 testes Python passaram localmente; as quatro fontes foram consultadas. Execução no GitHub e publicação Pages ainda precisam ser validadas no seu repositório.
+21 testes Python passaram localmente; as cinco fontes foram consultadas. Execução no GitHub e publicação Pages ainda precisam ser validadas no seu repositório.
 
 - JobSpy: https://github.com/speedyapply/JobSpy
 - Referência da consulta pública Gupy: https://github.com/DouglasFantoni/gupy-job-scrapper
 - GitHub Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 - Execução manual: https://docs.github.com/en/actions/how-tos/manage-workflow-runs/manually-run-a-workflow
+
+## Busca por título no LinkedIn
+
+As buscas incluem estágio nas palavras-chave, sem exigir o tipo internship cadastrado no LinkedIn. O filtro local aceita título de estágio mesmo com categoria Full-time. Uma localização genérica Greater Rio de Janeiro só é resolvida para o município quando a descrição informa explicitamente Rio de Janeiro-RJ junto da modalidade. O anúncio 4468536717 passou nesse teste local usando o conteúdo público previamente obtido; isso não garante sua posição ou retorno na busca limitada do LinkedIn.
+
+## Indeed
+
+Indeed está integrado via JobSpy, com country_indeed=Brazil e os mesmos termos e recortes do LinkedIn. Busca por palavras-chave sem exigir categoria internship; o filtro local confirma estágio pelo título ou tipo informado. O teste inicial consulta até 5 resultados por recorte. A execução semanal faz a coleta configurada completa. A busca pode devolver cargos efetivos, que são descartados localmente. Não requer conta nem chave de API.
