@@ -7,6 +7,14 @@ class Filters(unittest.TestCase):
     def test_entities(self):
         job, reason = self.parse(); self.assertIsNone(reason); self.assertIn('Relações Internacionais', job['evidence'])
     def test_false_remote_does_not_imply_onsite(self): self.assertEqual(self.parse()[0]['mode'], 'unknown')
+    def test_linkedin_misclassified_internship(self):
+        job, reason = self.parse(job_type='fulltime', location='Greater Rio de Janeiro',
+            description='REDE CIDADÃ Rio de Janeiro-RJ Presencial Área: Administração. Cursando Relações Internacionais.')
+        self.assertIsNone(reason)
+        self.assertEqual(job['mode'], 'on-site')
+        self.assertEqual(job['city'], 'Rio de Janeiro, RJ, Brasil')
+    def test_generic_rio_title_does_not_override_city(self):
+        self.assertIsNone(self.parse(location='Niterói, RJ, Brazil', description='Rio de Janeiro-RJ Presencial. Relações Internacionais.')[0])
     def test_hybrid_precedes_remote(self): self.assertEqual(modality({**BASE, 'is_remote': True, 'description':'Modelo híbrido, com home office'}), 'hybrid')
     def test_explicit_onsite(self): self.assertEqual(self.parse(description='Modelo presencial. Relações Internacionais.')[0]['mode'], 'on-site')
     def test_other_cities_excluded(self):

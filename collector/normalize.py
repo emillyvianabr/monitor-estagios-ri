@@ -80,6 +80,14 @@ def compatibility(title, body):
     return None, None, None
 
 def normalize(row, source, scope, now, max_age=45):
+    row = dict(row)
+    # Resolve only a broad Rio location, with city AND modality together in the ad.
+    # A title mentioning Rio alone does not prove the municipality.
+    if norm(row.get('location')) in {'greater rio de janeiro', 'regiao metropolitana do rio de janeiro'}:
+        place = re.search(r'\brio de janeiro\s*[-/,]\s*rj\s*[-|:]?\s*(presencial|hibrido|remoto)\b', norm(row.get('description')))
+        if place:
+            row['location'] = 'Rio de Janeiro, RJ, Brasil'
+            row['explicit_mode'] = {'presencial': 'on-site', 'hibrido': 'hybrid', 'remoto': 'remote'}[place.group(1)]
     title = text(row.get('title'))
     body = text(row.get('description'))
     title_n, body_n = norm(title), norm(body)

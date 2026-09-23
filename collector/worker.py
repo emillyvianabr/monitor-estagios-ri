@@ -31,7 +31,9 @@ def main():
         with contextlib.redirect_stdout(io.StringIO()):
             frame = scrape_jobs(site_name=[spec['source']], search_term='estágio ' + spec['term'],
                 google_search_term=google_term, location='Brazil' if spec['scope'] == 'remote' else 'Rio de Janeiro, Brazil',
-                results_wanted=spec['limit'], distance=5, job_type='internship',
+                # Titles can say estágio even when LinkedIn labels the job Full-time.
+                # The local normalizer still requires internship evidence.
+                results_wanted=spec['limit'], distance=5,
                 is_remote=spec['scope'] == 'remote', country_indeed='Brazil',
                 linkedin_fetch_description=True, description_format='html', verbose=2)
         allowed = ['title', 'company', 'location', 'job_url', 'job_url_direct', 'is_remote', 'description', 'job_type', 'date_posted']
