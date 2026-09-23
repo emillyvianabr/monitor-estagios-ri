@@ -1,0 +1,15 @@
+{
+  "name": "monitor-estagios-ri",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "monitor": "node src/jobspy-report.mjs",
+    "smoke": "node src/jobspy-report.mjs --smoke",
+    "test": "python -m unittest discover -s collector -p test_*.py",
+    "test:jobspy": "python -m unittest discover -s collector -p test_*.py"
+  }
+}

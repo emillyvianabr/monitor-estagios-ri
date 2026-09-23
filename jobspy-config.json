@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "gupy",
+    "99jobs",
+    "ciee",
+    "linkedin"
+  ],
+  "terms": [
+    "relações internacionais",
+    "comércio exterior",
+    "cooperação internacional",
+    "relações governamentais",
+    "qualquer curso",
+    "programa de estágio",
+    "administração",
+    "comercial",
+    "sustentabilidade"
+  ],
+  "scopes": [
+    "rio",
+    "remote"
+  ],
+  "resultsPerSearch": 10,
+  "pauseSeconds": 4,
+  "queryTimeoutSeconds": 120,
+  "maxAgeDays": 45
+}

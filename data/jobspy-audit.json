@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-09-23T01:23:32.084112+00:00",
+  "queries": [
+    {
+      "source": "99jobs",
+      "term": "estágio",
+      "scope": "public",
+      "received": 2,
+      "rejected": {
+        "sem evidência de relação com RI": 2
+      },
+      "warnings": []
+    }
+  ]
+}
