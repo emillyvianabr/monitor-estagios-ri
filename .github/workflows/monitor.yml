@@ -1,0 +1,38 @@
+# Preparado localmente; não publicado ou ativado.
+name: Monitor semanal RI
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 12 * * 1'
+permissions:
+  contents: write
+concurrency:
+  group: monitor-estagios-ri
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - run: npm test
+      - name: Coletar vagas
+        id: collect
+        run: npm run monitor
+      - name: Salvar relatório e histórico
+        if: ${{ !cancelled() && steps.collect.outcome != 'skipped' }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/jobspy-jobs.json data/jobspy-audit.json reports/jobspy.md index.html
+          if ! git diff --cached --quiet; then
+            git commit -m 'Atualiza vagas e saúde das fontes'
+            git push
+          fi
