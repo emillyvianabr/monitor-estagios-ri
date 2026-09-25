@@ -4,16 +4,157 @@
 <title>Radar RI · Estágios</title>
 <style>
 :root{font-family:system-ui,-apple-system,sans-serif;color:#172f32;background:#f5f5ef}*{box-sizing:border-box}body{margin:0}header{background:#143c3b;color:#fff;padding:30px max(24px,calc((100vw - 1120px)/2)) 48px}.brand{font-size:14px;letter-spacing:.15em;font-weight:700;color:#b4daca}h1{font-size:clamp(32px,5vw,54px);font-weight:600;letter-spacing:-.04em;max-width:740px;line-height:1.06;margin:32px 0 18px}header p{color:#d0e2db;max-width:680px;line-height:1.7}main{max-width:1168px;margin:auto;padding:28px 24px}label{display:block;font-size:13px;font-weight:600;margin:0 0 9px}.controls{display:flex;gap:16px;align-items:end;flex-wrap:wrap}.search{flex:1;min-width:210px}input,select{font:inherit;padding:13px;border:1px solid #b8c6bd;border-radius:8px;background:white;width:100%;color:#172f32}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0}button{font:inherit;font-size:14px;background:#fff;color:#23433b;padding:11px 15px;border:1px solid #bac9bf;border-radius:30px;cursor:pointer}button[aria-pressed=true]{background:#234d42;color:white;border-color:#234d42}button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #be7933;outline-offset:3px}.meta{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;font-size:13px;color:#50615a;margin:26px 0 15px}#cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.card{background:#fff;border:1px solid #d9e0d9;border-radius:12px;padding:25px;display:flex;flex-direction:column;gap:14px}.company{text-transform:uppercase;letter-spacing:.07em;font-size:12px;color:#607268;font-weight:700}.card h2{font-size:21px;line-height:1.35;margin:0}.tags{display:flex;flex-wrap:wrap;gap:7px}.tag{font-size:12px;padding:6px 10px;border-radius:6px;background:#edf1ec}.remote{background:#dcf0e7;color:#145d43}.hybrid{background:#e4eafd;color:#344c91}.on-site{background:#fff0d9;color:#7b5014}.unknown{background:#eee9f1;color:#645274}.evidence{font-size:14px;line-height:1.65;color:#57695f;margin:0}.details{font-size:12px;color:#5e6e65}.apply{margin-top:auto;padding-top:6px;font-size:14px;font-weight:650;color:#1f6651}.empty{padding:40px;background:#fff;border:1px dashed #b8c6bd;border-radius:12px;grid-column:1/-1}footer{font-size:12px;line-height:1.8;color:#5a6e64;border-top:1px solid #d3ded6;margin-top:30px;padding-top:20px}details{margin-top:15px}summary{cursor:pointer}#health{padding-left:18px}.muted{color:#bbcfc7;font-size:12px}@media(max-width:650px){#cards{grid-template-columns:1fr}header{padding-bottom:32px}.card{padding:20px}.meta{margin-top:20px}}
+#auth-box{background:#fff;border:1px solid #d9e0d9;border-radius:12px;padding:20px 25px;margin:22px 0}
+#auth-box h3{margin:0 0 12px;font-size:16px}
+#auth-form{display:flex;gap:10px;flex-wrap:wrap;align-items:end}
+#auth-form div{flex:1;min-width:180px}
+#auth-form label{font-size:12px;margin-bottom:6px}
+#auth-actions{display:flex;gap:8px}
+#auth-msg{font-size:13px;color:#b3401f;margin-top:8px}
+#auth-status{display:flex;justify-content:space-between;align-items:center;font-size:14px}
+#manual-section{background:#fff;border:1px solid #d9e0d9;border-radius:12px;padding:20px 25px;margin:22px 0}
+#manual-form{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+#manual-form .full{grid-column:1/-1}
+#manual-msg{font-size:13px;color:#1f6651;margin-top:8px}
+.tag.manual{background:#f5e6d3;color:#8a5a1f}
+@media(max-width:650px){#manual-form{grid-template-columns:1fr}}
 </style>
 <header><div class="brand">RADAR RI / OPORTUNIDADES</div><h1>Seu próximo passo nas Relações Internacionais.</h1><p>Estágios presenciais e híbridos na cidade do Rio de Janeiro.<br>Vagas remotas cadastradas em todo o Brasil.</p><div class="muted">Fontes públicas · Links diretos · Requisitos em destaque</div></header>
 <main><div id="source-status" role="status"></div><div class="controls"><div class="search"><label for="search">Buscar por cargo, empresa ou requisito</label><input id="search" type="search" placeholder="Ex.: comércio exterior, inglês, cooperação"></div><div><label for="relevance">Compatibilidade com RI</label><select id="relevance"><option value="all">Todas as compatibilidades</option><option value="requirements">RI mencionada no anúncio</option><option value="any-course">Todos os cursos</option><option value="related">Área afim · conferir</option></select></div></div>
 <div class="filters" role="group" aria-label="Filtrar por modalidade"><button data-mode="all" aria-pressed="true">Todas</button><button data-mode="remote" aria-pressed="false">Remoto</button><button data-mode="hybrid" aria-pressed="false">Híbrido</button><button data-mode="on-site" aria-pressed="false">Presencial</button><button data-mode="unknown" aria-pressed="false">Não identificado</button></div>
+<div id="auth-box">
+<h3>Área da equipe</h3>
+<div id="auth-status"></div>
+<form id="auth-form">
+<div><label for="auth-email">E-mail</label><input id="auth-email" type="email" required></div>
+<div><label for="auth-pass">Senha</label><input id="auth-pass" type="password" minlength="6" required></div>
+<div id="auth-actions"><button type="button" id="btn-cadastrar">Cadastrar</button><button type="button" id="btn-entrar">Entrar</button></div>
+</form>
+<div id="auth-msg"></div>
+</div>
+<div id="manual-section" hidden>
+<h3>Cadastrar vaga manualmente</h3>
+<form id="manual-form">
+<div><label>Cargo/título</label><input name="title" required></div>
+<div><label>Empresa</label><input name="company" required></div>
+<div><label>Cidade</label><input name="city"></div>
+<div><label>Modalidade</label><select name="mode"><option value="on-site">Presencial</option><option value="hybrid">Híbrido</option><option value="remote">Remoto</option><option value="unknown">Não identificado</option></select></div>
+<div><label>Compatibilidade com RI</label><select name="compatibility"><option value="requirements">RI mencionada no anúncio</option><option value="any-course">Todos os cursos</option><option value="related">Área afim</option></select></div>
+<div><label>Prazo (opcional, AAAA-MM-DD)</label><input name="deadline" type="date"></div>
+<div class="full"><label>Descrição/requisitos</label><input name="evidence"></div>
+<div class="full"><label>Link para candidatura</label><input name="url" type="url" required></div>
+<div class="full"><button type="submit">Adicionar vaga</button></div>
+</form>
+<div id="manual-msg"></div>
+</div>
 <div class="meta"><span id="count" role="status" aria-live="polite"></span><span id="updated"></span></div><div id="cards"></div>
 <footer>Coleta experimental: Gupy, 99jobs, CIEE, LinkedIn e Indeed via JobSpy. A cobertura depende das consultas e pode ser parcial. Confirme requisitos, prazo e restrições de residência no anúncio original. A tag “Não identificado” indica modalidade ausente ou desconhecida e só inclui vagas localizadas na cidade do Rio.<details open><summary>Cobertura e saúde da coleta</summary><ul id="health"></ul><p>Vagas não reencontradas e fontes com falha permanecem no histórico JSON, fora da lista atual. Ausência na coleta não confirma encerramento.</p></details></footer></main>
 <script id="data" type="application/json">/*DATA_PLACEHOLDER*/</script>
+<script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-firestore-compat.js"></script>
+<script>
+const firebaseConfig = {
+  apiKey: "COLE_AQUI",
+  authDomain: "COLE_AQUI",
+  projectId: "COLE_AQUI",
+  storageBucket: "COLE_AQUI",
+  messagingSenderId: "COLE_AQUI",
+  appId: "COLE_AQUI"
+};
+firebase.initializeApp(firebaseConfig);
+const auth = firebase.auth();
+const db = firebase.firestore();
+
+function traduzErroAuth(code){
+  const map = {
+    'auth/email-already-in-use': 'Este e-mail já tem cadastro. Tente entrar.',
+    'auth/invalid-email': 'E-mail inválido.',
+    'auth/weak-password': 'Senha muito curta (mínimo 6 caracteres).',
+    'auth/wrong-password': 'Senha incorreta.',
+    'auth/user-not-found': 'Não existe conta com este e-mail.'
+  };
+  return map[code] || ('Erro: ' + code);
+}
+
+document.querySelector('#btn-cadastrar').addEventListener('click', () => {
+  const email = document.querySelector('#auth-email').value;
+  const pass = document.querySelector('#auth-pass').value;
+  auth.createUserWithEmailAndPassword(email, pass)
+    .catch(err => document.querySelector('#auth-msg').textContent = traduzErroAuth(err.code));
+});
+
+document.querySelector('#btn-entrar').addEventListener('click', () => {
+  const email = document.querySelector('#auth-email').value;
+  const pass = document.querySelector('#auth-pass').value;
+  auth.signInWithEmailAndPassword(email, pass)
+    .catch(err => document.querySelector('#auth-msg').textContent = traduzErroAuth(err.code));
+});
+
+auth.onAuthStateChanged(user => {
+  const form = document.querySelector('#auth-form');
+  const manual = document.querySelector('#manual-section');
+  const status = document.querySelector('#auth-status');
+  if (user) {
+    form.hidden = true;
+    manual.hidden = false;
+    status.innerHTML = '';
+    status.append(Object.assign(document.createElement('span'), {textContent: 'Conectado(a) como ' + user.email}));
+    const sair = document.createElement('button');
+    sair.type = 'button'; sair.textContent = 'Sair';
+    sair.addEventListener('click', () => auth.signOut());
+    status.append(sair);
+  } else {
+    form.hidden = false;
+    manual.hidden = true;
+    status.textContent = '';
+  }
+});
+
+document.querySelector('#manual-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const user = auth.currentUser;
+  if (!user) return;
+  const fd = new FormData(e.target);
+  await db.collection('manual-jobs').add({
+    title: fd.get('title'), company: fd.get('company'), city: fd.get('city'),
+    mode: fd.get('mode'), compatibility: fd.get('compatibility'),
+    evidence: fd.get('evidence'), url: fd.get('url'), deadline: fd.get('deadline') || null,
+    uid: user.uid, addedBy: user.email,
+    createdAt: firebase.firestore.FieldValue.serverTimestamp()
+  });
+  e.target.reset();
+  document.querySelector('#manual-msg').textContent = 'Vaga adicionada!';
+  carregarVagasManuais();
+});
+
+async function carregarVagasManuais(){
+  const snap = await db.collection('manual-jobs').orderBy('createdAt', 'desc').get();
+  const manuais = snap.docs.map(doc => {
+    const d = doc.data();
+    const relevanceLabel = d.compatibility === 'requirements'
+      ? 'RI mencionada no anúncio — conferir requisitos'
+      : d.compatibility === 'any-course'
+      ? 'Todos os cursos — conferir requisitos'
+      : 'Área afim — confirmar se aceita RI';
+    return {
+      url: d.url, board: 'manual', sources: ['manual'],
+      title: d.title, company: d.company, city: d.city, state: '',
+      mode: d.mode, relevance: relevanceLabel, compatibility: d.compatibility,
+      deadline: d.deadline, published: null, evidence: d.evidence,
+      firstSeen: d.createdAt ? d.createdAt.toDate().toISOString() : new Date().toISOString(),
+      lastSeen: new Date().toISOString(), status: 'encontrada na última coleta',
+      searchScopes: ['manual'], addedBy: d.addedBy
+    };
+  });
+  const novas = manuais.filter(m => !jobs.some(j => j.url === m.url));
+  jobs.push(...novas);
+  draw();
+}
+</script>
 <script>
 const data=JSON.parse(document.querySelector('#data').textContent),labels={remote:'Remoto',hybrid:'Híbrido','on-site':'Presencial',unknown:'Não identificado'};
-const jobs=data.jobs.filter(j=>j.status==='encontrada na última coleta');
+let jobs=data.jobs.filter(j=>j.status==='encontrada na última coleta');
 const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 const el=(tag,text,cls)=>{const node=document.createElement(tag);node.textContent=text;if(cls)node.className=cls;return node};
 let mode='all';
@@ -30,8 +171,9 @@ function draw(){
  const filtered=jobs.filter(j=>(mode==='all'||(labels[j.mode]?j.mode:'unknown')===mode)&&normalize([j.title,j.company,j.evidence].join(' ')).includes(query)&&(relevance==='all'||relevance===(j.compatibility||(j.relevance.startsWith('RI mencionada')?'requirements':j.relevance.startsWith('Todos os cursos')?'any-course':'related'))));
  const cards=document.querySelector('#cards');cards.replaceChildren();document.querySelector('#count').textContent=filtered.length+' vaga(s) encontrada(s)';
  if(!filtered.length)cards.append(el('div','Nenhuma vaga nesta seleção. Experimente outra modalidade ou remova os filtros.','empty'));
- for(const j of filtered){const card=el('article','','card');card.append(el('div',j.company,'company'),el('h2',j.title));const tags=el('div','','tags');tags.append(el('span',labels[j.mode]||labels.unknown,'tag '+(labels[j.mode]?j.mode:'unknown')),el('span',j.relevance,'tag'));card.append(tags,el('div',(j.city||'Cidade não informada')+(j.state?' / '+j.state:''),'details'),el('p',j.evidence,'evidence'),el('div','Prazo: '+day(j.deadline)+' · Detectada: '+day(j.firstSeen),'details'));const link=el('a','Ver vaga e candidatar-se ↗','apply');try{const u=new URL(j.url);if(u.protocol==='https:'){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';card.append(link)}}catch{}cards.append(card)}
+ for(const j of filtered){const card=el('article','','card');card.append(el('div',j.company,'company'),el('h2',j.title));const tags=el('div','','tags');tags.append(el('span',labels[j.mode]||labels.unknown,'tag '+(labels[j.mode]?j.mode:'unknown')+(j.board==='manual'?' manual':'')),el('span',j.relevance,'tag'));card.append(tags,el('div',(j.city||'Cidade não informada')+(j.state?' / '+j.state:''),'details'),el('p',j.evidence,'evidence'),el('div','Prazo: '+day(j.deadline)+' · Detectada: '+day(j.firstSeen)+(j.addedBy?' · Cadastrada por '+j.addedBy:''),'details'));const link=el('a','Ver vaga e candidatar-se ↗','apply');try{const u=new URL(j.url);if(u.protocol==='https:'){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';card.append(link)}}catch{}cards.append(card)}
 }
 for(const b of document.querySelectorAll('[data-mode]'))b.addEventListener('click',()=>{mode=b.dataset.mode;for(const x of document.querySelectorAll('[data-mode]'))x.setAttribute('aria-pressed',String(x===b));draw()});
 document.querySelector('#search').addEventListener('input',draw);document.querySelector('#relevance').addEventListener('change',draw);draw();
+carregarVagasManuais();
 </script></html>
