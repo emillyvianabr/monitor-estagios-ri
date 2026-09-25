@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-23T02:06:16.498618+00:00",
+  "checkedAt": "2026-09-25T19:27:31.354398+00:00",
   "queries": [
     {
       "source": "gupy",
@@ -7,9 +7,9 @@
       "scope": "public",
       "received": 300,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 251,
-        "localização ou modalidade fora do recorte/insuficiente": 36,
-        "banco de talentos": 5
+        "sem evidência de RI, cursos abertos ou área afim": 249,
+        "localização ou modalidade fora do recorte/insuficiente": 43,
+        "banco de talentos": 1
       },
       "warnings": []
     },
@@ -17,10 +17,8 @@
       "source": "99jobs",
       "term": "estágio",
       "scope": "public",
-      "received": 2,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 2
-      },
+      "received": 0,
+      "rejected": {},
       "warnings": []
     },
     {
@@ -29,8 +27,8 @@
       "scope": "public",
       "received": 300,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 227,
-        "localização ou modalidade fora do recorte/insuficiente": 69
+        "sem evidência de RI, cursos abertos ou área afim": 203,
+        "localização ou modalidade fora do recorte/insuficiente": 81
       },
       "warnings": []
     },
@@ -40,8 +38,9 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 3,
-        "sem evidência de RI, cursos abertos ou área afim": 4,
+        "sem evidência de RI, cursos abertos ou área afim": 3,
+        "localização ou modalidade fora do recorte/insuficiente": 2,
+        "não confirmado como estágio": 1,
         "data fora da janela": 2
       },
       "warnings": []
@@ -52,10 +51,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 1,
-        "localização ou modalidade fora do recorte/insuficiente": 6,
-        "não confirmado como estágio": 1,
-        "banco de talentos": 1
+        "localização ou modalidade fora do recorte/insuficiente": 7,
+        "banco de talentos": 2
       },
       "warnings": []
     },
@@ -65,8 +62,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 2,
-        "localização ou modalidade fora do recorte/insuficiente": 3,
+        "sem evidência de RI, cursos abertos ou área afim": 3,
+        "localização ou modalidade fora do recorte/insuficiente": 2,
         "não confirmado como estágio": 2,
         "banco de talentos": 1,
         "data fora da janela": 1
@@ -89,8 +86,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 6,
-        "localização ou modalidade fora do recorte/insuficiente": 3,
+        "sem evidência de RI, cursos abertos ou área afim": 5,
+        "localização ou modalidade fora do recorte/insuficiente": 2,
         "não confirmado como estágio": 1
       },
       "warnings": []
@@ -114,7 +111,7 @@
       "received": 10,
       "rejected": {
         "sem evidência de RI, cursos abertos ou área afim": 4,
-        "localização ou modalidade fora do recorte/insuficiente": 2,
+        "localização ou modalidade fora do recorte/insuficiente": 1,
         "não confirmado como estágio": 2,
         "data fora da janela": 1
       },
@@ -126,10 +123,9 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 2,
         "localização ou modalidade fora do recorte/insuficiente": 5,
-        "banco de talentos": 1,
-        "não confirmado como estágio": 1
+        "sem evidência de RI, cursos abertos ou área afim": 3,
+        "banco de talentos": 1
       },
       "warnings": []
     },
@@ -149,8 +145,9 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 4,
-        "sem evidência de RI, cursos abertos ou área afim": 6
+        "localização ou modalidade fora do recorte/insuficiente": 2,
+        "sem evidência de RI, cursos abertos ou área afim": 7,
+        "banco de talentos": 1
       },
       "warnings": []
     },
@@ -160,8 +157,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 3,
         "sem evidência de RI, cursos abertos ou área afim": 5,
+        "localização ou modalidade fora do recorte/insuficiente": 3,
         "não confirmado como estágio": 1
       },
       "warnings": []
@@ -205,7 +202,7 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 5,
+        "localização ou modalidade fora do recorte/insuficiente": 3,
         "data fora da janela": 2,
         "sem evidência de RI, cursos abertos ou área afim": 1
       },
@@ -217,8 +214,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 3,
-        "localização ou modalidade fora do recorte/insuficiente": 7
+        "localização ou modalidade fora do recorte/insuficiente": 8,
+        "sem evidência de RI, cursos abertos ou área afim": 2
       },
       "warnings": []
     },
@@ -229,41 +226,40 @@
       "received": 10,
       "rejected": {
         "localização ou modalidade fora do recorte/insuficiente": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 6,
+        "sem evidência de RI, cursos abertos ou área afim": 7,
+        "não confirmado como estágio": 1
+      },
+      "warnings": []
+    },
+    {
+      "source": "linkedin",
+      "term": "sustentabilidade",
+      "scope": "remote",
+      "received": 10,
+      "rejected": {
+        "sem evidência de RI, cursos abertos ou área afim": 10
+      },
+      "warnings": []
+    },
+    {
+      "source": "indeed",
+      "term": "relações internacionais",
+      "scope": "rio",
+      "received": 10,
+      "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 3,
+        "link inválido": 1,
         "não confirmado como estágio": 2
       },
       "warnings": []
     },
     {
-      "source": "linkedin",
-      "term": "sustentabilidade",
-      "scope": "remote",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 9,
-        "localização ou modalidade fora do recorte/insuficiente": 1
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "relações internacionais",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 2,
-        "localização ou modalidade fora do recorte/insuficiente": 1,
-        "não confirmado como estágio": 3
-      },
-      "warnings": []
-    },
-    {
       "source": "indeed",
       "term": "relações internacionais",
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 6,
+        "sem evidência de RI, cursos abertos ou área afim": 7,
         "link inválido": 1
       },
       "warnings": []
@@ -272,10 +268,10 @@
       "source": "indeed",
       "term": "comércio exterior",
       "scope": "rio",
-      "received": 8,
+      "received": 7,
       "rejected": {
         "sem evidência de RI, cursos abertos ou área afim": 1,
-        "data fora da janela": 4
+        "data fora da janela": 3
       },
       "warnings": []
     },
@@ -319,8 +315,11 @@
       "source": "indeed",
       "term": "relações governamentais",
       "scope": "remote",
-      "received": 0,
-      "rejected": {},
+      "received": 2,
+      "rejected": {
+        "sem evidência de RI, cursos abertos ou área afim": 1,
+        "não confirmado como estágio": 1
+      },
       "warnings": []
     },
     {
@@ -329,7 +328,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 7,
+        "link inválido": 3,
+        "sem evidência de RI, cursos abertos ou área afim": 6,
         "não confirmado como estágio": 1
       },
       "warnings": []
@@ -340,9 +340,9 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 7,
+        "sem evidência de RI, cursos abertos ou área afim": 6,
         "localização ou modalidade fora do recorte/insuficiente": 2,
-        "link inválido": 1
+        "não confirmado como estágio": 2
       },
       "warnings": []
     },
@@ -352,8 +352,9 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 6
+        "link inválido": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 6,
+        "não confirmado como estágio": 2
       },
       "warnings": []
     },
@@ -363,7 +364,9 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 9
+        "sem evidência de RI, cursos abertos ou área afim": 8,
+        "não confirmado como estágio": 1,
+        "localização ou modalidade fora do recorte/insuficiente": 1
       },
       "warnings": []
     },
@@ -373,45 +376,46 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 6
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "administração",
-      "scope": "remote",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 4,
-        "link inválido": 3,
-        "localização ou modalidade fora do recorte/insuficiente": 2,
-        "data fora da janela": 1
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "comercial",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 5,
+        "não confirmado como estágio": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 1,
+        "link inválido": 4,
         "localização ou modalidade fora do recorte/insuficiente": 2
       },
       "warnings": []
     },
     {
       "source": "indeed",
+      "term": "administração",
+      "scope": "remote",
+      "received": 10,
+      "rejected": {
+        "sem evidência de RI, cursos abertos ou área afim": 6,
+        "link inválido": 2,
+        "localização ou modalidade fora do recorte/insuficiente": 1
+      },
+      "warnings": []
+    },
+    {
+      "source": "indeed",
+      "term": "comercial",
+      "scope": "rio",
+      "received": 10,
+      "rejected": {
+        "link inválido": 4,
+        "localização ou modalidade fora do recorte/insuficiente": 3
+      },
+      "warnings": []
+    },
+    {
+      "source": "indeed",
       "term": "comercial",
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "link inválido": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 3,
-        "localização ou modalidade fora do recorte/insuficiente": 3,
-        "data fora da janela": 1
+        "link inválido": 2,
+        "sem evidência de RI, cursos abertos ou área afim": 5,
+        "não confirmado como estágio": 1,
+        "localização ou modalidade fora do recorte/insuficiente": 1
       },
       "warnings": []
     },
@@ -421,7 +425,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 9
+        "não confirmado como estágio": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 8
       },
       "warnings": []
     },
@@ -431,8 +436,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 4,
-        "não confirmado como estágio": 3
+        "sem evidência de RI, cursos abertos ou área afim": 6,
+        "não confirmado como estágio": 1
       },
       "warnings": []
     }

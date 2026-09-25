@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-23T02:06:16.498618+00:00",
+  "checkedAt": "2026-09-25T19:27:31.354398+00:00",
   "engine": "Fontes públicas + LinkedIn e Indeed via JobSpy",
   "partial": false,
   "health": [
@@ -7,44 +7,772 @@
       "board": "gupy",
       "ok": true,
       "listed": 300,
-      "matches": 8,
-      "note": "1 busca(s), 300 resultado(s), 8 candidato(s) ao painel.",
+      "matches": 7,
+      "note": "1 busca(s), 300 resultado(s), 7 candidato(s) ao painel.",
       "error": null
     },
     {
       "board": "99jobs",
       "ok": true,
-      "listed": 2,
+      "listed": 0,
       "matches": 0,
-      "note": "1 busca(s), 2 resultado(s), 0 candidato(s) ao painel.",
+      "note": "1 busca(s), 0 resultado(s), 0 candidato(s) ao painel.",
       "error": null
     },
     {
       "board": "ciee",
       "ok": true,
       "listed": 300,
-      "matches": 4,
-      "note": "1 busca(s), 300 resultado(s), 4 candidato(s) ao painel.",
+      "matches": 16,
+      "note": "1 busca(s), 300 resultado(s), 16 candidato(s) ao painel.",
       "error": null
     },
     {
       "board": "linkedin",
       "ok": true,
       "listed": 180,
-      "matches": 12,
-      "note": "18 busca(s), 180 resultado(s), 12 candidato(s) ao painel.",
+      "matches": 18,
+      "note": "18 busca(s), 180 resultado(s), 18 candidato(s) ao painel.",
       "error": null
     },
     {
       "board": "indeed",
       "ok": true,
-      "listed": 131,
-      "matches": 29,
-      "note": "18 busca(s), 131 resultado(s), 29 candidato(s) ao painel.",
+      "listed": 132,
+      "matches": 22,
+      "note": "18 busca(s), 132 resultado(s), 22 candidato(s) ao painel.",
       "error": null
     }
   ],
   "jobs": [
+    {
+      "url": "https://estagio-e-trainee-infnet.gupy.io/job/eyJqb2JJZCI6MTI2MDE1MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+      "board": "gupy",
+      "sources": [
+        "gupy"
+      ],
+      "sourceUrls": [
+        "https://estagio-e-trainee-infnet.gupy.io/job/eyJqb2JJZCI6MTI2MDE1MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0="
+      ],
+      "title": "Estágio em Gestão de Processos e Projetos",
+      "company": "Instituto Infnet - Venha ser estagiário ou trainee!",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brasil",
+      "state": "",
+      "mode": "hybrid",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-09-25T17:19:18.750Z",
+      "evidence": "Estágio em Gestão de Processos e Projetos, para alunos de graduação em Administração, Economia ou Engenharias;Trabalho híbrido, com um dia presencial, no Centro do Rio, pertinho da estação Carioca do metrô.De segunda a sexta-feira, seis horas diárias, em horário flexível.Para estagiar e crescer no Instituto Infnet, uma faculdade com foco em Engenharias Tech, Ciência de Dados, Comunicação e Design Digital.Oportunidade de cont",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://sinergiaeducacao.gupy.io/job/eyJqb2JJZCI6MTI1MTQyMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+      "board": "gupy",
+      "sources": [
+        "gupy"
+      ],
+      "sourceUrls": [
+        "https://sinergiaeducacao.gupy.io/job/eyJqb2JJZCI6MTI1MTQyMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0="
+      ],
+      "title": "Estágio em Marketing | Sinergia Educação",
+      "company": "Sinergia Educação",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-09-23T17:07:39.533Z",
+      "evidence": "…dade escolar.Estamos em busca de um estagiário para se juntar à nossa equipe de Marketing no grupo Sinergia Educação.O candidato ideal deve possuir conhecimento em marketing digital ou ser heavy user, e ter habilidades em criação de conteúdo.Temos um ótimo espaço para desenvolvimento e uma alta taxa de contratação!Responsabilidades e atribuiçõesAuxiliar na elaboração de campanhas de marketing;Criar conteúdo para redes sociais e outros canais de c",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6247618&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6247618&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "BASE IMOVEL",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Acompanhamento do atendimento ao telefone Apoiar na inserção e atualização de dados no sistema Auxiliar na analise do imóvel",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6247475&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6247475&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "AVIV TERAPIAS INTEGRADAS MULTIDISCIPLINARES LTDA",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Atividades de psicologia e psicanálise Acessar arquivos diversos e auxiliar na execução de rotinas da área Analisar documentos e planilhas Atuar no atendimento telefônico ao cliente",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6247460&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6247460&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Marketing",
+      "company": "CONEXAO RIO TELECOMUNICACOES LTDA",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Marketing Serviços de comunicação multimídia - SCM Auxiliar no atendimento ao cliente Fazer atendimento ao cliente Auxiliar na execução de rotinas da área",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6247458&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6247458&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Marketing",
+      "company": "CURSO SUPERMODULOS",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Marketing Auxiliar na organização de planilhas de controle Auxiliar no atendimento ao cliente Auxiliar no controle de leads gerados na atividades entre outras atividades pertinentes ao cargo",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6247452&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6247452&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "AVIV TERAPIAS INTEGRADAS MULTIDISCIPLINARES LTDA",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Atividades de psicologia e psicanálise Acessar arquivos diversos e auxiliar na execução de rotinas da área Analisar documentos e planilhas Atuar no atendimento telefônico ao cliente",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6247405&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6247405&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "MRCRED",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários Acessar arquivos diversos e auxiliar na execução de rotinas da área Atuar no atendimento telefônico ao cliente Auxiliar no controle de planilhas Auxiliar no suporte administrativo e operacional",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6247387&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6247387&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Marketing",
+      "company": "MULTIMEIOS MULTIPARQUE COMERCIO DE BRINQUEDOS LTDA",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Marketing Acompanhar as planilhas de atividades de marketing planejadas (calendário de marketing) Atuar no suporte em edição de vídeos Auxiliar no atendimento ao cliente Auxiliar na confeccao de posts para as redes sociais",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6247176&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6247176&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Marketing",
+      "company": "FORLAB, FORLABEXPRESS E PIPETEXPRESS",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Marketing Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios Acompanhar a criação, desenvolvimento, produção e divulgação das atividades de marketing Atualizar o CRM da empresa Auxiliar na execução de rotinas da área",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6246939&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6246939&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa - TÉC.",
+      "company": "CSDISEL",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa - TÉC. Serviços de manutenção e reparação mecânica de veículos automotores Analisar situação de clientes e orienta-los sobre serviços e procedimentos Auxiliar nas atividades administrativas do setor Emitir documentos, relatórios, planilhas ou formulários diversos",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6246695&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6246695&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "PRADO ASSESSORIA - PREDIAC",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Gestão e administração da propriedade imobiliária Atender e realizar ligações telefônicas direcionadas a área Auxiliar na preparação e digitação de lançamentos contábeis Verificar e responder as solicitações dos clientes via telefone, e-mail e whatsapp Apoiar no atendimento aos clientes internos e externos",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6245886&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6245886&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "ORGANIZACAO CONTABIL ADELINO MOTTA LTDA",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Atividades de contabilidade Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar e conferir processos Analisar documentos e planilhas",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6245745&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6245745&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "CREFITO 2",
+      "city": "RIO DE JANEIRO, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Atividades de fiscalização profissional ELABORAR TEXTOS EXECUTAR PLANILHAS RESPONDER EXPEDIENTES, ATENDER TELEFONE na rotina Operacional",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6245521&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6245521&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "LABORCLIN PROD PARA LABORATORIOS LIMITADA",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Cadastrar follow-up de pedidos de compras Realizar o auxilio no controle de prazos, vencimentos e operações Apoiar a area operacional para interface com area de compras Apoiar a contratacao de fornecedores junto ao setor de compras Atualizar planilhas de indicadores e elaboração de relatorios Apoiar efetivamente nas cotações junto a fornecedores e follo",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6245345&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6245345&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa - TÉC.",
+      "company": "PRADO ASSESSORIA - PREDIAC",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa - TÉC. Gestão e administração da propriedade imobiliária Ajudar no atendimento de telefone e de público Auxiliar na conferencia de lançamentos ou documentos contábeis Auxiliar nas atividades administrativas do setor",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6245224&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6245224&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "CLINICA SERMOS TERAPIAS INDIVIDUALIZADAS LTDA",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar o atendimento ao cliente Auxiliar a digitalizar e organizar documentos",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6245223&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6245223&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "CRD - CENTRO DE REFERENCIA DIGITAL",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Auxiliar na elaboração de relatórios Realizar atividade supervisionada de aprendizado no auxilio de controle de estoque Realizar atividades de apoio administrativo",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4434186890",
+      "board": "linkedin",
+      "sources": [
+        "linkedin"
+      ],
+      "sourceUrls": [
+        "https://www.linkedin.com/jobs/view/4434186890"
+      ],
+      "title": "Wealth Management - Client Account Manager Internship (Rio de Janeiro)",
+      "company": "UBS",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "RI mencionada no anúncio — conferir requisitos",
+      "compatibility": "requirements",
+      "deadline": null,
+      "published": "2026-09-15T00:00:00.000",
+      "evidence": "Job Type Part Time Job Reference # 340548BR City Rio de Janeiro Key Responsibilities Are you a communicative person who would like to help us to enhance our client experience? We’re looking for a Client Account Manager to: assist client daily requests in an agile and efficient manner control the repapering process and all documents required for an account operation coordinate demands between key stakeholders to provide ensure the quality of clien",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4470169617",
+      "board": "linkedin",
+      "sources": [
+        "linkedin"
+      ],
+      "sourceUrls": [
+        "https://www.linkedin.com/jobs/view/4470169617"
+      ],
+      "title": "Estagiario Comercial de Seguro Auto",
+      "company": "Lograr Seguros",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "🚀 Oportunidade de Estágio Comercial de Novos Seguros Você é comunicativo(a), gosta de conversar com pessoas e tem vontade de aprender vendas e negócios? Estamos procurando estagiários com atitude comercial, proatividade e interesse em desenvolver uma carreira na área de seguros e proteção financeira. 📌 Principais atividades: • Apoio na prospecção de novos clientes; • Contato telefônico e digit",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4470160489",
+      "board": "linkedin",
+      "sources": [
+        "linkedin"
+      ],
+      "sourceUrls": [
+        "https://www.linkedin.com/jobs/view/4470160489"
+      ],
+      "title": "Estágiario(a) Comercial",
+      "company": "ABdata",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "VAGA DE ESTÁGIO COMERCIAL Atribuições do estágio: Localizar e qualificar leads; Agendar reuniões por telefone, e-mail e WhatsApp para o comercial; Apoio em pré-vendas e pós-vendas; Enviar e elaborar propostas; Atualizar planilhas e relatórios; Suporte em negociações e contratos. Horário: Segunda a sexta, das 09h às 16h, com 1h de almoço. Endereço: Escritório na Av. das Américas, 12.6",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://careers.worldpackers.com/jobs/8441204-estagio-em-community-support-customer-support",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=a4fadc8f25ab44c2"
+      ],
+      "title": "Estágio em Community Support (Customer Support)",
+      "company": "Worldpackers",
+      "city": "São Paulo, SP, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "RI mencionada no anúncio — conferir requisitos",
+      "compatibility": "requirements",
+      "deadline": null,
+      "published": "2026-09-23T00:00:00.000",
+      "evidence": "… Estar cursando ensino superior em: Psicologia, Letras, Administração, Turismo, Relações Internacionais, Comunicação, ou áreas correlatas. Interesse por atendimento ao cliente, comunidade e experiência do usuário Diferenciais Interesse por viagens, intercâmbio cultural e economia colaborativa Experiência prévia com atendimento, voluntariado, projetos estudantis ou comunidades Ferramentas e habilidades que você vai desenvolver Hubspot (CRM & Helpd",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://buscas.taqe.com.br/vacancies/fapes-estagio-administracao-ou-economia?jobid=v-6ab3d90e963aa5f0343d5047-u-6426e00ab5612764dfa9117a&source=Indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=321a15aab0d669b3"
+      ],
+      "title": "FAPES - ESTÁGIO - ADMINISTRAÇÃO OU ECONOMIA",
+      "company": "Ciee One Rio de Janeiro",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-09-23T00:00:00.000",
+      "evidence": "Descrição da vaga: O CIEE Rio busca estudantes de Administração ou Economia cursando 3º ao 5º período para estágio na empresa Local Centro - RJ Modalidade 4x presencial e 1x homeoffice Bolsa R 209600 Benefícios Auxílio transporte Auxílio Refeição R 84800 mensal Assistência Médica e Wellhub Gympass TotalPass e parceria com o SESC Candidate-se e dê o próximo passo na sua carreira Fique atentoa ao e-mail para acompanhar",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.jobbol.com.br/vaga/29387022161",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=1084cb53d7a393e3"
+      ],
+      "title": "ESTAGIÁRIO NA ÁREA DE ADMINISTRAÇÃO DE EMPRESAS - Vila da Penha - Sem experiência (Ultra+ RH Consultoria)",
+      "company": "Jobbol",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-09-24T00:00:00.000",
+      "evidence": "Consultoria de recursos humanos busca profissional Estagiário na área de Administração de Empresas em Rio de Janeiro (Vila da Penha). A Ultra+ RH é uma consultoria de RH ágil e especializada. Seus serviços são focados em: terceirização da folha de pagamento, recrutamento e seleção e contratação de estagiários. Trazem também soluções personalizadas que atendam às necessidades das empresas. O que importa para a Ultra+ RH é gerar aquisição de",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.jobbol.com.br/vaga/29387002967",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=62201c5cba8edd48"
+      ],
+      "title": "ESTAGIÁRIO TÉCNICO NA ÁREA DE ADMINISTRAÇÃO DE EMPRESAS - Barra da Tijuca - Sem experiência (Ultra+ RH Consultoria)",
+      "company": "Jobbol",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-09-24T00:00:00.000",
+      "evidence": "…onsultoria de recursos humanos busca profissional Estagiário Técnico na área de Administração de Empresas em Rio de Janeiro (Barra da Tijuca). A Ultra+ RH é uma consultoria de RH ágil e especializada. Seus serviços são focados em: terceirização da folha de pagamento, recrutamento e seleção e contratação de estagiários. Trazem também soluções personalizadas que atendam às necessidades das empresas. O que importa para a Ultra+ RH é gerar aquisição ",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://prd-pc1.lg.com.br/Vagas/c/2F030BBB-5AAD-4D5C-885A-152012CFAA4B/p/portaldocandidatoamarante/pt-BR/Vaga/Divulgacao?codigo=onLFBDO3Haw%3D",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=f9f792fcaf2cfc76"
+      ],
+      "title": "Estagiário de Suprimentos",
+      "company": "Amarante Hospitalidade",
+      "city": "Recife, PE, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-09-24T00:00:00.000",
+      "evidence": "…ara fazer a diferença no dia a dia. O que a gente espera do(a) Estagiário(a) de Suprimentos? Você está cursando Administração, Engenharia de Produção, Engenharia Civil, Logística ou áreas correlatas? Tem disponibilidade para estagiar conforme a carga horária estabelecida pela empresa? Possui conhecimento básico em Pacote Office, especialmente Excel? Tem organização e atenção aos detalhes? Possui capacidade de analisar e interpretar informações? T",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://atracaodetalentos.totvs.app/vagasolor/159/estagiario-comercial",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=f27ef22b1b56da5b"
+      ],
+      "title": "Estagiário Comercial",
+      "company": "SOLOR TECNOLOGIA",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "hybrid",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-09-24T00:00:00.000",
+      "evidence": "Estagiário Comercial Solor Tecnologia | Rio de Janeiro - RJ | Híbrido Descrição da vaga Buscamos um(a) Estagiário(a) Comercial para integrar o time da Solor e apoiar o desenvolvimento de novos negócios no mercado corporativo.A posição é ideal para quem deseja iniciar a carreira em Vendas B2B e Tecnologia , tendo contato com clientes, executivos comerciais, pré-vendas e diferente",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.jobbol.com.br/vaga/29387003048",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=fab1c07c839efb0e"
+      ],
+      "title": "ESTAGIÁRIO NA ÁREA DE ADMINISTRAÇÃO - Barra Olímpica - Sem experiência (Grenache)",
+      "company": "Jobbol",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-09-24T00:00:00.000",
+      "evidence": "Empresa de Logística busca profissional Estagiário na área de Administração em Rio de Janeiro (Barra Olímpica). A Grenache Importação, Logística e Distribuição é uma empresa sediada no Rio de Janeiro que atua no comércio atacadista conectando indústrias e o varejo. Ela fornece um portfólio variado de produtos de linha seca, alimentos e bebidas para abastecer mercearias, comércios e pontos de venda. Responsabilidades: Auxiliar no",
+      "firstSeen": "2026-09-25T19:27:31.354398+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
     {
       "url": "https://meliuz.gupy.io/job/eyJqb2JJZCI6MTI1Mzg4ODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
       "board": "gupy",
@@ -66,7 +794,7 @@
       "evidence": "…a e seja parte da nossa história!Estamos em busca demais uma pessoa para o time comercial da Méliuz! Queremos formar talentos que tenham brilho nos olhos, vontade de aprender e interesse em seguir carreira na área de vendas. Aqui, você vai ter a oportunidade de apoiar nas rotinas do time comercial, aprender na prática como funciona a nossa operação, se desenvolver em um ambiente dinâmico e colaborativo e, quem sabe, se tornar nosso próximo(a) exe",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -91,7 +819,7 @@
       "published": "2026-09-21T19:29:55.809Z",
       "evidence": "…nto de projetos e demandas das áreas. Requisitos e qualificações Estar cursando graduação em Administração, Economia, Engenharia, Estatística, Marketing, Ciência de Dados, TI, ou áreas correlatadas.Previsão de formatura à partir de junho/julho de 2028.Conhecimento intermediário de Excel e PowerPoint.Noções de Power BI.Inglês e Espanhol serão considerados um diferencial.Interesse por análise de dados, comportamento do consumidor e inteligência de ",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -117,7 +845,7 @@
       "published": "2026-09-21T17:45:16.210Z",
       "evidence": "Estamos em busca de um profissional para reforçar nosso time!No Grupo Bancorbrás, cada ideia é bem-vinda, e valorizamos pessoas proativas, criativas e protagonistas, movidas pela centralidade no cliente, excelência, transparência e diversidade.Se você gosta de trabalhar em um ambiente colaborativo, diverso e inovador, venha contribuir com nossa equipe e fazer a diferença!Faça parte de uma empresa sólida, humana e que transforma projetos de vida e",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -143,7 +871,7 @@
       "published": "2026-09-18T20:54:21.040Z",
       "evidence": "Apoiar a equipe comercial na geração de demanda, qualificação de oportunidades, prospecção ativa de clientes, manutenção do CRM e execução dos processos administrativos da área comercial. A posição contribuirá para o crescimento sustentável do pipeline, para a disciplina de execução do time e para a construção de relacionamento com prospects, desde a prospecção até o acompanhamento c",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -169,7 +897,7 @@
       "published": "2026-09-18T13:19:35.702Z",
       "evidence": "A BAT é um grupo global em plena transformação. Com uma trajetória consolidada pela liderança no mercado de tabaco, o grupo amplia sua atuação para outras frentes de negócio, guiado pelo propósito de construir Um Amanhã Melhor (A Better Tomorrow).Responsabilidades e atribuições Atualização e acompanhamento de indicadores e relatórios comerciais.Consolidação e análise de bases de dados para geração de insights.Acompanhamento de performance: apoiar",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -195,7 +923,7 @@
       "published": "2026-09-17T12:49:49.364Z",
       "evidence": "Estágio de Marketing Digital Growth e IA, para alunos de graduação em Publicidade e Propaganda, Marketing, Economia, Engenharias ou áreas afins.COMO É A OPORTUNIDADE?Estágio de seis horas diárias, em horário a combinar, de segunda a sexta-feira.Trabalho híbrido, atualmente com um dia presencial,no Centro do Rio, pertinho da estação Carioca do metrô.Oportunidade para crescer no I",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -222,7 +950,7 @@
       "evidence": "…ssado;Tem interesse em aprender e se desenvolver nas atividades relacionadas ao comercial;Tem paixão por televisão e, sobretudo, pelo SBT!Disponibilidade para atuar no formato presencial no SBT/Rio de Janeiro Informações adicionais💰Bolsa auxilio às práticas de mercado;🍕Vale Refeição;💪Wellhub;🏊‍♂️SESC;🚍Auxilio Transporte;😊Programas de apoio psicológico, nutricional e ergonomia;💡Treinamentos, lives e outros conteúdos para turbinar o conhecimento;",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -248,7 +976,7 @@
       "evidence": "Administrativa Consultoria em tecnologia da informação Elaboração de planilhas e documentos na elaboração de documentos Realizar pesquisa de mercado (Estimativa de Preços);",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -274,7 +1002,7 @@
       "evidence": "Administrativa Acompanhar o trabalho de auditoria Analisar documentos e planilhas Auxiliar no lançamento de dados em sistema",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -300,7 +1028,7 @@
       "evidence": "Administrativa Acessar arquivos diversos e auxiliar na execução de rotinas da área Analisar documentos e planilhas Auxiliar na rotina administrativa",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -326,7 +1054,7 @@
       "evidence": "Administrativa Correspondentes de instituições financeiras Acessar arquivos diversos e auxiliar na execução de rotinas da área Analisar documentos e planilhas Atualizar planilhas de controle",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -351,7 +1079,7 @@
       "published": "2026-09-21T00:00:00.000",
       "evidence": "…ração de relatórios financeiros para revisão do CFO. Requisitos e qualificações Cursando Economia, Engenharia, Ciências Contábeis ou Administração, a partir do 4º período, com previsão de conclusão em pelo menos 12 meses; Ter cursado disciplinas básicas de Matemática e Estatística; Conhecimento avançado em Excel, incluindo conferência de fórmulas e identificação de inconsistências; Conhecimento para leitura e interpretação de Demonstração do Resu",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -377,7 +1105,7 @@
       "published": "2026-09-21T00:00:00.000",
       "evidence": "…ontratos, sistema de gestão e controles financeiros. Requisitos e qualificações Cursando Economia, Engenharia, Ciências Contábeis ou Administração, a partir do 4º período, com previsão de conclusão em pelo menos 12 meses; Ter cursado disciplinas básicas de Matemática e Estatística; Conhecimento avançado em Excel, incluindo conferência de fórmulas e identificação de inconsistências; Conhecimento para leitura e interpretação de Demonstração do Resu",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -403,7 +1131,7 @@
       "published": "2026-09-15T00:00:00.000",
       "evidence": "Estágio em ambiente corporativo, com atuação prática em marketing digital, redes sociais, criação de conteúdo, campanhas, mídia paga e análise de resultados . Buscamos alguém que queira aprender e crescer profissionalmente, participando de projetos reais e acompanhando de perto estratégias de marketing, aquisição de clientes e desenvolvimento de novas marcas e negócios. A vaga possui possibilidade real de: efetivação e bôn",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -429,7 +1157,7 @@
       "published": "2026-09-02T00:00:00.000",
       "evidence": "NOSSOS COLABORADORES SÃO A ALMA DA TACO O respeito está no nosso DNA e, por isso, é extremamente disseminada pela empresa entre seus colaboradores. Estimulamos todos a agirem da forma adequada diante de cada situação. Nossos atributos servem como uma bússola para as nossas ações e descrevem como nos comportarmos no mundo. Se identificou? Venha fazer parte do time que é Todo Mundo. Todo Dia! Responsabilidades e atribuições Enviar e acompanhar bole",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -455,7 +1183,7 @@
       "published": "2026-09-10T00:00:00.000",
       "evidence": "…ões Requisitos Ensino Superior em andamento em Administração, Gestão Comercial, Relações Internacionais, Marketing ou áreas correlatas; Excel intermediário; Facilidade com tecnologia. Será um diferencial Experiência anterior em vendas, prospecção, atendimento comercial ou relacionamento com clientes; Vivência em vendas B2B; Conhecimento em CRM (HubSpot ou similares). Ferramentas utilizadas Plataforma IClass; HubSpot; Discord. Todo o treinamento s",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -481,7 +1209,7 @@
       "published": "2026-08-11T00:00:00.000",
       "evidence": "…as e apaixonadas por relacionamento com clientes para fazer parte do nosso time Comercial. Se você gosta de trabalhar com pessoas, possui facilidade de comunicação, é organizado(a), gosta de desafios e deseja desenvolver uma carreira nas áreas Comercial, Marketing e Atendimento, essa oportunidade é para você. Aqui, você terá contato direto com estratégias de captação de alunos, atendimento comercial, relacionamento com clientes, marketing digital",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -507,7 +1235,7 @@
       "published": "2026-09-18T00:00:00.000",
       "evidence": "Sobre a EnvironPact A EnvironPact Sustentabilidade e Resiliência é parte da OceanPact, uma companhia 100% brasileira que desenvolve e implanta soluções seguras, eficientes e inovadoras nas áreas de meio ambiente, operações submarinas e apoio logístico e engenharia. Somos uma consultoria especializada e interdisciplinar em avaliação e gerenciamento de riscos, meio ambiente, e emergências e crises. Ofer",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -533,7 +1261,7 @@
       "published": "2026-09-10T00:00:00.000",
       "evidence": "…ões Requisitos Ensino Superior em andamento em Administração, Gestão Comercial, Relações Internacionais, Marketing ou áreas correlatas; Excel intermediário; Facilidade com tecnologia. Será um diferencial Experiência anterior em vendas, prospecção, atendimento comercial ou relacionamento com clientes; Vivência em vendas B2B; Conhecimento em CRM (HubSpot ou similares). Ferramentas utilizadas Plataforma IClass; HubSpot; Discord. Todo o treinamento s",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -559,7 +1287,7 @@
       "published": "2026-09-09T00:00:00.000",
       "evidence": "…nhias aéreas e marítimas Se você é estudante de Comércio Exterior, Logística ou Relações internacionais e tem interesse em fazer parte do time da ILS Cargo, faça seu cadastro!",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -585,7 +1313,7 @@
       "published": "2026-09-17T00:00:00.000",
       "evidence": "…vas, despesas e processos de compras; Facilidade para compreender, demonstrar e comercializar plataformas digitais, integrações, automações e soluções baseadas em tecnologia; Conhecer e executar as práticas SGI estabelecidas na empresa. Requisitos e qualificações Hard Skills: Ensino Superior completo; Experiência na área Comercial de Turismo; Vivência com prospecção ativa e desenvolvimento de negócios; Conhecimento em CRM; Disponibilidade para vi",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -611,7 +1339,7 @@
       "published": "2026-09-15T00:00:00.000",
       "evidence": "… e profissionais na construção e no desdobramento de campanhas e iniciativas de marketing; Participar de brainstormings e contribuir com ideias, referências e novos formatos de conteúdo; Apoiar pesquisas de mercado, concorrência, público e tendências que contribuam para a produção dos conteúdos; Acompanhar o desempenho dos conteúdos e realizar otimizações a partir dos resultados e aprendizados; Utilizar ferramentas de IA como apoio à pesquisa, cr",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -637,7 +1365,7 @@
       "published": "2026-09-15T00:00:00.000",
       "evidence": "…elaboração de brindes e contratação de fornecedores; Auxiliar nas atividades de marketing pré, durante e pós-evento, relativas a eventos próprios e patrocinados; Auxiliar no planejamento de eventos (prazo, local, participantes, orçamento, etc); Apoiar nas pesquisas de fornecedores para os eventos; Acompanhamento dos eventos in loco, sempre que necessário; Flexibilidade de horário de trabalho; Conhecer e executar as práticas SGI estabelecidas na e",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -663,7 +1391,7 @@
       "published": "2026-09-15T00:00:00.000",
       "evidence": "…ão, Logística, Engenharia de Produção, Ciências Econômicas, Ciências Contábeis, Comércio Exterior ou áreas correlatas; Cursando a partir do 4º período; Disponibilidade para estagiar 30h semanais (manhã/tarde); Disponibilidade para atuar 100% presencial; Pacote Office. Informações adicionais Oferecemos o Vale-Alimentação pela Swile, um cartão flexível; Falando em Saúde, oferecemos Assistência Médica e Seguro de Vida em Grupo; Também oferecemos ass",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -689,7 +1417,7 @@
       "published": "2026-08-26T00:00:00.000",
       "evidence": "…em de dados; Interesse ou vivência prévia em propriedade intelectual, inovação, comércio exterior ou mercado jurídico. Informações adicionais Por que trabalhar na Daniel? Somos um dos principais escritórios de Propriedade Intelectual e Direito de Tecnologia, Privacidade e Proteção de Dados do Brasil. Para alcançar esse lugar a nossa história foi composta por ações que atendem aos nossos colaboradores e clientes. \"Somos capacitados para atender no",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -715,7 +1443,7 @@
       "published": "2026-09-02T00:00:00.000",
       "evidence": "…manos, Ciências Econômicas, Ciências Contábeis, Matemática, Direito, Logística, Comércio Exterior, Comunicação Social (Jornalismo, Publicidade e Propaganda, Relações Públicas) e Marketing. Cursos elegíveis: Mecânica, Mecatrônica, Elétrica, Eletrônica, Eletrotécnica, Eletroeletrônica e Química. Benefícios Bolsa-auxílio Programa de desenvolvimento e treinamentos Seguro de vida Assistência médica e odontológica Vale refeição ou restaurante no local ",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -742,7 +1470,7 @@
       "evidence": "…ontratos, sistema de gestão e controles financeiros. Requisitos e qualificações Cursando Economia, Engenharia, Ciências Contábeis ou Administração, a partir do 4º período, com previsão de conclusão em pelo menos 12 meses; Ter cursado disciplinas básicas de Matemática e Estatística; Conhecimento avançado em Excel, incluindo conferência de fórmulas e identificação de inconsistências; Conhecimento para leitura e interpretação de Demonstração do Resu",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -768,7 +1496,7 @@
       "evidence": "…ração de relatórios financeiros para revisão do CFO. Requisitos e qualificações Cursando Economia, Engenharia, Ciências Contábeis ou Administração, a partir do 4º período, com previsão de conclusão em pelo menos 12 meses; Ter cursado disciplinas básicas de Matemática e Estatística; Conhecimento avançado em Excel, incluindo conferência de fórmulas e identificação de inconsistências; Conhecimento para leitura e interpretação de Demonstração do Resu",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -794,7 +1522,7 @@
       "evidence": "Descrição da vaga: O CIEE Rio em parceria com a FGV busca estudantes de Administração com disponibilidade para estagiar por 6h diárias em Botafogo - RJ Grade Horária: Segunda-feira das 1100 até 1800 Terça-feira das 1100 até 1800 Quarta-feira das 1100 até 1800 Quinta-feira das 1100 até 1800 Sexta-feira das 1100 até 1800 Atividades: Atuar nas atividades que envolvem inventário e controle de estoque;,Atuar nas atividades que envolvem a gestã",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -819,7 +1547,7 @@
       "published": "2026-09-22T00:00:00.000",
       "evidence": "Vem ser RJZCyrela / Seller e transforme o futuro com a gente! Na Cyrela, transformamos espaços e criamos experiências únicas que encantam e inspiram. Com mais de 60 anos de história, estamos sempre em busca de inovação e sustentabilidade, oferecendo soluções diferenciadas no setor imobiliário. Valorizamos o potencial das pessoas e acreditamos que, juntos, podemos construir um futuro melhor. Se você é apaixonado por transformar, colaborar e fazer ",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -846,7 +1574,7 @@
       "evidence": "…a você. Sua missão: Apoiar as rotinas operacionais e administrativas da área de Logística, contribuindo para o acompanhamento dos pedidos, movimentação de mercadorias, controles e indicadores, garantindo organização, precisão das informações e suporte eficiente aos processos logísticos da empresa. O que você vai fazer no dia a dia: Apoiar o acompanhamento de pedidos, separações, expedições e entregas; Auxiliar no controle de entrada e saída de me",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -872,7 +1600,7 @@
       "evidence": "…specializado em recuperação de crédito busca profissional Estagiário na área de Administração em Rio de Janeiro (Centro). Responsabilidades: Realizar o contato direto com clientes para negociação de dívidas e fechamento de acordos. Atuar constantemente via telefone, e-mail e WhatsApp. Utilizar estratégica de argumentos para recuperação de crédito de forma empática e resolutiva. Executar rotinas administrativas, envolvendo atualização de sistemas ",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -898,7 +1626,7 @@
       "evidence": "Descrição da vaga: Empresa no ramo de comércio automotivo contrata estagiário de Administração para atuar em Bangu Horários Segunda a sexta de 08h às 14h ou 12h às 18h Grade Horária: Segunda-feira das 0800 até 1400 Terça-feira das 0800 até 1400 Quarta-feira das 0800 até 1400 Quinta-feira das 0800 até 1400 Sexta-feira das 0800 até 1400 Atividades: Auxiliar a equipe nas demandas operacionais do setor de Vendas.,Apoiar na organização de arquivo.,Aux",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -923,7 +1651,7 @@
       "published": "2026-09-22T00:00:00.000",
       "evidence": "… Ensino Superior em Direito, Administração, Gestão Pública, Ciências Contábeis, Relações Internacionais ou áreas correlatas. Graduação no final de 2027 ou em 2028. Perfil altamente organizado, operacional e focado em detalhes essenciais para a análise de editais. Boa comunicação escrita e capacidade analítica, com Velocidade e adaptabilidade para aprender em um ambiente de ritmo acelerado. Conhecimento intermediário do Pacote Office (especialment",
       "firstSeen": "2026-09-23T01:55:52.857158+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -949,7 +1677,7 @@
       "published": "2026-09-17T00:00:00.000",
       "evidence": "…genharia de Produção Gestão de RH Gestão de Tecnologia da Informação Psicologia Relações Internacionais Previsão de conclusão de curso a partir de 2028.2 ou 2029.1; Residir na cidade do Rio de Janeiro/RJ; Ter conhecimento avançado em pacote office; Ter nível de inglês avançado ou fluente; Ter disponibilidade de 30 horas semanais, e 6 horas por dia, para estagiar. Informações adicionais Bolsa competitiva Plano de Saúde e Odontológico Bradesco Vale",
       "firstSeen": "2026-09-23T01:55:52.857158+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -1001,7 +1729,7 @@
       "evidence": "…ão, Logística, Engenharia de Produção, Ciências Econômicas, Ciências Contábeis, Comércio Exterior ou áreas correlatas;Cursando a partir do 4º período;Disponibilidade para estagiar 30h semanais (manhã/tarde);Disponibilidade para atuar 100% presencial;Pacote Office.Informações adicionaisOferecemos o Vale-Alimentação pela Swile, um cartão flexível;Falando em Saúde, oferecemos Assistência Médica e Seguro de Vida em Grupo;Também oferecemos assistência",
       "firstSeen": "2026-09-23T01:22:23.680505+00:00",
       "lastSeen": "2026-09-23T02:06:16.498618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -1052,7 +1780,7 @@
       "published": "2026-09-17T00:00:00.000",
       "evidence": "…nais da área de Comércio Exterior. Requisitos: Superior cursando Administração, Relações Internacionais, Comércio Exterior ou áreas correlatas Inglês Avançado Pacote Office Intermediário Previsão de formação a partir de jun/2028 Cursando o período noturno Local: Rio de Janeiro - RJ Modelo Híbrido Nós lhe propomos: Fazer parte de uma empresa global, líder de mercado. Ser parte de um time com expertise neste segmento que amam o que fazem! Oportunid",
       "firstSeen": "2026-09-23T01:02:33.019891+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -1078,7 +1806,7 @@
       "published": "2026-08-20T00:00:00.000",
       "evidence": "…equisitos e qualificações Cursando Ciência Política, Direito, Ciências Sociais, Relações Internacionais ou áreas correlatas. A partir do 5º período. Pacote Office intermediário. Boa comunicação e capacidade de relacionamento. Perfil curioso, analítico, organizado e atento aos detalhes. Diferenciais Conhecimento em Siga Lei ou ferramentas de monitoramento legislativo; Interesse ou conhecimento em Inteligência Artificial, incluindo criação de promp",
       "firstSeen": "2026-09-23T00:56:37.332002+00:00",
-      "lastSeen": "2026-09-23T02:06:16.498618+00:00",
+      "lastSeen": "2026-09-25T19:27:31.354398+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
