@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-25T19:27:31.354398+00:00",
+  "checkedAt": "2026-09-25T20:51:18.889629+00:00",
   "queries": [
     {
       "source": "gupy",
@@ -7,8 +7,8 @@
       "scope": "public",
       "received": 300,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 249,
-        "localização ou modalidade fora do recorte/insuficiente": 43,
+        "sem evidência de RI, cursos abertos ou área afim": 253,
+        "localização ou modalidade fora do recorte/insuficiente": 40,
         "banco de talentos": 1
       },
       "warnings": []
@@ -27,8 +27,8 @@
       "scope": "public",
       "received": 300,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 203,
-        "localização ou modalidade fora do recorte/insuficiente": 81
+        "sem evidência de RI, cursos abertos ou área afim": 209,
+        "localização ou modalidade fora do recorte/insuficiente": 78
       },
       "warnings": []
     },
@@ -352,9 +352,10 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 7,
         "link inválido": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 6,
-        "não confirmado como estágio": 2
+        "não confirmado como estágio": 1
       },
       "warnings": []
     },
@@ -376,10 +377,10 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 3,
         "não confirmado como estágio": 1,
         "sem evidência de RI, cursos abertos ou área afim": 1,
-        "link inválido": 4,
-        "localização ou modalidade fora do recorte/insuficiente": 2
+        "link inválido": 4
       },
       "warnings": []
     },
@@ -389,8 +390,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 6,
-        "link inválido": 2,
+        "sem evidência de RI, cursos abertos ou área afim": 7,
+        "link inválido": 1,
         "localização ou modalidade fora do recorte/insuficiente": 1
       },
       "warnings": []

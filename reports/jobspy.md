@@ -1,18 +1,34 @@
 # Radar RI · JobSpy
 
-Coleta: 2026-09-25T19:27:31.354398+00:00
+Coleta: 2026-09-25T20:51:18.889629+00:00
 
 Busca limitada às consultas configuradas; não representa todas as vagas disponíveis.
 
 ## Fontes
 
-- gupy: 1 busca\(s\), 300 resultado\(s\), 7 candidato\(s\) ao painel.
+- gupy: 1 busca\(s\), 300 resultado\(s\), 6 candidato\(s\) ao painel.
 - 99jobs: 1 busca\(s\), 0 resultado\(s\), 0 candidato\(s\) ao painel.
-- ciee: 1 busca\(s\), 300 resultado\(s\), 16 candidato\(s\) ao painel.
+- ciee: 1 busca\(s\), 300 resultado\(s\), 13 candidato\(s\) ao painel.
 - linkedin: 18 busca\(s\), 180 resultado\(s\), 18 candidato\(s\) ao painel.
-- indeed: 18 busca\(s\), 132 resultado\(s\), 22 candidato\(s\) ao painel.
+- indeed: 18 busca\(s\), 132 resultado\(s\), 20 candidato\(s\) ao painel.
 
-## Vagas encontradas (53)
+## Vagas encontradas (48)
+
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6247915&acesso=VITRINE_VAGA)
+
+CRD - CENTRO DE REFERENCIA DIGITAL · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Administrativa Acompanhar e fazer follow-up das ações de marketing Acompanhar o atendimento ao cliente Acompanhar processos administrativos Auxiliar na elaboração de documentos Auxiliar na organização de arquivos e documentos Auxiliar no controle de planilhas Elaborar propostas comerciais Realizar a manutenção de cadastros
+
+### [Estagiário\(a\) Administrativo\(a\) / DP](https://orthopride.gupy.io/job/eyJqb2JJZCI6MTI1Nzc0ODAsInNvdXJjZSI6ImluZGVlZCJ9)
+
+Orthopride · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Como estagiário \(a\) Administrativo \(a\) / DP, o candidato selecionado irá participar de rotinas administrativas, departamento pessoal e recrutamento e seleção da empresa. Se você é uma pessoa dinâmica e que gosta de estar em contato com outras pessoas, se conectar com as demais áreas, é organizada e proativa, essa é a vaga ideal! Responsabilidades e atribuições Apoiar as rotinas de Recrut
 
 ### [Estágio em Gestão de Processos e Projetos](https://estagio-e-trainee-infnet.gupy.io/job/eyJqb2JJZCI6MTI2MDE1MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
 
@@ -126,38 +142,6 @@ CREFITO 2 · RIO DE JANEIRO, RJ, Brasil · Não identificado
 
 Administrativa Atividades de fiscalização profissional ELABORAR TEXTOS EXECUTAR PLANILHAS RESPONDER EXPEDIENTES, ATENDER TELEFONE na rotina Operacional
 
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6245521&acesso=VITRINE_VAGA)
-
-LABORCLIN PROD PARA LABORATORIOS LIMITADA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Cadastrar follow-up de pedidos de compras Realizar o auxilio no controle de prazos, vencimentos e operações Apoiar a area operacional para interface com area de compras Apoiar a contratacao de fornecedores junto ao setor de compras Atualizar planilhas de indicadores e elaboração de relatorios Apoiar efetivamente nas cotações junto a fornecedores e follo
-
-### [Estágio em Administrativa - TÉC.](https://ciee.app/login?codigoVaga=6245345&acesso=VITRINE_VAGA)
-
-PRADO ASSESSORIA - PREDIAC · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa - TÉC. Gestão e administração da propriedade imobiliária Ajudar no atendimento de telefone e de público Auxiliar na conferencia de lançamentos ou documentos contábeis Auxiliar nas atividades administrativas do setor
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6245224&acesso=VITRINE_VAGA)
-
-CLINICA SERMOS TERAPIAS INDIVIDUALIZADAS LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar o atendimento ao cliente Auxiliar a digitalizar e organizar documentos
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6245223&acesso=VITRINE_VAGA)
-
-CRD - CENTRO DE REFERENCIA DIGITAL · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Auxiliar na elaboração de relatórios Realizar atividade supervisionada de aprendizado no auxilio de controle de estoque Realizar atividades de apoio administrativo
-
 ### [Wealth Management - Client Account Manager Internship \(Rio de Janeiro\)](https://www.linkedin.com/jobs/view/4434186890)
 
 UBS · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
@@ -189,22 +173,6 @@ Worldpackers · São Paulo, SP, BR · Remoto
 RI mencionada no anúncio — conferir requisitos. Fontes: indeed.
 
 … Estar cursando ensino superior em: Psicologia, Letras, Administração, Turismo, Relações Internacionais, Comunicação, ou áreas correlatas. Interesse por atendimento ao cliente, comunidade e experiência do usuário Diferenciais Interesse por viagens, intercâmbio cultural e economia colaborativa Experiência prévia com atendimento, voluntariado, projetos estudantis ou comunidades Ferramentas e habilidades que você vai desenvolver Hubspot \(CRM & Helpd
-
-### [FAPES - ESTÁGIO - ADMINISTRAÇÃO OU ECONOMIA](https://buscas.taqe.com.br/vacancies/fapes-estagio-administracao-ou-economia?jobid=v-6ab3d90e963aa5f0343d5047-u-6426e00ab5612764dfa9117a&source=Indeed)
-
-Ciee One Rio de Janeiro · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Descrição da vaga: O CIEE Rio busca estudantes de Administração ou Economia cursando 3º ao 5º período para estágio na empresa Local Centro - RJ Modalidade 4x presencial e 1x homeoffice Bolsa R 209600 Benefícios Auxílio transporte Auxílio Refeição R 84800 mensal Assistência Médica e Wellhub Gympass TotalPass e parceria com o SESC Candidate-se e dê o próximo passo na sua carreira Fique atentoa ao e-mail para acompanhar
-
-### [ESTAGIÁRIO NA ÁREA DE ADMINISTRAÇÃO DE EMPRESAS - Vila da Penha - Sem experiência \(Ultra+ RH Consultoria\)](https://www.jobbol.com.br/vaga/29387022161)
-
-Jobbol · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Consultoria de recursos humanos busca profissional Estagiário na área de Administração de Empresas em Rio de Janeiro \(Vila da Penha\). A Ultra+ RH é uma consultoria de RH ágil e especializada. Seus serviços são focados em: terceirização da folha de pagamento, recrutamento e seleção e contratação de estagiários. Trazem também soluções personalizadas que atendam às necessidades das empresas. O que importa para a Ultra+ RH é gerar aquisição de
 
 ### [ESTAGIÁRIO TÉCNICO NA ÁREA DE ADMINISTRAÇÃO DE EMPRESAS - Barra da Tijuca - Sem experiência \(Ultra+ RH Consultoria\)](https://www.jobbol.com.br/vaga/29387002967)
 
@@ -269,14 +237,6 @@ BAT Brasil · Rio de Janeiro, Rio de Janeiro, Brasil · Não identificado
 Área afim — confirmar se aceita RI. Fontes: gupy.
 
 A BAT é um grupo global em plena transformação. Com uma trajetória consolidada pela liderança no mercado de tabaco, o grupo amplia sua atuação para outras frentes de negócio, guiado pelo propósito de construir Um Amanhã Melhor \(A Better Tomorrow\).Responsabilidades e atribuições Atualização e acompanhamento de indicadores e relatórios comerciais.Consolidação e análise de bases de dados para geração de insights.Acompanhamento de performance: apoiar
-
-### [Estágio de Marketing Digital Growth e IA](https://estagio-mkt-infnet.gupy.io/job/eyJqb2JJZCI6MTI1MTI0NzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
-
-Programa de Estágio em Marketing do Instituto Infnet · Rio de Janeiro, Rio de Janeiro, Brasil · Híbrido
-
-Área afim — confirmar se aceita RI. Fontes: gupy.
-
-Estágio de Marketing Digital Growth e IA, para alunos de graduação em Publicidade e Propaganda, Marketing, Economia, Engenharias ou áreas afins.COMO É A OPORTUNIDADE?Estágio de seis horas diárias, em horário a combinar, de segunda a sexta-feira.Trabalho híbrido, atualmente com um dia presencial,no Centro do Rio, pertinho da estação Carioca do metrô.Oportunidade para crescer no I
 
 ### [Estágio em FP&A e Orçamento](https://www.linkedin.com/jobs/view/4469998241)
 
