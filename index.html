@@ -3,6 +3,7 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Radar RI · Estágios</title>
 <style>
+[hidden]{display:none!important}button:disabled{opacity:.6;cursor:wait}
 :root{font-family:system-ui,-apple-system,sans-serif;color:#172f32;background:#f5f5ef}*{box-sizing:border-box}body{margin:0}header{background:#143c3b;color:#fff;padding:30px max(24px,calc((100vw - 1120px)/2)) 48px}.brand{font-size:14px;letter-spacing:.15em;font-weight:700;color:#b4daca}h1{font-size:clamp(32px,5vw,54px);font-weight:600;letter-spacing:-.04em;max-width:740px;line-height:1.06;margin:32px 0 18px}header p{color:#d0e2db;max-width:680px;line-height:1.7}main{max-width:1168px;margin:auto;padding:28px 24px}label{display:block;font-size:13px;font-weight:600;margin:0 0 9px}.controls{display:flex;gap:16px;align-items:end;flex-wrap:wrap}.search{flex:1;min-width:210px}input,select{font:inherit;padding:13px;border:1px solid #b8c6bd;border-radius:8px;background:white;width:100%;color:#172f32}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0}button{font:inherit;font-size:14px;background:#fff;color:#23433b;padding:11px 15px;border:1px solid #bac9bf;border-radius:30px;cursor:pointer}button[aria-pressed=true]{background:#234d42;color:white;border-color:#234d42}button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #be7933;outline-offset:3px}.meta{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;font-size:13px;color:#50615a;margin:26px 0 15px}#cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.card{background:#fff;border:1px solid #d9e0d9;border-radius:12px;padding:25px;display:flex;flex-direction:column;gap:14px}.company{text-transform:uppercase;letter-spacing:.07em;font-size:12px;color:#607268;font-weight:700}.card h2{font-size:21px;line-height:1.35;margin:0}.tags{display:flex;flex-wrap:wrap;gap:7px}.tag{font-size:12px;padding:6px 10px;border-radius:6px;background:#edf1ec}.remote{background:#dcf0e7;color:#145d43}.hybrid{background:#e4eafd;color:#344c91}.on-site{background:#fff0d9;color:#7b5014}.unknown{background:#eee9f1;color:#645274}.evidence{font-size:14px;line-height:1.65;color:#57695f;margin:0}.details{font-size:12px;color:#5e6e65}.apply{margin-top:auto;padding-top:6px;font-size:14px;font-weight:650;color:#1f6651}.empty{padding:40px;background:#fff;border:1px dashed #b8c6bd;border-radius:12px;grid-column:1/-1}footer{font-size:12px;line-height:1.8;color:#5a6e64;border-top:1px solid #d3ded6;margin-top:30px;padding-top:20px}details{margin-top:15px}summary{cursor:pointer}#health{padding-left:18px}.muted{color:#bbcfc7;font-size:12px}@media(max-width:650px){#cards{grid-template-columns:1fr}header{padding-bottom:32px}.card{padding:20px}.meta{margin-top:20px}}
 #auth-box{background:#fff;border:1px solid #d9e0d9;border-radius:12px;padding:20px 25px;margin:22px 0}
 #auth-box h3{margin:0 0 12px;font-size:16px}
@@ -23,14 +24,16 @@
 <main><div id="source-status" role="status"></div><div class="controls"><div class="search"><label for="search">Buscar por cargo, empresa ou requisito</label><input id="search" type="search" placeholder="Ex.: comércio exterior, inglês, cooperação"></div><div><label for="relevance">Compatibilidade com RI</label><select id="relevance"><option value="all">Todas as compatibilidades</option><option value="requirements">RI mencionada no anúncio</option><option value="any-course">Todos os cursos</option><option value="related">Área afim · conferir</option></select></div></div>
 <div class="filters" role="group" aria-label="Filtrar por modalidade"><button data-mode="all" aria-pressed="true">Todas</button><button data-mode="remote" aria-pressed="false">Remoto</button><button data-mode="hybrid" aria-pressed="false">Híbrido</button><button data-mode="on-site" aria-pressed="false">Presencial</button><button data-mode="unknown" aria-pressed="false">Não identificado</button></div>
 <div id="auth-box">
-<h3>Área da equipe</h3>
+<h3>Minha conta</h3>
+<p>Crie sua conta para guardar vagas. O cadastro de oportunidades é reservado às pessoas autorizadas pela administração.</p>
 <div id="auth-status"></div>
 <form id="auth-form">
 <div><label for="auth-email">E-mail</label><input id="auth-email" type="email" required></div>
 <div><label for="auth-pass">Senha</label><input id="auth-pass" type="password" minlength="6" required></div>
 <div id="auth-actions"><button type="button" id="btn-cadastrar">Cadastrar</button><button type="button" id="btn-entrar">Entrar</button></div>
 </form>
-<div id="auth-msg"></div>
+<div id="auth-msg" role="status"></div>
+<div id="account-area" hidden><p id="access-label"></p><button id="all-jobs" type="button" aria-pressed="true">Todas as vagas</button> <button id="saved-jobs" type="button" aria-pressed="false">Minhas vagas salvas</button></div>
 </div>
 <div id="manual-section" hidden>
 <h3>Cadastrar vaga manualmente</h3>
@@ -91,13 +94,48 @@ document.querySelector('#btn-entrar').addEventListener('click', () => {
     .catch(err => document.querySelector('#auth-msg').textContent = traduzErroAuth(err.code));
 });
 
+let canPublish = false, savedJobs = new Map(), savedOnly = false;
+let stopRole = () => {}, stopSaved = () => {}, session = 0;
+document.querySelector('#auth-form').addEventListener('submit', e => { e.preventDefault(); document.querySelector('#btn-entrar').click(); });
+for (const id of ['all-jobs', 'saved-jobs']) document.querySelector('#'+id).addEventListener('click', () => {
+  savedOnly = id === 'saved-jobs';
+  document.querySelector('#all-jobs').setAttribute('aria-pressed', String(!savedOnly));
+  document.querySelector('#saved-jobs').setAttribute('aria-pressed', String(savedOnly));
+  draw();
+});
 auth.onAuthStateChanged(user => {
+  const currentSession = ++session;
+  stopRole(); stopSaved(); canPublish = false; savedJobs.clear(); savedOnly = false;
+  document.querySelector('#account-area').hidden = !user;
+  document.querySelector('#auth-msg').textContent = '';
+  document.querySelector('#auth-pass').value = '';
+  document.querySelector('#all-jobs').setAttribute('aria-pressed', 'true');
+  document.querySelector('#saved-jobs').setAttribute('aria-pressed', 'false');
   const form = document.querySelector('#auth-form');
   const manual = document.querySelector('#manual-section');
   const status = document.querySelector('#auth-status');
   if (user) {
     form.hidden = true;
-    manual.hidden = false;
+    manual.hidden = true;
+    document.querySelector('#access-label').textContent = 'Acesso normal · você pode salvar vagas.';
+    stopRole = db.collection('publishers').doc(user.uid).onSnapshot(doc => {
+      if (session !== currentSession) return;
+      canPublish = doc.exists && doc.data().enabled === true;
+      manual.hidden = !canPublish;
+      document.querySelector('#access-label').textContent = canPublish ? 'Acesso autorizado · você pode salvar e adicionar vagas.' : 'Acesso normal · você pode salvar vagas.';
+    }, () => {
+      if (session !== currentSession) return;
+      canPublish = false; manual.hidden = true;
+      document.querySelector('#auth-msg').textContent = 'Não foi possível verificar a permissão de cadastro.';
+    });
+    stopSaved = db.collection('users').doc(user.uid).collection('saved-jobs').onSnapshot(snap => {
+      if (session !== currentSession) return;
+      savedJobs = new Map(snap.docs.map(doc => [doc.id, doc.data()])); draw();
+    }, () => {
+      if (session !== currentSession) return;
+      savedJobs.clear(); draw();
+      document.querySelector('#auth-msg').textContent = 'Não foi possível carregar suas vagas salvas. Confira as regras do Firebase.';
+    });
     status.innerHTML = '';
     status.append(Object.assign(document.createElement('span'), {textContent: 'Conectado(a) como ' + user.email}));
     const sair = document.createElement('button');
@@ -109,23 +147,30 @@ auth.onAuthStateChanged(user => {
     manual.hidden = true;
     status.textContent = '';
   }
+  draw();
 });
 
 document.querySelector('#manual-form').addEventListener('submit', async (e) => {
   e.preventDefault();
   const user = auth.currentUser;
-  if (!user) return;
+  if (!user || !canPublish) return;
+  const button = e.target.querySelector('button'); button.disabled = true;
+  const message = document.querySelector('#manual-msg'); message.textContent = '';
+  try {
   const fd = new FormData(e.target);
+  if (new URL(fd.get('url')).protocol !== 'https:') throw new Error('Use um link iniciado por https://.');
   await db.collection('manual-jobs').add({
     title: fd.get('title'), company: fd.get('company'), city: fd.get('city'),
     mode: fd.get('mode'), compatibility: fd.get('compatibility'),
     evidence: fd.get('evidence'), url: fd.get('url'), deadline: fd.get('deadline') || null,
-    uid: user.uid, addedBy: user.email,
+    uid: user.uid,
     createdAt: firebase.firestore.FieldValue.serverTimestamp()
   });
   e.target.reset();
   document.querySelector('#manual-msg').textContent = 'Vaga adicionada!';
-  carregarVagasManuais();
+  await carregarVagasManuais();
+  } catch (err) { message.textContent = err.code === 'permission-denied' ? 'Sua conta não tem permissão para adicionar vagas.' : (err.message || 'Não foi possível adicionar a vaga.'); }
+  finally { button.disabled = false; }
 });
 
 async function carregarVagasManuais(){
@@ -144,7 +189,7 @@ async function carregarVagasManuais(){
       deadline: d.deadline, published: null, evidence: d.evidence,
       firstSeen: d.createdAt ? d.createdAt.toDate().toISOString() : new Date().toISOString(),
       lastSeen: new Date().toISOString(), status: 'encontrada na última coleta',
-      searchScopes: ['manual'], addedBy: d.addedBy
+      searchScopes: ['manual']
     };
   });
   const novas = manuais.filter(m => !jobs.some(j => j.url === m.url));
@@ -166,14 +211,36 @@ banner.textContent=failed.length?'Coleta incompleta: '+failed.join(', ')+'. Os r
 banner.style.cssText='color:#805012;background:#fff0d9;padding:14px;border-radius:8px;margin-bottom:20px';
 banner.hidden=!failed.length&&!data.partial;
 for(const h of data.health)document.querySelector('#health').append(el('li',h.board+': '+(h.ok?(h.note||h.listed+' anúncios consultados · '+h.matches+' compatíveis'):'Falha de coleta: '+h.error)));
+function jobKey(job){
+  // URL encoded as base64url: stable across collections, no slash in document IDs.
+  return btoa(Array.from(new TextEncoder().encode(job.url), b=>String.fromCharCode(b)).join('')).replaceAll('+','-').replaceAll('/','_').replaceAll('=','');
+}
+async function toggleSaved(job, button){
+  const user=auth.currentUser;
+  if(!user){document.querySelector('#auth-msg').textContent='Entre ou crie sua conta para salvar vagas.';document.querySelector('#auth-email').focus();return;}
+  button.disabled=true;
+  try {
+    const key=jobKey(job);
+    if(key.length>1400) throw new Error('O link desta vaga é longo demais para salvar.');
+    const ref=db.collection('users').doc(user.uid).collection('saved-jobs').doc(key);
+    if(savedJobs.has(key)) await ref.delete();
+    else {
+      const snapshot={};
+      for(const field of ['url','title','company','city','state','mode','relevance','compatibility','deadline','evidence','firstSeen','board']) snapshot[field]=job[field]??'';
+      await ref.set(snapshot);
+    }
+  } catch(err){document.querySelector('#auth-msg').textContent=err.code==='permission-denied'?'Não foi possível salvar. Confira as regras do Firebase.':(err.message||'Não foi possível atualizar seus salvos.');}
+  finally {button.disabled=false;}
+}
 function draw(){
  const query=normalize(document.querySelector('#search').value),relevance=document.querySelector('#relevance').value;
- const filtered=jobs.filter(j=>(mode==='all'||(labels[j.mode]?j.mode:'unknown')===mode)&&normalize([j.title,j.company,j.evidence].join(' ')).includes(query)&&(relevance==='all'||relevance===(j.compatibility||(j.relevance.startsWith('RI mencionada')?'requirements':j.relevance.startsWith('Todos os cursos')?'any-course':'related'))));
+ const visibleJobs=savedOnly?Array.from(savedJobs.values()):jobs;
+ const filtered=visibleJobs.filter(j=>(mode==='all'||(labels[j.mode]?j.mode:'unknown')===mode)&&normalize([j.title,j.company,j.evidence].join(' ')).includes(query)&&(relevance==='all'||relevance===(j.compatibility||(j.relevance.startsWith('RI mencionada')?'requirements':j.relevance.startsWith('Todos os cursos')?'any-course':'related'))));
  const cards=document.querySelector('#cards');cards.replaceChildren();document.querySelector('#count').textContent=filtered.length+' vaga(s) encontrada(s)';
  if(!filtered.length)cards.append(el('div','Nenhuma vaga nesta seleção. Experimente outra modalidade ou remova os filtros.','empty'));
- for(const j of filtered){const card=el('article','','card');card.append(el('div',j.company,'company'),el('h2',j.title));const tags=el('div','','tags');tags.append(el('span',labels[j.mode]||labels.unknown,'tag '+(labels[j.mode]?j.mode:'unknown')+(j.board==='manual'?' manual':'')),el('span',j.relevance,'tag'));card.append(tags,el('div',(j.city||'Cidade não informada')+(j.state?' / '+j.state:''),'details'),el('p',j.evidence,'evidence'),el('div','Prazo: '+day(j.deadline)+' · Detectada: '+day(j.firstSeen)+(j.addedBy?' · Cadastrada por '+j.addedBy:''),'details'));const link=el('a','Ver vaga e candidatar-se ↗','apply');try{const u=new URL(j.url);if(u.protocol==='https:'){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';card.append(link)}}catch{}cards.append(card)}
+ for(const j of filtered){const card=el('article','','card');card.append(el('div',j.company,'company'),el('h2',j.title));const tags=el('div','','tags');tags.append(el('span',labels[j.mode]||labels.unknown,'tag '+(labels[j.mode]?j.mode:'unknown')+(j.board==='manual'?' manual':'')),el('span',j.relevance,'tag'));card.append(tags,el('div',(j.city||'Cidade não informada')+(j.state?' / '+j.state:''),'details'),el('p',j.evidence,'evidence'),el('div','Prazo: '+day(j.deadline)+' · Detectada: '+day(j.firstSeen)+'','details'));const link=el('a','Ver vaga e candidatar-se ↗','apply');try{const u=new URL(j.url);if(u.protocol==='https:'){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';card.append(link)}}catch{}const save=el('button',savedJobs.has(jobKey(j))?'Remover dos salvos':'Salvar vaga');save.type='button';save.setAttribute('aria-pressed',String(savedJobs.has(jobKey(j))));save.addEventListener('click',()=>toggleSaved(j,save));card.append(save);cards.append(card)}
 }
 for(const b of document.querySelectorAll('[data-mode]'))b.addEventListener('click',()=>{mode=b.dataset.mode;for(const x of document.querySelectorAll('[data-mode]'))x.setAttribute('aria-pressed',String(x===b));draw()});
 document.querySelector('#search').addEventListener('input',draw);document.querySelector('#relevance').addEventListener('change',draw);draw();
-carregarVagasManuais();
+carregarVagasManuais().catch(() => { document.querySelector('#auth-msg').textContent = 'Não foi possível carregar as vagas manuais.'; });
 </script></html>

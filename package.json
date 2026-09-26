@@ -10,6 +10,7 @@
     "monitor": "node src/jobspy-report.mjs",
     "smoke": "node src/jobspy-report.mjs --smoke",
     "test": "python -m unittest discover -s collector -p test_*.py",
-    "test:jobspy": "python -m unittest discover -s collector -p test_*.py"
+    "test:jobspy": "python -m unittest discover -s collector -p test_*.py",
+    "test:access": "node --test src/access.test.cjs"
   }
 }
