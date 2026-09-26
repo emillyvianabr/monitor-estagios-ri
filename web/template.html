@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="pt-BR">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Radar RI · Estágios</title>
+<title>Radar de Oportunidades</title>
 <style>
 [hidden]{display:none!important}button:disabled{opacity:.6;cursor:wait}
 :root{font-family:system-ui,-apple-system,sans-serif;color:#172f32;background:#f5f5ef}*{box-sizing:border-box}body{margin:0}header{background:#143c3b;color:#fff;padding:30px max(24px,calc((100vw - 1120px)/2)) 48px}.brand{font-size:14px;letter-spacing:.15em;font-weight:700;color:#b4daca}h1{font-size:clamp(32px,5vw,54px);font-weight:600;letter-spacing:-.04em;max-width:740px;line-height:1.06;margin:32px 0 18px}header p{color:#d0e2db;max-width:680px;line-height:1.7}main{max-width:1168px;margin:auto;padding:28px 24px}label{display:block;font-size:13px;font-weight:600;margin:0 0 9px}.controls{display:flex;gap:16px;align-items:end;flex-wrap:wrap}.search{flex:1;min-width:210px}input,select{font:inherit;padding:13px;border:1px solid #b8c6bd;border-radius:8px;background:white;width:100%;color:#172f32}.filters{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0}button{font:inherit;font-size:14px;background:#fff;color:#23433b;padding:11px 15px;border:1px solid #bac9bf;border-radius:30px;cursor:pointer}button[aria-pressed=true]{background:#234d42;color:white;border-color:#234d42}button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #be7933;outline-offset:3px}.meta{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;font-size:13px;color:#50615a;margin:26px 0 15px}#cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.card{background:#fff;border:1px solid #d9e0d9;border-radius:12px;padding:25px;display:flex;flex-direction:column;gap:14px}.company{text-transform:uppercase;letter-spacing:.07em;font-size:12px;color:#607268;font-weight:700}.card h2{font-size:21px;line-height:1.35;margin:0}.tags{display:flex;flex-wrap:wrap;gap:7px}.tag{font-size:12px;padding:6px 10px;border-radius:6px;background:#edf1ec}.remote{background:#dcf0e7;color:#145d43}.hybrid{background:#e4eafd;color:#344c91}.on-site{background:#fff0d9;color:#7b5014}.unknown{background:#eee9f1;color:#645274}.evidence{font-size:14px;line-height:1.65;color:#57695f;margin:0}.details{font-size:12px;color:#5e6e65}.apply{margin-top:auto;padding-top:6px;font-size:14px;font-weight:650;color:#1f6651}.empty{padding:40px;background:#fff;border:1px dashed #b8c6bd;border-radius:12px;grid-column:1/-1}footer{font-size:12px;line-height:1.8;color:#5a6e64;border-top:1px solid #d3ded6;margin-top:30px;padding-top:20px}details{margin-top:15px}summary{cursor:pointer}#health{padding-left:18px}.muted{color:#bbcfc7;font-size:12px}@media(max-width:650px){#cards{grid-template-columns:1fr}header{padding-bottom:32px}.card{padding:20px}.meta{margin-top:20px}}
@@ -19,39 +19,48 @@
 #manual-msg{font-size:13px;color:#1f6651;margin-top:8px}
 .tag.manual{background:#f5e6d3;color:#8a5a1f}
 @media(max-width:650px){#manual-form{grid-template-columns:1fr}}
+:root{--ink:#183f37;--sage:#e8eee6;--paper:#f7f8f3}body{background:var(--paper)}a{color:inherit}.topbar{height:86px;display:flex;align-items:center;gap:40px;padding:0 max(24px,calc((100vw - 1120px)/2));border-bottom:1px solid #dce3da;background:#fff}.logo{text-decoration:none;font-size:30px;letter-spacing:-2px;font-weight:800}.logo span{color:#779365}.nav-explore{font-size:14px;text-decoration:none;margin-left:auto}.nav-account{font-size:13px;text-decoration:none;background:var(--ink);color:#fff;border-radius:8px;padding:12px 18px}.eyebrow{font-size:10px;letter-spacing:.17em;font-weight:700}.login-layout{display:grid;grid-template-columns:1fr 1fr;min-height:calc(100vh - 86px)}.login-story{background:#183f37;color:#eff3dd;padding:70px 13%;position:relative;overflow:hidden;display:flex;flex-direction:column}.login-story h2{font-family:Georgia,serif;font-size:clamp(36px,4vw,62px);font-weight:400;line-height:1.13;letter-spacing:-2px;margin:38px 0 22px}.login-story p{font-size:15px;line-height:1.8;max-width:360px;color:#c2d4c7}.orbit{width:220px;height:220px;border:1px solid #637f64;border-radius:50%;margin:34px auto;display:grid;place-items:center;position:relative}.orbit:before,.orbit:after{content:'';position:absolute;border:1px solid #637f64;width:110%;height:45%;border-radius:50%;transform:rotate(-35deg)}.orbit:after{transform:rotate(35deg)}.orbit span{font-family:Georgia,serif;font-size:68px;color:#d3dfad}.story-foot{font-size:9px;letter-spacing:.2em;margin-top:auto}.login-content{padding:36px 12% 60px;background:#fff}.back-link{font-size:12px;color:#60766b;text-decoration:none}.login-card{max-width:400px;margin:70px auto 0}.login-card h1{font-size:35px;line-height:1.15;letter-spacing:-1.4px;margin:18px 0}.login-card p{font-size:14px;color:#718076;line-height:1.7}.auth-tabs{display:flex;padding:5px;background:#f1f4ee;border-radius:10px;margin:28px 0}.auth-tabs button{flex:1;border:0;border-radius:7px;background:transparent;font-size:13px}.auth-tabs button[aria-pressed=true]{background:white;color:var(--ink);box-shadow:0 2px 6px #183f3710}#auth-form{display:grid;gap:18px}#auth-form div{min-width:0}input{border-color:#dce3d9;background:#fcfdfb;font-size:14px}input:disabled{color:#78847b;background:#f0f3ed}.primary{background:var(--ink);color:white;border:0;border-radius:8px;padding:14px 20px;font-weight:600;font-size:13px}.text-button{border:0;background:transparent;padding:10px 0;font-size:12px;color:#627469;border-radius:4px}.login-note{text-align:center;border-top:1px solid #e7ebe3;padding-top:25px;font-size:12px!important}.dashboard{max-width:1200px;margin:auto;display:grid;grid-template-columns:245px minmax(0,1fr);min-height:calc(100vh - 86px)}.sidebar{padding:38px 25px;border-right:1px solid #dfe5db;display:flex;align-items:flex-start;flex-direction:column}.avatar{width:64px;height:64px;border-radius:50%;background:#dfe8d7;color:#365745;display:grid;place-items:center;overflow:hidden;font-family:Georgia,serif;font-size:27px;margin:26px 0 14px}.avatar img{width:100%;height:100%;object-fit:cover}.sidebar strong{font-size:17px;overflow-wrap:anywhere}.sidebar>span:not(.eyebrow){font-size:11px;color:#718073;overflow-wrap:anywhere;margin-top:6px}.sidebar nav{display:grid;gap:7px;width:100%;margin:34px 0}.sidebar nav a{font-size:13px;text-decoration:none;padding:13px 12px;border-radius:8px;display:flex;gap:4px}.sidebar nav a[aria-current=page]{background:#e3ebdd;color:#264a36;font-weight:650}.sidebar nav a span{margin-left:auto;font-size:11px}.sidebar .text-button{margin-top:auto;padding-top:35px}.panel-main{padding:40px 42px 70px;min-width:0}.panel-top{display:flex;justify-content:space-between;gap:12px;align-items:center}.access-badge{font-size:10px;color:#567148;background:#e8efdf;border:1px solid #d8e5cb;border-radius:20px;padding:6px 10px}.panel-main h1{font-size:36px;letter-spacing:-1.2px;line-height:1.2;margin:24px 0 10px}.panel-subtitle{font-size:13px;color:#718073;margin-bottom:30px}.welcome-banner{background:#e4ecd9;border:1px solid #d5e0c7;border-radius:14px;padding:30px;display:flex;align-items:center;overflow:hidden;gap:16px}.welcome-banner h2{font-family:Georgia,serif;font-size:31px;line-height:1.15;font-weight:400;letter-spacing:-.7px;margin:18px 0}.welcome-banner p{font-size:12px;line-height:1.8;max-width:310px;color:#607354}.link-button{display:inline-block;text-decoration:none;margin-top:12px}.welcome-mark{font-size:140px;color:#8da779;margin-left:auto}.panel-tiles{display:grid;grid-template-columns:.8fr 1.2fr;gap:18px;margin-top:20px}.panel-tile{border:1px solid #dce3d6;background:white;border-radius:12px;padding:26px;text-decoration:none}.panel-tile>span{font-size:9px;letter-spacing:.14em;color:#75806e}.panel-tile strong{display:block;font-family:Georgia,serif;font-size:47px;font-weight:400;margin-top:15px}.panel-tile h3{font-size:16px;margin:12px 0}.panel-tile p{font-size:12px;line-height:1.6;color:#788271}.panel-tile b{font-size:12px}.profile-tile h3{font-family:Georgia,serif;font-size:25px;font-weight:400;margin-top:25px}.profile-card{background:#fff;border:1px solid #dfe5d9;border-radius:14px;padding:30px;max-width:600px}.profile-card>label{margin-top:24px}.photo-editor{display:flex;gap:22px;align-items:center;border-bottom:1px solid #e7ebe1;padding-bottom:24px}.avatar.large{width:90px;height:90px;margin:0;flex-shrink:0;font-size:36px}.photo-editor p,.field-note,.saved-note{font-size:11px;color:#758171;line-height:1.7}.upload-label{display:inline-block;border:1px solid #cbd7c1;padding:9px 13px;border-radius:7px;font-size:12px;cursor:pointer;margin:0 10px 0 0}#profile-photo{display:block;font-size:11px;max-width:240px;margin-top:10px;padding:6px}.field-note{margin:20px 0}.cards-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.cards-grid .card{padding:22px}.cards-grid .card h2{font-size:18px}.saved-note{margin-bottom:20px}.empty a{display:inline-block;margin-top:16px}.toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);max-width:min(90vw,580px);padding:15px 22px;border:1px solid #cdd9c2;background:#fff;color:#284b39;border-radius:10px;box-shadow:0 10px 35px #183f3720;z-index:10;font-size:13px}.toast:empty{display:none}#manual-section{margin:0;padding:28px;border-radius:14px}#profile-msg{font-size:13px;color:#426638}#public-hero{background:#183f37}#public-page{padding-top:32px}
+@media(max-width:850px){.login-story{padding:50px 10%}.login-content{padding:30px 8%}.dashboard{grid-template-columns:200px minmax(0,1fr)}.panel-main{padding:30px 24px}.welcome-mark{display:none}.cards-grid{grid-template-columns:1fr}.panel-tiles{grid-template-columns:1fr}}
+@media(max-width:600px){.topbar{height:72px;padding:0 20px;gap:15px}.logo{font-size:26px}.nav-explore{display:none}.nav-account{margin-left:auto;font-size:11px}.login-layout{grid-template-columns:1fr}.login-story{display:none}.login-content{padding:24px}.login-card{margin-top:42px}.dashboard{display:block}.sidebar{padding:22px 20px;border-right:0;border-bottom:1px solid #dfe5db;display:grid;grid-template-columns:44px 1fr;column-gap:12px}.sidebar>.eyebrow,.sidebar>span:not(.eyebrow),.sidebar>.back-link{display:none}.sidebar .avatar{width:44px;height:44px;margin:0;grid-row:1;font-size:20px}.sidebar strong{align-self:center;font-size:15px}.sidebar nav{grid-column:1/-1;display:flex;overflow-x:auto;margin:18px 0 0;gap:4px}.sidebar nav a{white-space:nowrap;font-size:11px;padding:10px 8px}.sidebar .text-button{grid-column:1/-1;margin:6px 0 0;padding:8px 0;text-align:left}.panel-main{padding:26px 20px 45px}.panel-main h1{font-size:30px}.panel-top{align-items:start}.access-badge{font-size:9px}.welcome-banner{padding:25px}.welcome-banner h2{font-size:29px}.panel-tiles{gap:14px}.profile-card{padding:22px}.photo-editor{gap:14px;align-items:start;flex-wrap:wrap}.avatar.large{width:72px;height:72px}.panel-subtitle{line-height:1.7}.cards-grid{grid-template-columns:1fr}}
+
+
+.logo{display:flex;align-items:center;gap:10px;letter-spacing:0;flex-shrink:0}.logo .logo-icon{font-size:32px;color:#789465}.logo .logo-name{font-size:12px;line-height:1.2;font-weight:400;color:#183f37}.logo-name b{font-size:17px;letter-spacing:-.6px}#profile-photo{position:absolute;width:1px;height:1px;padding:0;margin:0;overflow:hidden;clip-path:inset(50%);border:0}.photo-editor:focus-within .upload-label{outline:2px solid #789465;outline-offset:3px}.panel-top>.eyebrow{font-size:9px;line-height:1.5}@media(max-width:600px){.logo .logo-icon{font-size:24px}.logo .logo-name{font-size:10px}.logo-name b{font-size:14px}.logo{gap:7px}}
+
+#settings-msg{font-size:13px;line-height:1.7;color:#426638}.profile-card h2{font-size:21px;margin-top:0}@media(max-width:600px){.sidebar nav{display:grid;grid-template-columns:1fr 1fr;overflow:visible}.sidebar nav a{white-space:normal}.panel-top{flex-wrap:wrap}}
 </style>
-<header><div class="brand">RADAR RI / OPORTUNIDADES</div><h1>Seu próximo passo nas Relações Internacionais.</h1><p>Estágios presenciais e híbridos na cidade do Rio de Janeiro.<br>Vagas remotas cadastradas em todo o Brasil.</p><div class="muted">Fontes públicas · Links diretos · Requisitos em destaque</div></header>
-<main><div id="source-status" role="status"></div><div class="controls"><div class="search"><label for="search">Buscar por cargo, empresa ou requisito</label><input id="search" type="search" placeholder="Ex.: comércio exterior, inglês, cooperação"></div><div><label for="relevance">Compatibilidade com RI</label><select id="relevance"><option value="all">Todas as compatibilidades</option><option value="requirements">RI mencionada no anúncio</option><option value="any-course">Todos os cursos</option><option value="related">Área afim · conferir</option></select></div></div>
+<body><nav class="topbar"><a class="logo" href="#vagas"><span class="logo-icon" aria-hidden="true">◉</span><span class="logo-name">radar de<br><b>oportunidades</b></span></a><a class="nav-explore" href="#vagas">Explorar vagas</a><a id="nav-account" class="nav-account" href="#entrar">Entrar / criar conta ↗</a></nav><header id="public-hero"><div class="brand">RADAR DE OPORTUNIDADES</div><h1>Seu próximo passo nas Relações Internacionais.</h1></header>
+<main id="public-page"><div id="source-status" role="status"></div><div class="controls"><div class="search"><label for="search">Buscar por cargo, empresa ou requisito</label><input id="search" type="search" placeholder="Ex.: comércio exterior, inglês, cooperação"></div><div><label for="relevance">Compatibilidade com RI</label><select id="relevance"><option value="all">Todas as compatibilidades</option><option value="requirements">RI mencionada no anúncio</option><option value="any-course">Todos os cursos</option><option value="related">Área afim · conferir</option></select></div></div>
 <div class="filters" role="group" aria-label="Filtrar por modalidade"><button data-mode="all" aria-pressed="true">Todas</button><button data-mode="remote" aria-pressed="false">Remoto</button><button data-mode="hybrid" aria-pressed="false">Híbrido</button><button data-mode="on-site" aria-pressed="false">Presencial</button><button data-mode="unknown" aria-pressed="false">Não identificado</button></div>
-<div id="auth-box">
-<h3>Minha conta</h3>
-<p>Crie sua conta para guardar vagas. O cadastro de oportunidades é reservado às pessoas autorizadas pela administração.</p>
-<div id="auth-status"></div>
-<form id="auth-form">
-<div><label for="auth-email">E-mail</label><input id="auth-email" type="email" required></div>
-<div><label for="auth-pass">Senha</label><input id="auth-pass" type="password" minlength="6" required></div>
-<div id="auth-actions"><button type="button" id="btn-cadastrar">Cadastrar</button><button type="button" id="btn-entrar">Entrar</button></div>
-</form>
-<div id="auth-msg" role="status"></div>
-<div id="account-area" hidden><p id="access-label"></p><button id="all-jobs" type="button" aria-pressed="true">Todas as vagas</button> <button id="saved-jobs" type="button" aria-pressed="false">Minhas vagas salvas</button></div>
-</div>
+<div class="meta"><span id="count" role="status" aria-live="polite"></span><span id="updated"></span></div><div id="cards"></div>
+<footer>Coleta experimental: Gupy, 99jobs, CIEE, LinkedIn e Indeed via JobSpy. A cobertura depende das consultas e pode ser parcial. Confirme requisitos, prazo e restrições de residência no anúncio original. A tag “Não identificado” indica modalidade ausente ou desconhecida e só inclui vagas localizadas na cidade do Rio.<details open><summary>Cobertura e saúde da coleta</summary><ul id="health"></ul><p>Vagas não reencontradas e fontes com falha permanecem no histórico JSON, fora da lista atual. Ausência na coleta não confirma encerramento.</p></details></footer></main>
+
+<section id="login-page" class="login-layout" hidden aria-labelledby="login-title">
+ <aside class="login-story"><span class="eyebrow">SEU PRÓXIMO CAPÍTULO</span><h2>Grandes caminhos.<br>Um primeiro passo.</h2><p>Um espaço para organizar suas oportunidades e encontrar seu lugar nas Relações Internacionais.</p><div class="orbit" aria-hidden="true"><span>↗</span></div><span class="story-foot">RIO DE JANEIRO · BRASIL · MUNDO</span></aside>
+ <div class="login-content"><a href="#vagas" class="back-link">← Voltar às oportunidades</a><div class="login-card"><span class="eyebrow">BEM-VINDO AO RADAR DE OPORTUNIDADES</span><h1 id="login-title">Seu futuro começa aqui.</h1><p id="login-description">Entre para acessar seu espaço e guardar as vagas que fazem sentido para você.</p><div class="auth-tabs"><button id="tab-login" type="button" aria-pressed="true">Entrar</button><button id="tab-register" type="button" aria-pressed="false">Criar conta</button></div>
+ <form id="auth-form"><div id="signup-name-field" hidden><label for="signup-name">Como podemos chamar você?</label><input id="signup-name" maxlength="80" autocomplete="name" placeholder="Seu nome"></div><div><label for="auth-email">Seu e-mail</label><input id="auth-email" type="email" autocomplete="email" placeholder="voce@exemplo.com" required></div><div><label for="auth-pass">Senha</label><input id="auth-pass" type="password" minlength="6" autocomplete="current-password" placeholder="Pelo menos 6 caracteres" required></div><button id="btn-entrar" class="primary" type="submit">Entrar no meu painel →</button><button id="btn-cadastrar" class="primary" type="submit" hidden>Criar minha conta →</button></form><button id="reset-password" class="text-button" type="button">Esqueci minha senha</button><p class="login-note">Suas oportunidades favoritas, todas em um só lugar.</p></div></div>
+</section>
+<section id="account-area" class="dashboard" hidden aria-labelledby="panel-title"><aside class="sidebar"><span class="eyebrow">MEU ESPAÇO</span><div id="sidebar-avatar" class="avatar"></div><strong id="sidebar-name">Minha conta</strong><span id="sidebar-email"></span><nav aria-label="Navegação do painel"><a href="#painel" data-panel="painel">◈ &nbsp; Visão geral</a><a href="#salvas" data-panel="salvas">♡ &nbsp; Vagas salvas <span id="saved-total">0</span></a><a href="#perfil" data-panel="perfil">◎ &nbsp; Meu perfil</a><a href="#configuracoes" data-panel="configuracoes">⚙ &nbsp; Configurações</a><a href="#adicionar" id="publish-nav" data-panel="adicionar" hidden>＋ &nbsp; Adicionar vaga</a></nav><a href="#vagas" class="back-link">↗ Explorar oportunidades</a><button id="logout" class="text-button" type="button">Sair da conta</button></aside>
+<div class="panel-main"><div class="panel-top"><span class="eyebrow">RADAR DE OPORTUNIDADES / MEU ESPAÇO</span><span id="access-label" class="access-badge"></span></div><h1 id="panel-title" tabindex="-1">Meu painel</h1><p id="panel-subtitle" class="panel-subtitle"></p>
+<section id="overview-section"><div class="welcome-banner"><div><span class="eyebrow">UM PASSO MAIS PERTO</span><h2>Seu próximo capítulo<br>merece um lugar aqui.</h2><p>Explore, escolha e guarde as oportunidades que combinam com você.</p><a href="#vagas" class="primary link-button">Encontrar oportunidades ↗</a></div><div class="welcome-mark" aria-hidden="true">✳</div></div><div class="panel-tiles"><a href="#salvas" class="panel-tile"><span>SUAS ESCOLHAS</span><strong id="overview-total">0</strong><h3>Vagas salvas ↗</h3><p>Retome sua busca de onde parou.</p></a><a href="#perfil" class="panel-tile profile-tile"><span>DO SEU JEITO</span><h3>Um perfil com a sua cara.</h3><p>Adicione seu nome e sua foto para personalizar este espaço.</p><b>Editar meu perfil →</b></a></div></section>
+<section id="saved-section" hidden><p class="saved-note">Salvar uma vaga não realiza a candidatura. Confira os prazos no anúncio original.</p><div id="saved-cards" class="cards-grid"></div></section>
+<section id="settings-section" hidden><div class="profile-card"><h2>Segurança da conta</h2><p class="panel-subtitle">Quer trocar sua senha? Enviaremos um link para o e-mail cadastrado. Abra a mensagem e escolha uma nova senha.</p><label for="settings-email">E-mail que receberá o link</label><input id="settings-email" type="email" disabled><button id="settings-reset-password" class="primary" type="button" style="margin-top:24px">Enviar link para redefinir senha</button><p id="settings-msg" role="status"></p><p class="field-note">Confira também a pasta de spam. Sua senha atual continua válida até concluir a redefinição.</p></div></section><section id="profile-section" hidden><form id="profile-form" class="profile-card"><div class="photo-editor"><div id="profile-avatar" class="avatar large"></div><div><label for="profile-photo" class="upload-label">Escolher foto</label><input id="profile-photo" type="file" accept="image/jpeg,image/png,image/webp"><button id="remove-photo" type="button" class="text-button">Remover foto</button><p>JPG, PNG ou WebP. Até 5 MB.</p></div></div><label for="profile-name">Seu nome</label><input id="profile-name" required maxlength="80" autocomplete="name" placeholder="Como você quer aparecer no painel?"><label for="profile-email">E-mail da conta</label><input id="profile-email" type="email" disabled><p class="field-note">Seu nome e sua foto ficam na sua área pessoal.</p><button class="primary" type="submit">Salvar alterações</button><p id="profile-msg" role="status"></p></form></section>
 <div id="manual-section" hidden>
-<h3>Cadastrar vaga manualmente</h3>
+<h3 id="editor-title">Adicionar uma oportunidade</h3><p id="editor-note" class="field-note">Preencha os detalhes para publicar no monitor.</p>
 <form id="manual-form">
-<div><label>Cargo/título</label><input name="title" required></div>
-<div><label>Empresa</label><input name="company" required></div>
-<div><label>Cidade</label><input name="city"></div>
+<div><label>Cargo/título</label><input name="title" maxlength="300" required></div>
+<div><label>Empresa</label><input name="company" maxlength="300" required></div>
+<div><label>Cidade</label><input name="city" maxlength="200"></div>
 <div><label>Modalidade</label><select name="mode"><option value="on-site">Presencial</option><option value="hybrid">Híbrido</option><option value="remote">Remoto</option><option value="unknown">Não identificado</option></select></div>
 <div><label>Compatibilidade com RI</label><select name="compatibility"><option value="requirements">RI mencionada no anúncio</option><option value="any-course">Todos os cursos</option><option value="related">Área afim</option></select></div>
 <div><label>Prazo (opcional, AAAA-MM-DD)</label><input name="deadline" type="date"></div>
-<div class="full"><label>Descrição/requisitos</label><input name="evidence"></div>
-<div class="full"><label>Link para candidatura</label><input name="url" type="url" required></div>
-<div class="full"><button type="submit">Adicionar vaga</button></div>
+<div class="full"><label>Descrição/requisitos</label><input name="evidence" maxlength="5000"></div>
+<div class="full"><label>Link para candidatura</label><input name="url" maxlength="1000" type="url" required></div>
+<div class="full"><button type="submit" id="editor-submit" class="primary">Adicionar vaga</button> <button id="cancel-edit" type="button" hidden>Cancelar edição</button></div>
 </form>
 <div id="manual-msg"></div>
 </div>
-<div class="meta"><span id="count" role="status" aria-live="polite"></span><span id="updated"></span></div><div id="cards"></div>
-<footer>Coleta experimental: Gupy, 99jobs, CIEE, LinkedIn e Indeed via JobSpy. A cobertura depende das consultas e pode ser parcial. Confirme requisitos, prazo e restrições de residência no anúncio original. A tag “Não identificado” indica modalidade ausente ou desconhecida e só inclui vagas localizadas na cidade do Rio.<details open><summary>Cobertura e saúde da coleta</summary><ul id="health"></ul><p>Vagas não reencontradas e fontes com falha permanecem no histórico JSON, fora da lista atual. Ausência na coleta não confirma encerramento.</p></details></footer></main>
+</div></section>
+<div id="auth-msg" class="toast" role="status" aria-live="polite"></div>
 <script id="data" type="application/json">/*DATA_PLACEHOLDER*/</script>
 <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-auth-compat.js"></script>
@@ -73,6 +82,9 @@ function traduzErroAuth(code){
   const map = {
     'auth/email-already-in-use': 'Este e-mail já tem cadastro. Tente entrar.',
     'auth/invalid-email': 'E-mail inválido.',
+    'auth/invalid-credential': 'E-mail ou senha incorretos.',
+    'auth/too-many-requests': 'Muitas tentativas. Aguarde um pouco e tente novamente.',
+    'auth/network-request-failed': 'Confira sua conexão e tente novamente.',
     'auth/weak-password': 'Senha muito curta (mínimo 6 caracteres).',
     'auth/wrong-password': 'Senha incorreta.',
     'auth/user-not-found': 'Não existe conta com este e-mail.'
@@ -80,74 +92,138 @@ function traduzErroAuth(code){
   return map[code] || ('Erro: ' + code);
 }
 
-document.querySelector('#btn-cadastrar').addEventListener('click', () => {
-  const email = document.querySelector('#auth-email').value;
-  const pass = document.querySelector('#auth-pass').value;
-  auth.createUserWithEmailAndPassword(email, pass)
-    .catch(err => document.querySelector('#auth-msg').textContent = traduzErroAuth(err.code));
+let canPublish=false, savedJobs=new Map(), savedOnly=false;
+let stopRole=()=>{}, stopSaved=()=>{}, stopProfile=()=>{}, session=0;
+let profile={name:'',photo:''}, draftPhoto='', authReady=false, signup=false, photoBusy=false;
+const $=id=>document.querySelector('#'+id);
+function setAuthMode(register){
+  signup=register; $('signup-name-field').hidden=!register; $('signup-name').required=register;
+  $('btn-cadastrar').hidden=!register; $('btn-entrar').hidden=register;
+  $('tab-login').setAttribute('aria-pressed',String(!register)); $('tab-register').setAttribute('aria-pressed',String(register));
+  $('auth-pass').autocomplete=register?'new-password':'current-password';
+  $('reset-password').hidden=register;
+}
+$('tab-login').addEventListener('click',()=>setAuthMode(false));
+$('tab-register').addEventListener('click',()=>setAuthMode(true));
+$('auth-form').addEventListener('submit',async e=>{
+  e.preventDefault(); if(!$('auth-form').reportValidity())return;
+  const button=signup?$('btn-cadastrar'):$('btn-entrar'); button.disabled=true;
+  const name=$('signup-name').value.trim(); const registering=signup;
+  $('auth-msg').textContent='';
+  try{
+    if(registering){
+      const result=await auth.createUserWithEmailAndPassword($('auth-email').value.trim(),$('auth-pass').value);
+      try { await db.collection('users').doc(result.user.uid).set({name,photo:''}); }
+      catch { $('auth-msg').textContent='Conta criada. Complete seu perfil no painel depois de atualizar as regras do Firebase.'; }
+    }else await auth.signInWithEmailAndPassword($('auth-email').value.trim(),$('auth-pass').value);
+    location.hash='painel';
+  }catch(err){$('auth-msg').textContent=traduzErroAuth(err.code);}
+  finally{button.disabled=false;}
 });
-
-document.querySelector('#btn-entrar').addEventListener('click', () => {
-  const email = document.querySelector('#auth-email').value;
-  const pass = document.querySelector('#auth-pass').value;
-  auth.signInWithEmailAndPassword(email, pass)
-    .catch(err => document.querySelector('#auth-msg').textContent = traduzErroAuth(err.code));
+$('reset-password').addEventListener('click',async()=>{
+  if(!$('auth-email').reportValidity())return;
+  const button=$('reset-password');button.disabled=true;$('auth-msg').textContent='Enviando instruções…';
+  try{await auth.sendPasswordResetEmail($('auth-email').value.trim());$('auth-msg').textContent='Se houver uma conta com esse e-mail, você receberá o link de redefinição. Confira também o spam.';}
+  catch(err){$('auth-msg').textContent=traduzErroAuth(err.code);}
+  finally{button.disabled=false;}
 });
-
-let canPublish = false, savedJobs = new Map(), savedOnly = false;
-let stopRole = () => {}, stopSaved = () => {}, session = 0;
-document.querySelector('#auth-form').addEventListener('submit', e => { e.preventDefault(); document.querySelector('#btn-entrar').click(); });
-for (const id of ['all-jobs', 'saved-jobs']) document.querySelector('#'+id).addEventListener('click', () => {
-  savedOnly = id === 'saved-jobs';
-  document.querySelector('#all-jobs').setAttribute('aria-pressed', String(!savedOnly));
-  document.querySelector('#saved-jobs').setAttribute('aria-pressed', String(savedOnly));
-  draw();
+$('settings-reset-password').addEventListener('click',async()=>{
+  const user=auth.currentUser;if(!user?.email)return;
+  const currentSession=session,button=$('settings-reset-password');button.disabled=true;$('settings-msg').textContent='Enviando instruções…';
+  try{await auth.sendPasswordResetEmail(user.email);if(session===currentSession)$('settings-msg').textContent='Link enviado para '+user.email+'. Confira sua caixa de entrada e o spam.';}
+  catch(err){if(session===currentSession)$('settings-msg').textContent=traduzErroAuth(err.code);}
+  finally{button.disabled=false;}
 });
-auth.onAuthStateChanged(user => {
-  const currentSession = ++session;
-  stopRole(); stopSaved(); canPublish = false; savedJobs.clear(); savedOnly = false;
-  document.querySelector('#account-area').hidden = !user;
-  document.querySelector('#auth-msg').textContent = '';
-  document.querySelector('#auth-pass').value = '';
-  document.querySelector('#all-jobs').setAttribute('aria-pressed', 'true');
-  document.querySelector('#saved-jobs').setAttribute('aria-pressed', 'false');
-  const form = document.querySelector('#auth-form');
-  const manual = document.querySelector('#manual-section');
-  const status = document.querySelector('#auth-status');
-  if (user) {
-    form.hidden = true;
-    manual.hidden = true;
-    document.querySelector('#access-label').textContent = 'Acesso normal · você pode salvar vagas.';
-    stopRole = db.collection('publishers').doc(user.uid).onSnapshot(doc => {
-      if (session !== currentSession) return;
-      canPublish = doc.exists && doc.data().enabled === true;
-      manual.hidden = !canPublish;
-      document.querySelector('#access-label').textContent = canPublish ? 'Acesso autorizado · você pode salvar e adicionar vagas.' : 'Acesso normal · você pode salvar vagas.';
-    }, () => {
-      if (session !== currentSession) return;
-      canPublish = false; manual.hidden = true;
-      document.querySelector('#auth-msg').textContent = 'Não foi possível verificar a permissão de cadastro.';
-    });
-    stopSaved = db.collection('users').doc(user.uid).collection('saved-jobs').onSnapshot(snap => {
-      if (session !== currentSession) return;
-      savedJobs = new Map(snap.docs.map(doc => [doc.id, doc.data()])); draw();
-    }, () => {
-      if (session !== currentSession) return;
-      savedJobs.clear(); draw();
-      document.querySelector('#auth-msg').textContent = 'Não foi possível carregar suas vagas salvas. Confira as regras do Firebase.';
-    });
-    status.innerHTML = '';
-    status.append(Object.assign(document.createElement('span'), {textContent: 'Conectado(a) como ' + user.email}));
-    const sair = document.createElement('button');
-    sair.type = 'button'; sair.textContent = 'Sair';
-    sair.addEventListener('click', () => auth.signOut());
-    status.append(sair);
-  } else {
-    form.hidden = false;
-    manual.hidden = true;
-    status.textContent = '';
+$('logout').addEventListener('click',()=>auth.signOut().then(()=>{location.hash='vagas';}).catch(()=>{$('auth-msg').textContent='Não foi possível sair. Tente novamente.';}));
+function avatar(target,name,photo){
+  const node=$(target);node.replaceChildren();
+  const initials=(name||'Você').trim().split(/\s+/).slice(0,2).map(n=>n[0]).join('').toUpperCase();
+  if(photo && /^data:image\/jpeg;base64,[A-Za-z0-9+/=]+$/.test(photo)){
+    const img=document.createElement('img');img.src=photo;img.alt='Sua foto de perfil';img.addEventListener('error',()=>{node.textContent=initials;});node.append(img);
+  }else node.textContent=initials;
+}
+function paintProfile(){
+  const user=auth.currentUser; const name=profile.name||user?.displayName||'Seu nome';
+  $('sidebar-name').textContent=name; $('sidebar-email').textContent=user?.email||'';
+  $('profile-name').value=profile.name||user?.displayName||''; $('profile-email').value=user?.email||'';$('settings-email').value=user?.email||'';
+  draftPhoto=profile.photo||''; avatar('sidebar-avatar',name,profile.photo);avatar('profile-avatar',name,draftPhoto);
+}
+function route(){
+  const requested=location.hash.slice(1)||'vagas';
+  let page=['vagas','entrar','painel','salvas','perfil','configuracoes','adicionar'].includes(requested)?requested:'vagas';
+  if(['painel','salvas','perfil','configuracoes','adicionar'].includes(page)&&!auth.currentUser){
+    if(!authReady){$('public-page').hidden=true;$('public-hero').hidden=true;$('login-page').hidden=true;$('account-area').hidden=true;return;}
+    page='entrar';
   }
-  draw();
+  if(page==='entrar'&&auth.currentUser)page='painel';
+  if(page==='adicionar'&&!canPublish)page='painel';
+  const panel=['painel','salvas','perfil','configuracoes','adicionar'].includes(page);
+  $('public-hero').hidden=page!=='vagas';$('public-page').hidden=page!=='vagas';
+  $('login-page').hidden=page!=='entrar';$('account-area').hidden=!panel;
+  $('nav-account').textContent=auth.currentUser?'Meu painel ↗':'Entrar / criar conta ↗';
+  $('nav-account').href=auth.currentUser?'#painel':'#entrar';
+  $('overview-section').hidden=page!=='painel';$('saved-section').hidden=page!=='salvas';$('profile-section').hidden=page!=='perfil';$('settings-section').hidden=page!=='configuracoes';
+  $('manual-section').hidden=page!=='adicionar'||!canPublish;$('publish-nav').hidden=!canPublish;
+  for(const link of document.querySelectorAll('[data-panel]'))link.setAttribute('aria-current',link.dataset.panel===page?'page':'false');
+  const titles={configuracoes:'Sua conta, suas preferências.',painel:'Olá, '+(profile.name?.split(' ')[0]||'boas-vindas')+'.',salvas:'Suas próximas possibilidades.',perfil:'Um espaço com a sua cara.',adicionar:'Compartilhe uma oportunidade.'};
+  const subtitles={configuracoes:'Gerencie a segurança do seu acesso ao Radar de Oportunidades.',painel:'Que bom ter você por aqui. Vamos encontrar seu próximo passo?',salvas:'As oportunidades que você escolheu acompanhar, em um só lugar.',perfil:'Personalize seu nome e sua foto. Este painel é seu.',adicionar:'Ajude outras pessoas a encontrar seu próximo passo em RI.'};
+  $('panel-title').textContent=titles[page]||'Meu painel';$('panel-subtitle').textContent=subtitles[page]||'';
+  $('access-label').textContent=canPublish?'Colaborador autorizado':'Conta pessoal';
+  if(page==='perfil')paintProfile();
+  renderSavedCards();
+}
+window.addEventListener('hashchange',()=>{route();window.scrollTo(0,0);});
+auth.onAuthStateChanged(user=>{
+  authReady=true;const currentSession=++session;
+  stopRole();stopSaved();stopProfile();canPublish=false;savedJobs.clear();profile={name:'',photo:''};draftPhoto='';
+  $('auth-pass').value='';$('profile-photo').value='';$('profile-msg').textContent='';$('settings-msg').textContent='';$('auth-msg').textContent='';
+  resetEditor();paintProfile();route();draw();
+  if(!user)return;
+  stopRole=db.collection('publishers').doc(user.uid).onSnapshot(doc=>{
+    if(session!==currentSession)return;canPublish=doc.exists&&doc.data().enabled===true;if(!canPublish)resetEditor();route();draw();
+  },()=>{if(session!==currentSession)return;canPublish=false;resetEditor();route();draw();$('auth-msg').textContent='Não foi possível verificar a permissão de cadastro.';});
+  stopSaved=db.collection('users').doc(user.uid).collection('saved-jobs').onSnapshot(snap=>{
+    if(session!==currentSession)return;savedJobs=new Map(snap.docs.map(doc=>[doc.id,doc.data()]));draw();
+  },()=>{if(session!==currentSession)return;savedJobs.clear();draw();$('auth-msg').textContent='Não foi possível carregar suas vagas salvas.';});
+  stopProfile=db.collection('users').doc(user.uid).onSnapshot(doc=>{
+    if(session!==currentSession)return;
+    profile=doc.exists?{name:doc.data().name||'',photo:doc.data().photo||''}:{name:'',photo:''};paintProfile();route();
+  },()=>{if(session!==currentSession)return;$('auth-msg').textContent='Atualize as regras do Firebase para habilitar nome e foto no perfil.';});
+});
+function renderSavedCards(){
+  $('saved-total').textContent=String(savedJobs.size);$('overview-total').textContent=String(savedJobs.size);
+  const container=$('saved-cards');container.replaceChildren();
+  if(!savedJobs.size){const empty=el('div','','empty');empty.append(el('h2','Seu próximo passo ainda está por aqui.'),el('p','Toque em “Salvar vaga” nas oportunidades que você gostar. Elas vão aparecer neste espaço.'));const link=el('a','Explorar oportunidades →','primary link-button');link.href='#vagas';empty.append(link);container.append(empty);return;}
+  for(const job of savedJobs.values()){
+    const card=el('article','','card');card.append(el('div',job.company,'company'),el('h2',job.title),el('span',labels[job.mode]||'Não identificado','tag'),el('p',job.evidence,'evidence'),el('div','Prazo: '+day(job.deadline),'details'));
+    try{const url=new URL(job.url);if(url.protocol==='https:'){const link=el('a','Ver vaga e candidatar-se ↗','apply');link.href=url.href;link.target='_blank';link.rel='noopener noreferrer';card.append(link);}}catch{}
+    const remove=el('button','Remover dos salvos');remove.type='button';remove.addEventListener('click',()=>toggleSaved(job,remove));card.append(remove);container.append(card);
+  }
+}
+$('profile-photo').addEventListener('change',async()=>{
+  const file=$('profile-photo').files[0];if(!file)return;const currentSession=session;
+  $('profile-msg').textContent='';photoBusy=true;
+  try{
+    if(!['image/jpeg','image/png','image/webp'].includes(file.type)||file.size>5*1024*1024)throw new Error('Escolha uma imagem JPG, PNG ou WebP de até 5 MB.');
+    const bitmap=await createImageBitmap(file);
+    const canvas=document.createElement('canvas');canvas.width=256;canvas.height=256;
+    const ctx=canvas.getContext('2d');ctx.fillStyle='#edf1e8';ctx.fillRect(0,0,256,256);
+    const side=Math.min(bitmap.width,bitmap.height);ctx.drawImage(bitmap,(bitmap.width-side)/2,(bitmap.height-side)/2,side,side,0,0,256,256);bitmap.close();
+    const photo=canvas.toDataURL('image/jpeg',.82);if(photo.length>180000)throw new Error('Esta foto ficou grande demais. Escolha outra imagem.');
+    if(currentSession!==session)return;draftPhoto=photo;avatar('profile-avatar',$('profile-name').value,draftPhoto);
+    $('profile-msg').textContent='Foto pronta. Clique em Salvar alterações para confirmar.';
+  }catch(err){if(currentSession===session)$('profile-msg').textContent=err.message||'Não foi possível ler essa imagem.';}
+  finally{photoBusy=false;}
+});
+$('remove-photo').addEventListener('click',()=>{draftPhoto='';$('profile-photo').value='';avatar('profile-avatar',$('profile-name').value,'');$('profile-msg').textContent='Clique em Salvar alterações para confirmar a remoção.';});
+$('profile-form').addEventListener('submit',async e=>{
+  e.preventDefault();const user=auth.currentUser;if(!user)return;
+  const name=$('profile-name').value.trim();if(!name){$('profile-msg').textContent='Digite seu nome.';return;}
+  if(photoBusy){$('profile-msg').textContent='Aguarde sua foto terminar de carregar.';return;}
+  const button=e.target.querySelector('button[type="submit"]');button.disabled=true;const currentSession=session;
+  try{await db.collection('users').doc(user.uid).set({name,photo:draftPhoto});if(currentSession===session)$('profile-msg').textContent='Pronto! Seu perfil foi atualizado.';}
+  catch{if(currentSession===session)$('profile-msg').textContent='Não foi possível salvar. Confira sua conexão e as regras do Firebase.';}
+  finally{button.disabled=false;}
 });
 
 document.querySelector('#manual-form').addEventListener('submit', async (e) => {
@@ -159,15 +235,18 @@ document.querySelector('#manual-form').addEventListener('submit', async (e) => {
   try {
   const fd = new FormData(e.target);
   if (new URL(fd.get('url')).protocol !== 'https:') throw new Error('Use um link iniciado por https://.');
-  await db.collection('manual-jobs').add({
+  const payload = {
     title: fd.get('title'), company: fd.get('company'), city: fd.get('city'),
     mode: fd.get('mode'), compatibility: fd.get('compatibility'),
     evidence: fd.get('evidence'), url: fd.get('url'), deadline: fd.get('deadline') || null,
     uid: user.uid,
     createdAt: firebase.firestore.FieldValue.serverTimestamp()
-  });
-  e.target.reset();
-  document.querySelector('#manual-msg').textContent = 'Vaga adicionada!';
+  };
+  if(editingKey) await db.collection('job-edits').doc(editingKey).set(payload);
+  else await db.collection('manual-jobs').add(payload);
+  const wasEditing=Boolean(editingKey);
+  resetEditor();
+  document.querySelector('#manual-msg').textContent = wasEditing?'Alterações salvas!':'Vaga adicionada!';
   await carregarVagasManuais();
   } catch (err) { message.textContent = err.code === 'permission-denied' ? 'Sua conta não tem permissão para adicionar vagas.' : (err.message || 'Não foi possível adicionar a vaga.'); }
   finally { button.disabled = false; }
@@ -200,6 +279,7 @@ async function carregarVagasManuais(){
 <script>
 const data=JSON.parse(document.querySelector('#data').textContent),labels={remote:'Remoto',hybrid:'Híbrido','on-site':'Presencial',unknown:'Não identificado'};
 let jobs=data.jobs.filter(j=>j.status==='encontrada na última coleta');
+let jobEdits=new Map(), editingKey=null;
 const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 const el=(tag,text,cls)=>{const node=document.createElement(tag);node.textContent=text;if(cls)node.className=cls;return node};
 let mode='all';
@@ -211,13 +291,31 @@ banner.textContent=failed.length?'Coleta incompleta: '+failed.join(', ')+'. Os r
 banner.style.cssText='color:#805012;background:#fff0d9;padding:14px;border-radius:8px;margin-bottom:20px';
 banner.hidden=!failed.length&&!data.partial;
 for(const h of data.health)document.querySelector('#health').append(el('li',h.board+': '+(h.ok?(h.note||h.listed+' anúncios consultados · '+h.matches+' compatíveis'):'Falha de coleta: '+h.error)));
+function applyEdit(job){
+  const key=jobKey(job), edit=jobEdits.get(key);
+  if(!edit)return {...job,_editKey:key};
+  return {...job,...edit,_editKey:key,relevance:edit.compatibility==='requirements'?'RI mencionada no anúncio — conferir requisitos':edit.compatibility==='any-course'?'Todos os cursos — conferir requisitos':'Área afim — confirmar se aceita RI'};
+}
+function resetEditor(){
+  editingKey=null;$('manual-form').reset();$('editor-title').textContent='Adicionar uma oportunidade';$('editor-submit').textContent='Adicionar vaga';$('cancel-edit').hidden=true;$('manual-msg').textContent='';
+}
+function openEditor(job){
+  if(!canPublish)return;
+  if((job._editKey||jobKey(job)).length>1400){$('auth-msg').textContent='O link desta vaga é longo demais para editar.';return;}
+  editingKey=job._editKey||jobKey(job);
+  for(const field of ['title','company','city','mode','compatibility','deadline','evidence','url'])$('manual-form').elements.namedItem(field).value=job[field]||'';
+  $('editor-title').textContent='Editar oportunidade';$('editor-submit').textContent='Salvar alterações';$('cancel-edit').hidden=false;$('manual-msg').textContent='';location.hash='adicionar';route();
+}
+$('cancel-edit').addEventListener('click',resetEditor);
+$('publish-nav').addEventListener('click',resetEditor);
+db.collection('job-edits').onSnapshot(snap=>{jobEdits=new Map(snap.docs.map(doc=>[doc.id,doc.data()]));draw();},()=>{$('auth-msg').textContent='Não foi possível carregar as edições das vagas. Confira as regras do Firebase.';});
 function jobKey(job){
   // URL encoded as base64url: stable across collections, no slash in document IDs.
   return btoa(Array.from(new TextEncoder().encode(job.url), b=>String.fromCharCode(b)).join('')).replaceAll('+','-').replaceAll('/','_').replaceAll('=','');
 }
 async function toggleSaved(job, button){
   const user=auth.currentUser;
-  if(!user){document.querySelector('#auth-msg').textContent='Entre ou crie sua conta para salvar vagas.';document.querySelector('#auth-email').focus();return;}
+  if(!user){document.querySelector('#auth-msg').textContent='Entre ou crie sua conta para salvar vagas.';location.hash='entrar';return;}
   button.disabled=true;
   try {
     const key=jobKey(job);
@@ -233,14 +331,16 @@ async function toggleSaved(job, button){
   finally {button.disabled=false;}
 }
 function draw(){
+ renderSavedCards();
  const query=normalize(document.querySelector('#search').value),relevance=document.querySelector('#relevance').value;
- const visibleJobs=savedOnly?Array.from(savedJobs.values()):jobs;
+ const visibleJobs=jobs.map(applyEdit);
  const filtered=visibleJobs.filter(j=>(mode==='all'||(labels[j.mode]?j.mode:'unknown')===mode)&&normalize([j.title,j.company,j.evidence].join(' ')).includes(query)&&(relevance==='all'||relevance===(j.compatibility||(j.relevance.startsWith('RI mencionada')?'requirements':j.relevance.startsWith('Todos os cursos')?'any-course':'related'))));
  const cards=document.querySelector('#cards');cards.replaceChildren();document.querySelector('#count').textContent=filtered.length+' vaga(s) encontrada(s)';
  if(!filtered.length)cards.append(el('div','Nenhuma vaga nesta seleção. Experimente outra modalidade ou remova os filtros.','empty'));
- for(const j of filtered){const card=el('article','','card');card.append(el('div',j.company,'company'),el('h2',j.title));const tags=el('div','','tags');tags.append(el('span',labels[j.mode]||labels.unknown,'tag '+(labels[j.mode]?j.mode:'unknown')+(j.board==='manual'?' manual':'')),el('span',j.relevance,'tag'));card.append(tags,el('div',(j.city||'Cidade não informada')+(j.state?' / '+j.state:''),'details'),el('p',j.evidence,'evidence'),el('div','Prazo: '+day(j.deadline)+' · Detectada: '+day(j.firstSeen)+'','details'));const link=el('a','Ver vaga e candidatar-se ↗','apply');try{const u=new URL(j.url);if(u.protocol==='https:'){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';card.append(link)}}catch{}const save=el('button',savedJobs.has(jobKey(j))?'Remover dos salvos':'Salvar vaga');save.type='button';save.setAttribute('aria-pressed',String(savedJobs.has(jobKey(j))));save.addEventListener('click',()=>toggleSaved(j,save));card.append(save);cards.append(card)}
+ for(const j of filtered){const card=el('article','','card');card.append(el('div',j.company,'company'),el('h2',j.title));const tags=el('div','','tags');tags.append(el('span',labels[j.mode]||labels.unknown,'tag '+(labels[j.mode]?j.mode:'unknown')+(j.board==='manual'?' manual':'')),el('span',j.relevance,'tag'));card.append(tags,el('div',(j.city||'Cidade não informada')+(j.state?' / '+j.state:''),'details'),el('p',j.evidence,'evidence'),el('div','Prazo: '+day(j.deadline)+' · Detectada: '+day(j.firstSeen)+'','details'));const link=el('a','Ver vaga e candidatar-se ↗','apply');try{const u=new URL(j.url);if(u.protocol==='https:'){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';card.append(link)}}catch{}const save=el('button',savedJobs.has(jobKey(j))?'Remover dos salvos':'Salvar vaga');save.type='button';save.setAttribute('aria-pressed',String(savedJobs.has(jobKey(j))));save.addEventListener('click',()=>toggleSaved(j,save));card.append(save);if(canPublish){const edit=el('button','Editar vaga');edit.type='button';edit.addEventListener('click',()=>openEditor(j));card.append(edit);}cards.append(card)}
 }
 for(const b of document.querySelectorAll('[data-mode]'))b.addEventListener('click',()=>{mode=b.dataset.mode;for(const x of document.querySelectorAll('[data-mode]'))x.setAttribute('aria-pressed',String(x===b));draw()});
 document.querySelector('#search').addEventListener('input',draw);document.querySelector('#relevance').addEventListener('change',draw);draw();
+route();
 carregarVagasManuais().catch(() => { document.querySelector('#auth-msg').textContent = 'Não foi possível carregar as vagas manuais.'; });
-</script></html>
+</script></body></html>

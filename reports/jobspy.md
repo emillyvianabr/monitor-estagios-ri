@@ -1,26 +1,18 @@
 # Radar RI · JobSpy
 
-Coleta: 2026-09-26T01:55:35.658507+00:00
+Coleta: 2026-09-25T20:51:18.889629+00:00
 
 Busca limitada às consultas configuradas; não representa todas as vagas disponíveis.
 
 ## Fontes
 
-- gupy: 1 busca\(s\), 300 resultado\(s\), 5 candidato\(s\) ao painel.
+- gupy: 1 busca\(s\), 300 resultado\(s\), 6 candidato\(s\) ao painel.
 - 99jobs: 1 busca\(s\), 0 resultado\(s\), 0 candidato\(s\) ao painel.
 - ciee: 1 busca\(s\), 300 resultado\(s\), 13 candidato\(s\) ao painel.
-- linkedin: 18 busca\(s\), 180 resultado\(s\), 16 candidato\(s\) ao painel.
-- indeed: 18 busca\(s\), 132 resultado\(s\), 21 candidato\(s\) ao painel.
+- linkedin: 18 busca\(s\), 180 resultado\(s\), 18 candidato\(s\) ao painel.
+- indeed: 18 busca\(s\), 132 resultado\(s\), 20 candidato\(s\) ao painel.
 
-## Vagas encontradas (46)
-
-### [AUXILIAR ADMINISTRATIVO \(Motus RH\)](https://www.jobbol.com.br/vaga/29387063436)
-
-Jobbol · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Consultoria em Recursos Humanos busca profissional Auxiliar Administrativo em Rio de Janeiro. Na Motus RH, apoiamos empresas na formação de equipes por meio de processos de Recrutamento & Seleção alinhados à cultura e aos objetivos do negócio, e oferecemos suporte tanto no desenvolvimento de pessoas quanto em momentos de transição de carreira, por meio de programas estruturados. Com mais de 15 anos de experiência em Gestão de 
+## Vagas encontradas (48)
 
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6247915&acesso=VITRINE_VAGA)
 
@@ -182,6 +174,14 @@ RI mencionada no anúncio — conferir requisitos. Fontes: indeed.
 
 … Estar cursando ensino superior em: Psicologia, Letras, Administração, Turismo, Relações Internacionais, Comunicação, ou áreas correlatas. Interesse por atendimento ao cliente, comunidade e experiência do usuário Diferenciais Interesse por viagens, intercâmbio cultural e economia colaborativa Experiência prévia com atendimento, voluntariado, projetos estudantis ou comunidades Ferramentas e habilidades que você vai desenvolver Hubspot \(CRM & Helpd
 
+### [ESTAGIÁRIO TÉCNICO NA ÁREA DE ADMINISTRAÇÃO DE EMPRESAS - Barra da Tijuca - Sem experiência \(Ultra+ RH Consultoria\)](https://www.jobbol.com.br/vaga/29387002967)
+
+Jobbol · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…onsultoria de recursos humanos busca profissional Estagiário Técnico na área de Administração de Empresas em Rio de Janeiro \(Barra da Tijuca\). A Ultra+ RH é uma consultoria de RH ágil e especializada. Seus serviços são focados em: terceirização da folha de pagamento, recrutamento e seleção e contratação de estagiários. Trazem também soluções personalizadas que atendam às necessidades das empresas. O que importa para a Ultra+ RH é gerar aquisição 
+
 ### [Estagiário de Suprimentos](https://prd-pc1.lg.com.br/Vagas/c/2F030BBB-5AAD-4D5C-885A-152012CFAA4B/p/portaldocandidatoamarante/pt-BR/Vaga/Divulgacao?codigo=onLFBDO3Haw%3D)
 
 Amarante Hospitalidade · Recife, PE, BR · Remoto
@@ -230,6 +230,14 @@ Construmarket · São Paulo, São Paulo, Brasil · Remoto
 
 Apoiar a equipe comercial na geração de demanda, qualificação de oportunidades, prospecção ativa de clientes, manutenção do CRM e execução dos processos administrativos da área comercial. A posição contribuirá para o crescimento sustentável do pipeline, para a disciplina de execução do time e para a construção de relacionamento com prospects, desde a prospecção até o acompanhamento c
 
+### [Estágio em Planejamento Comercial - Vaga Afirmativa para pessoas Pretas e Pardas](https://bat.gupy.io/job/eyJqb2JJZCI6MTI0Nzk2MjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
+
+BAT Brasil · Rio de Janeiro, Rio de Janeiro, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: gupy.
+
+A BAT é um grupo global em plena transformação. Com uma trajetória consolidada pela liderança no mercado de tabaco, o grupo amplia sua atuação para outras frentes de negócio, guiado pelo propósito de construir Um Amanhã Melhor \(A Better Tomorrow\).Responsabilidades e atribuições Atualização e acompanhamento de indicadores e relatórios comerciais.Consolidação e análise de bases de dados para geração de insights.Acompanhamento de performance: apoiar
+
 ### [Estágio em FP&A e Orçamento](https://www.linkedin.com/jobs/view/4469998241)
 
 C.A.C Engenharia S/A · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
@@ -269,6 +277,14 @@ Conexão Talento · Rio de Janeiro, Rio de Janeiro, Brazil · Híbrido
 RI mencionada no anúncio — conferir requisitos. Fontes: linkedin.
 
 …ões Requisitos Ensino Superior em andamento em Administração, Gestão Comercial, Relações Internacionais, Marketing ou áreas correlatas; Excel intermediário; Facilidade com tecnologia. Será um diferencial Experiência anterior em vendas, prospecção, atendimento comercial ou relacionamento com clientes; Vivência em vendas B2B; Conhecimento em CRM \(HubSpot ou similares\). Ferramentas utilizadas Plataforma IClass; HubSpot; Discord. Todo o treinamento s
+
+### [Estágio Comercial - AFYA Unigranrio \(Santa Cruz\)](https://www.linkedin.com/jobs/view/4451679127)
+
+CNA+ · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: linkedin.
+
+…as e apaixonadas por relacionamento com clientes para fazer parte do nosso time Comercial. Se você gosta de trabalhar com pessoas, possui facilidade de comunicação, é organizado\(a\), gosta de desafios e deseja desenvolver uma carreira nas áreas Comercial, Marketing e Atendimento, essa oportunidade é para você. Aqui, você terá contato direto com estratégias de captação de alunos, atendimento comercial, relacionamento com clientes, marketing digital
 
 ### [Estagiário\(a\) de Sustentabilidade](https://www.linkedin.com/jobs/view/4468022863)
 
