@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-19T18:45:27.819002+00:00",
+  "checkedAt": "2026-10-26T18:43:17.727361+00:00",
   "queries": [
     {
       "source": "gupy",
@@ -25,8 +25,8 @@
       "scope": "public",
       "received": 300,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 78,
-        "sem evidência de RI, cursos abertos ou área afim": 215
+        "sem evidência de RI, cursos abertos ou área afim": 210,
+        "localização ou modalidade fora do recorte/insuficiente": 84
       },
       "warnings": []
     },
@@ -36,9 +36,9 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 2,
-        "não confirmado como estágio": 2,
-        "sem evidência de RI, cursos abertos ou área afim": 3,
+        "localização ou modalidade fora do recorte/insuficiente": 3,
+        "não confirmado como estágio": 3,
+        "sem evidência de RI, cursos abertos ou área afim": 2,
         "data fora da janela": 2
       },
       "warnings": []
@@ -49,8 +49,7 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 6,
-        "não confirmado como estágio": 2,
+        "localização ou modalidade fora do recorte/insuficiente": 8,
         "banco de talentos": 2
       },
       "warnings": []
@@ -62,7 +61,7 @@
       "received": 10,
       "rejected": {
         "não confirmado como estágio": 3,
-        "localização ou modalidade fora do recorte/insuficiente": 3,
+        "localização ou modalidade fora do recorte/insuficiente": 4,
         "banco de talentos": 1,
         "sem evidência de RI, cursos abertos ou área afim": 2
       },
@@ -84,8 +83,9 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 3,
-        "sem evidência de RI, cursos abertos ou área afim": 5
+        "localização ou modalidade fora do recorte/insuficiente": 4,
+        "sem evidência de RI, cursos abertos ou área afim": 4,
+        "data fora da janela": 1
       },
       "warnings": []
     },
@@ -105,7 +105,7 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 1,
+        "localização ou modalidade fora do recorte/insuficiente": 2,
         "sem evidência de RI, cursos abertos ou área afim": 5,
         "não confirmado como estágio": 1,
         "data fora da janela": 2
@@ -118,8 +118,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 4,
-        "localização ou modalidade fora do recorte/insuficiente": 3,
+        "sem evidência de RI, cursos abertos ou área afim": 3,
+        "localização ou modalidade fora do recorte/insuficiente": 4,
         "banco de talentos": 2,
         "não confirmado como estágio": 1
       },
@@ -131,7 +131,7 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 7
+        "sem evidência de RI, cursos abertos ou área afim": 6
       },
       "warnings": []
     },
@@ -141,7 +141,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 10
+        "sem evidência de RI, cursos abertos ou área afim": 9,
+        "localização ou modalidade fora do recorte/insuficiente": 1
       },
       "warnings": []
     },
@@ -151,8 +152,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 6,
-        "localização ou modalidade fora do recorte/insuficiente": 4
+        "localização ou modalidade fora do recorte/insuficiente": 5,
+        "sem evidência de RI, cursos abertos ou área afim": 5
       },
       "warnings": []
     },
@@ -173,7 +174,7 @@
       "received": 10,
       "rejected": {
         "sem evidência de RI, cursos abertos ou área afim": 1,
-        "localização ou modalidade fora do recorte/insuficiente": 6,
+        "localização ou modalidade fora do recorte/insuficiente": 5,
         "data fora da janela": 2
       },
       "warnings": []
@@ -194,8 +195,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 5,
         "sem evidência de RI, cursos abertos ou área afim": 2,
-        "localização ou modalidade fora do recorte/insuficiente": 4,
         "data fora da janela": 1
       },
       "warnings": []
@@ -206,8 +207,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 9,
-        "sem evidência de RI, cursos abertos ou área afim": 1
+        "localização ou modalidade fora do recorte/insuficiente": 8,
+        "sem evidência de RI, cursos abertos ou área afim": 2
       },
       "warnings": []
     },
@@ -217,9 +218,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 7,
-        "não confirmado como estágio": 1,
-        "localização ou modalidade fora do recorte/insuficiente": 1
+        "sem evidência de RI, cursos abertos ou área afim": 9,
+        "não confirmado como estágio": 1
       },
       "warnings": []
     },
@@ -229,8 +229,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 7,
-        "localização ou modalidade fora do recorte/insuficiente": 3
+        "sem evidência de RI, cursos abertos ou área afim": 8,
+        "localização ou modalidade fora do recorte/insuficiente": 2
       },
       "warnings": []
     },
@@ -240,8 +240,7 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 2,
-        "sem evidência de RI, cursos abertos ou área afim": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 4,
         "data fora da janela": 4
       },
       "warnings": []
@@ -252,9 +251,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 5,
-        "link inválido": 1,
+        "localização ou modalidade fora do recorte/insuficiente": 2,
+        "sem evidência de RI, cursos abertos ou área afim": 4,
         "data fora da janela": 2
       },
       "warnings": []
@@ -267,7 +265,7 @@
       "rejected": {
         "localização ou modalidade fora do recorte/insuficiente": 3,
         "sem evidência de RI, cursos abertos ou área afim": 1,
-        "data fora da janela": 1
+        "data fora da janela": 2
       },
       "warnings": []
     },
@@ -285,10 +283,8 @@
       "source": "indeed",
       "term": "cooperação internacional",
       "scope": "rio",
-      "received": 1,
-      "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 1
-      },
+      "received": 0,
+      "rejected": {},
       "warnings": []
     },
     {
@@ -315,10 +311,8 @@
       "source": "indeed",
       "term": "relações governamentais",
       "scope": "remote",
-      "received": 1,
-      "rejected": {
-        "não confirmado como estágio": 1
-      },
+      "received": 0,
+      "rejected": {},
       "warnings": []
     },
     {
@@ -328,7 +322,7 @@
       "received": 10,
       "rejected": {
         "sem evidência de RI, cursos abertos ou área afim": 8,
-        "link inválido": 1
+        "data fora da janela": 1
       },
       "warnings": []
     },
@@ -338,8 +332,9 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 2,
-        "sem evidência de RI, cursos abertos ou área afim": 6,
+        "não confirmado como estágio": 1,
+        "localização ou modalidade fora do recorte/insuficiente": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 7,
         "data fora da janela": 1
       },
       "warnings": []
@@ -350,9 +345,9 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 6,
-        "data fora da janela": 2,
-        "não confirmado como estágio": 1
+        "não confirmado como estágio": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 7,
+        "data fora da janela": 1
       },
       "warnings": []
     },
@@ -363,7 +358,7 @@
       "received": 10,
       "rejected": {
         "sem evidência de RI, cursos abertos ou área afim": 8,
-        "localização ou modalidade fora do recorte/insuficiente": 1,
+        "não confirmado como estágio": 1,
         "data fora da janela": 1
       },
       "warnings": []
@@ -374,7 +369,30 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "link inválido": 2,
+        "sem evidência de RI, cursos abertos ou área afim": 4,
+        "data fora da janela": 4
+      },
+      "warnings": []
+    },
+    {
+      "source": "indeed",
+      "term": "administração",
+      "scope": "remote",
+      "received": 10,
+      "rejected": {
+        "sem evidência de RI, cursos abertos ou área afim": 6,
+        "link inválido": 1,
+        "localização ou modalidade fora do recorte/insuficiente": 2
+      },
+      "warnings": []
+    },
+    {
+      "source": "indeed",
+      "term": "comercial",
+      "scope": "rio",
+      "received": 10,
+      "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 3,
         "sem evidência de RI, cursos abertos ou área afim": 1,
         "data fora da janela": 5
       },
@@ -382,37 +400,13 @@
     },
     {
       "source": "indeed",
-      "term": "administração",
+      "term": "comercial",
       "scope": "remote",
       "received": 10,
       "rejected": {
         "sem evidência de RI, cursos abertos ou área afim": 4,
-        "localização ou modalidade fora do recorte/insuficiente": 3,
-        "link inválido": 2,
-        "data fora da janela": 1
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "comercial",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 2,
-        "data fora da janela": 4
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "comercial",
-      "scope": "remote",
-      "received": 10,
-      "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 4,
         "link inválido": 3,
-        "sem evidência de RI, cursos abertos ou área afim": 2,
+        "localização ou modalidade fora do recorte/insuficiente": 1,
         "data fora da janela": 1
       },
       "warnings": []
@@ -423,7 +417,8 @@
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 9
+        "sem evidência de RI, cursos abertos ou área afim": 9,
+        "data fora da janela": 1
       },
       "warnings": []
     },
