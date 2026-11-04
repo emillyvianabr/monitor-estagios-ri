@@ -1,38 +1,14 @@
 {
-  "checkedAt": "2026-11-03T02:44:03.104618+00:00",
+  "checkedAt": "2026-11-04T21:06:14.437819+00:00",
   "engine": "Fontes públicas + LinkedIn e Indeed via JobSpy",
   "partial": false,
   "health": [
     {
-      "board": "linkedin",
-      "ok": true,
-      "listed": 260,
-      "matches": 17,
-      "note": "26 busca(s), 260 resultado(s), 17 candidato(s) ao painel.",
-      "error": null
-    },
-    {
-      "board": "indeed",
-      "ok": true,
-      "listed": 457,
-      "matches": 112,
-      "note": "Coleta anterior: 26 busca(s), 457 resultado(s), 112 candidato(s) ao painel.",
-      "error": null
-    },
-    {
-      "board": "ciee",
-      "ok": true,
-      "listed": 2080,
-      "matches": 119,
-      "note": "Coleta anterior: Coleta anterior: 1 busca(s), 2080 resultado(s), 119 candidato(s) ao painel.",
-      "error": null
-    },
-    {
       "board": "gupy",
       "ok": true,
-      "listed": 236,
+      "listed": 240,
       "matches": 33,
-      "note": "Coleta anterior: Coleta anterior: Coleta anterior: 1 busca(s), 236 resultado(s), 33 candidato(s) ao painel.",
+      "note": "1 busca(s), 240 resultado(s), 33 candidato(s) ao painel.",
       "error": null
     },
     {
@@ -40,11 +16,997 @@
       "ok": true,
       "listed": 0,
       "matches": 0,
-      "note": "Coleta anterior: Coleta anterior: Coleta anterior: 1 busca(s), 0 resultado(s), 0 candidato(s) ao painel.",
+      "note": "1 busca(s), 0 resultado(s), 0 candidato(s) ao painel.",
+      "error": null
+    },
+    {
+      "board": "ciee",
+      "ok": true,
+      "listed": 2166,
+      "matches": 114,
+      "note": "1 busca(s), 2166 resultado(s), 114 candidato(s) ao painel.",
+      "error": null
+    },
+    {
+      "board": "linkedin",
+      "ok": true,
+      "listed": 260,
+      "matches": 21,
+      "note": "26 busca(s), 260 resultado(s), 21 candidato(s) ao painel.",
+      "error": null
+    },
+    {
+      "board": "indeed",
+      "ok": true,
+      "listed": 455,
+      "matches": 109,
+      "note": "26 busca(s), 455 resultado(s), 109 candidato(s) ao painel.",
       "error": null
     }
   ],
   "jobs": [
+    {
+      "url": "https://ciee.app/login?codigoVaga=6289203&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6289203&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Comunicação",
+      "company": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO RIO DE JANEIRO",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Comunicação Atividades de fiscalização profissional na elaboração e formatação de projetos de eventos na organização e manutenção dos arquivos físicos e eletrônicos da gerência e da coordenação de eventos planilhas, cadastros, controles administrativos e bancos de informações de fornecedores utilizados pela GEVE/CEVE",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6288963&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6288963&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "TRIBUNAL DE JUSTICA DO ESTADO DO RIO DE JANEIRO",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Justiça FAZER REQUISICAO E CONTROLE DE MATERIAL DE EXPEDIENTE E CONSUMO; ORGANIZAR DOCUMENTOS, PRONTUARIOS E/ OU REGISTROS DIVERSOS; FAZER ATUALIZACAO E ORGANIZAR DADOS DIVERSOS.",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6288589&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6288589&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "EQUIPOCLASS",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares Acessar arquivos diversos e auxiliar na execução de rotinas da área Auxiliar as áreas de suporte Auxiliar na elaboração de documentos diversos",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6288516&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6288516&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "AEC.RIO",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Atividades de contabilidade Organizar e arquivar documentos Realizar atividades de aprendizado supervisionadas na conciliação bancaria ou contábil Auxiliar nas rotinas de contas a pagar e a receber.",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6288282&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6288282&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "SEA1 OFFSHORE DO BRASIL S.A.",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Navegação de apoio marítimo Auxiliar no controle e organização de documentos Acompanhar a classificacao e descricao de documentos Auxiliar em apuracao de impostos",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6287298&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6287298&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Comunicação",
+      "company": "JVA SAUDE",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Comunicação Laboratórios clínicos Auxiliar a criação de identidade visual para projetos institucionais Elaborar apresentações institucionais e corporativas Auxiliar na confecção de posts para as redes sociais",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6287172&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6287172&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "GEOMED HOSPITALAR",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios Auxiliar na conferência de estoque de material de expediente Auxiliar no controle de estoques, compras e seleção de fornecedores Realizar serviços de apoio a área de operações",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6287067&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6287067&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "CLINOT CLINICA MEDICA LTDA",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Atividade médica ambulatorial com recursos para realização de exames complementares Acompanhamento do atendimento ao telefone Acompanhar a revisão de fluxos e procedimentos administrativos Atuar no atendimento telefônico ao cliente",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6287008&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6287008&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "ESTILO AZVDO",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Serviços de organização de feiras, congressos, exposições e festas Acompanhar e conferir processos Auxiliar no suporte administrativo e operacional Acessar na instrucao dos processos organizacionais",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6286998&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6286998&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Administrativa",
+      "company": "ABDAN - ASSOCIACAO BRASILEIRA PARA DESENVOLVIMENTO DE ATIVIDADES NUCLEARES",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Administrativa Atividades de associações de defesa de direitos sociais Auxiliar no planejamento de atividades da empresa Criar , revisar e coletar documentos e formularios Realizar briefings",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6286996&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6286996&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Comunicação",
+      "company": "ESTILO AZVDO",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Comunicação Serviços de organização de feiras, congressos, exposições e festas Auxiliar na redação e publicidade de conteúdo para perfis em redes sociais Elaborar estratégias de marketing Auxiliar Produção de conteúdo para social media",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://ciee.app/login?codigoVaga=6286966&acesso=VITRINE_VAGA",
+      "board": "ciee",
+      "sources": [
+        "ciee"
+      ],
+      "sourceUrls": [
+        "https://ciee.app/login?codigoVaga=6286966&acesso=VITRINE_VAGA"
+      ],
+      "title": "Estágio em Comunicação",
+      "company": "SINDICATO DOS PROFESSORES DO MUNICIPIO DO RIO DE JANEIRO E REGIAO",
+      "city": "Rio de Janeiro, RJ, Brasil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "Comunicação Atividades de organizações sindicais Auxiliar na divulgação de informação para a mídia Auxiliar no monitoramento da performance dos conteúdos publicados Elaborar textos de divulgação para sites",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "public"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4484699585",
+      "board": "linkedin",
+      "sources": [
+        "linkedin"
+      ],
+      "sourceUrls": [
+        "https://www.linkedin.com/jobs/view/4484699585"
+      ],
+      "title": "Estagiário Mercado de Capitais Internacional",
+      "company": "Freitas, Leite e Avvad Advogados",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-03T00:00:00.000",
+      "evidence": "…ntas fazem parte do trabalho. Você vai integrar a equipe de Mercado de Capitais Internacional e aprender, na prática, como estruturas jurídicas brasileiras e estrangeiras se conectam ao mercado financeiro. O QUE VOCÊ VAI FAZER Aprender de perto como estruturas jurídicas de países diferentes se conectam. Na rotina da equipe, você vai: • Apoiar o contato com autoridades do mercado de capitais do Brasil, e de jurisdições estrangeiras como Estados Un",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4480050584",
+      "board": "linkedin",
+      "sources": [
+        "linkedin"
+      ],
+      "sourceUrls": [
+        "https://www.linkedin.com/jobs/view/4480050584"
+      ],
+      "title": "Programa de estágio",
+      "company": "VMB Invest",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-03T00:00:00.000",
+      "evidence": "… de dono e entrega de resultados. 🎯 O que buscamos: Estudantes de graduação dos cursos de Administração, Economia, Engenharia, Contabilidade ou áreas correlatas; (a partir do 1º período), com disponibilidade para o horário de estágio de segunda à sexta (modalidade 100% presencial). Residir no Rio de Janeiro ou proximidades. Interesse genuíno pelo mercado financeiro, vendas e relacionamento com investidores. Perfil comercial, boa comunicação, foco",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4486320604",
+      "board": "linkedin",
+      "sources": [
+        "linkedin"
+      ],
+      "sourceUrls": [
+        "https://www.linkedin.com/jobs/view/4486320604"
+      ],
+      "title": "Estágio em Marketing Digital, Conteúdo e Endomarketing",
+      "company": "Zoom Entregas Rápidas",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "state": "",
+      "mode": "hybrid",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-03T00:00:00.000",
+      "evidence": "…rtalecer a comunicação interna e apoiar campanhas em parceria com as equipes de marketing, RH e comercial. Principais responsabilidades Redes sociais e produção de conteúdo Pesquisar tendências, formatos e o funcionamento de plataformas como TikTok, Instagram, Facebook, LinkedIn e Google. Planejar, em conjunto com a liderança, a linha editorial e o calendário de publicações. Escrever roteiros, gravar e editar vídeos para redes sociais e comunicaç",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4486518761",
+      "board": "linkedin",
+      "sources": [
+        "linkedin"
+      ],
+      "sourceUrls": [
+        "https://www.linkedin.com/jobs/view/4486518761"
+      ],
+      "title": "Estagiário Marketing Produto",
+      "company": "Embelleze",
+      "city": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": null,
+      "evidence": "…ência e tendências de beleza e cosméticos; Suporte na criação de briefings para marketing, design e agências; Organização e acompanhamento de testes de produto, testes de claims e testes sensoriais; Auxílio no controle de documentos técnicos, fichas e apresentações de lançamento; Suporte na rotina do time de marcas e interface com fornecedores. Outros Requisitos Cursando a partir do 4º período de Farmácia, Química, Engenharia Química, Marketing, ",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://buscas.taqe.com.br/vacancies/ciee-rio-estagio-administracao-v4?jobid=v-6ae2431fdfa84763f81c9d60-u-678a62e86a212620f1e28193&source=Indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=f2dabfc39bd8678d"
+      ],
+      "title": "CIEE Rio - Estágio - Administração",
+      "company": "Ciee One Rio de Janeiro",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-28T00:00:00.000",
+      "evidence": "Descrição da vaga: CIEE Rio Estágio Administração Centro da Cidade O CIEE Rio está em busca de estudantes proativos para integrar o nosso time de Operações Se você está em busca de aprendizado prático e desenvolvimento profissional essa oportunidade é para você Cursos elegíveis Administração Pedagogia Gestão de Recursos Humanos Processos Gerenciais ou cursos afins Requisitos Estar cursando preferencialm",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://jobs.quickin.io/hyper/jobs/6ae2011b3cade40013d5a98e?src=Indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=0413018410997380"
+      ],
+      "title": "Estágio em Finanças",
+      "company": "hyper",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "hybrid",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-28T00:00:00.000",
+      "evidence": "Quem somos? De forma geral, somos um grupo de negócios. Formado por times multidisciplinares com soluções empresariais em Gestão, Marketing e Tecnologia. Nosso Propósito é criar recursos para escalar empresas. Nosso ambiente é dinâmico e inovador, sempre em busca de novas oportunidades de crescimento. Estamos em busca de um(a) estagiário(a) para o nosso time financeiro. Responsabilidades: Controle de Contas a Pagar, Contas a Receber através do si",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://app.jobconvo.com/job/Mjc5MDU0OQ-analista-de-marketing-jr-captacao/28bd76fe-790a-479a-bc1d-5108fd088059?source=Indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=585e0fc6199b6dc7"
+      ],
+      "title": "Analista de Marketing Jr [Captação]",
+      "company": "UNISUAM",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-28T00:00:00.000",
+      "evidence": "…de captação para os cursos de Pós-graduação Stricto Sensu. Desenvolver ações de marketing direto e inbound, incluindo fluxos automatizados, nutrição de leads e comunicação segmentada. Gerenciar o relacionamento com candidatos em todas as etapas do funil, garantindo clareza na jornada e experiência positiva. Monitorar indicadores de performance (leads, conversões, engajamento, entregabilidade, CPL, etc.). Elaborar conteúdos para e-mails, landing p",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://gruposcc.enlizt.me/vagas/vaga_de_estagio_em_producao_de_conteudo_no_portal_scc10-031126",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=3fc2a6464b66365d"
+      ],
+      "title": "Vaga de estágio em Produção de Conteúdo no portal SCC10",
+      "company": "GRUPO SCC",
+      "city": "Florianópolis, SC, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-03T00:00:00.000",
+      "evidence": "Vaga de Estágio em Produção de Conteúdo Buscamos estudante de Comunicação Social que tenha como características o dinamismo e a conexão com o ecossistema digital, além da paixão por contar histórias, para se juntar à equipe do portal SCC10! Se você tem boa redação, curiosidade aguçada e quer aprender na prática o ritmo de um veículo de comunicação digital, então essa vaga é para você! RESPONSABILIDADES: Apuração: au",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://facapartegrendene.gupy.io/job/eyJqb2JJZCI6MTI3NjA5MjcsInNvdXJjZSI6ImluZGVlZCJ9",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=61cd6c1e9b724dbc"
+      ],
+      "title": "Analista de Social Media - Mercado Externo",
+      "company": "Grendene",
+      "city": "Remoto, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-03T00:00:00.000",
+      "evidence": "…ões Atuar como responsável das interações com a comunidade nos canais ativos no mercado internacional (IG, FB, TIKTOK); Realizar o levantamento de insights de conteúdos/comunidade e desenvolvimento de reports para os times internos; Estruturar o cronograma de conteúdos das contas oficiais da Melissa no mercado externo; Elaborar a produção textual de todos os conteúdos nos canais oficiais do mercado externo (copys, respostas e demais textos); Apoi",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://globalcareers.lge.com/jobs/3304",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=85a36429c46468cb"
+      ],
+      "title": "Estágio em Contas a Receber",
+      "company": "LG Electronics",
+      "city": "São Paulo, SP, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-26T00:00:00.000",
+      "evidence": "…umprimento dos prazos. O que você precisa ter: Ensino superior em andamento nos cursos de Administração, Economia, Ciências Contábeis, Ciências Econômicas ou Contabilidade. Conhecimento intermediário em Excel; Perfil analítico, organizado, comprometido e responsável; Conhecimento em extratos bancários será considerado um diferencial. Modelo de trabalho: 4 vezes presenciais e 1 home-office Local de trabalho: Morumbi/SP Todos os candidatos qualific",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://lgcns.eightfold.ai/careers?pid=563087417702866&domain=lgcns.com&sort_by=relevance",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=a2ab8cc64b1e62ae"
+      ],
+      "title": "Estágio em Contas a Receber",
+      "company": "LG Chem",
+      "city": "São Paulo, SP, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-26T00:00:00.000",
+      "evidence": "…umprimento dos prazos. O que você precisa ter: Ensino superior em andamento nos cursos de Administração, Economia, Ciências Contábeis, Ciências Econômicas ou Contabilidade. Conhecimento intermediário em Excel; Perfil analítico, organizado, comprometido e responsável; Conhecimento em extratos bancários será considerado um diferencial. Modelo de trabalho: 4 vezes presenciais e 1 home-office Local de trabalho: Morumbi/SP Todos os candidatos qualific",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://gruposaltaedu.gupy.io/job/eyJqb2JJZCI6MTI3Mzk4MTUsInNvdXJjZSI6ImluZGVlZCJ9",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=bc20af1857cae4be"
+      ],
+      "title": "Estagiar para Transformar 2027 | Brasil - DF, GO, MG, MS, MT, PB, PE, PR, RJ, SC, SP",
+      "company": "Grupo Salta Educação",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-17T00:00:00.000",
+      "evidence": "…nte, apaixonado pelo que faz. O nosso DNA é marcado pela cultura de excelência, impacto social, desenvolvimento pessoal e espírito realizador. Acreditamos que um time diverso é o caminho para cumprir a nossa missão de transformar vidas e, por isso, visamos a contratar talentos em igualdade de oportunidades. Também levamos a inclusão a sério, pensando em processos de reconhecimento justos e éticos, além de contarmos com grupos de afinidade racial,",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://buscas.taqe.com.br/vacancies/copia-finep-estagio-ciencia-de-dados-e-ciencia-de-dados-e-ia?jobid=v-6abe6209aa334d47beeffd15-u-682794ca001681ce17e98361&source=Indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=c3e38c484aadc295"
+      ],
+      "title": "FINEP - ESTÁGIO - ADMINISTRAÇÃO - PCD",
+      "company": "Ciee One Rio de Janeiro",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-01T00:00:00.000",
+      "evidence": "Descrição da vaga: pO CIEE Rio em parceria com a FINEP busca estudantes de Administração Administração Pública ou Gestão Pública para compor sua equipe Todas as vagas são afirmativas para Pessoas com Deficiência/p Grade Horária: 20 horas Semanais e 2 folgas Semanais Atividades: Atividades Administrativas. Requisitos: Estar regularmente matriculado nos cursos de graduação ADMINISTRAÇÃO / ADMINISTRAÇÃO PÚBLICA / GESTÃO PÚBLICA,Ter matrícula e ",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://caju.gupy.io/job/eyJqb2JJZCI6MTI3OTg2NTIsInNvdXJjZSI6ImluZGVlZCJ9",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=a22486e6c31f9cdf"
+      ],
+      "title": "Estágio em Revenue Operations (RevOps)",
+      "company": "Caju",
+      "city": "Remoto, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-03T00:00:00.000",
+      "evidence": "… demandas da operação e registrar no backlog do time Requisitos e qualificações Cursando Administração, Engenharia, Sistemas de Informação ou áreas afins, com previsão de formatura a partir de 2028 Disponibilidade de 6h por dia Organização e disciplina com rotinas recorrentes Planilhas (Excel/Google Sheets) em nível básico a intermediário Curiosidade por sistemas: gostar de entender como uma ferramenta funciona por dentro e de fuçar configuração ",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://gruporeal.gupy.io/job/eyJqb2JJZCI6MTI4MjgwNDcsInNvdXJjZSI6ImluZGVlZCJ9",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=fd32ea92b4554379"
+      ],
+      "title": "Analista Sênior de Inteligência de Negócios e Performance de Portfólio - PER",
+      "company": "Grupo Real",
+      "city": "Remoto, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-03T00:00:00.000",
+      "evidence": "…crescimento e quer fazer parte de uma história que conecta tradição, inovação e impacto social, vem com a gente . Porque no Grupo Real, você é a peça fundamental para o nosso sucesso.",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://enterpriserh.pandape.com.br/Detail/3859129?ov=5&xtor=AL-366332663&source=Indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=6f1200a6cc4901df"
+      ],
+      "title": "Estágio em Crédito e Análise Financeira",
+      "company": "Enterpriserh",
+      "city": "Betim, MG, BR",
+      "state": "",
+      "mode": "remote",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-23T00:00:00.000",
+      "evidence": "…e de um dos maiores grupos automotivos do mundo, que atua na oferta de soluções financeiras para concessionárias, clientes corporativos e frotistas. Possui foco em inovação, segurança e flexibilidade, contribuindo para o desenvolvimento e suporte às operações do setor automotivo. Atividades: Apoiar os analistas nas análises de crédito e na avaliação de informações financeiras e cadastrais de clientes. Auxiliar na análise de balanços patrimoniais,",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "remote"
+      ]
+    },
+    {
+      "url": "https://zoomentregas.inhire.app/vagas/7bf62bd4-3cb3-4ba0-a1f9-b1d46fcff916/estagio-em-marketing-digital-conteudo-e-endomarketing?source=indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=f61ee84acea23637"
+      ],
+      "title": "Estágio em Marketing Digital, Conteúdo e Endomarketing",
+      "company": "ZOOM ENTREGAS RÁPIDAS",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "hybrid",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-03T00:00:00.000",
+      "evidence": "…rtalecer a comunicação interna e apoiar campanhas em parceria com as equipes de marketing, RH e comercial. Principais responsabilidades Redes sociais e produção de conteúdo Pesquisar tendências, formatos e o funcionamento de plataformas como TikTok, Instagram, Facebook, LinkedIn e Google. Planejar, em conjunto com a liderança, a linha editorial e o calendário de publicações. Escrever roteiros, gravar e editar vídeos para redes sociais e comunicaç",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.jobbol.com.br/vaga/29387161190",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=0eef4398f691d909"
+      ],
+      "title": "ESTAGIÁRIO NA ÁREA DE MARKETING - Jacarepaguá - Sem experiência (American Pet)",
+      "company": "Jobbol",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-27T00:00:00.000",
+      "evidence": "…ércio de Produtos e Serviços para Pets busca profissional Estagiário na área de Marketing em Rio de Janeiro (Jacarepaguá). Atua no comércio de produtos e serviços voltados ao cuidado de animais de estimação. Desenvolve atividades relacionadas ao atendimento de clientes e à oferta de soluções para o bem-estar pet. Responsabilidades: Apoiar na criação de conteúdos para redes sociais e campanhas. Auxiliar no planejamento e organização. Acompanhar in",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://sandech.vagas.solides.com.br/vaga/941859?origem=indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=394f7d8c1faedfdb"
+      ],
+      "title": "ESTÁGIO EM COMUNICAÇÃO INTERNA - RIO DE JANEIRO/RJ",
+      "company": "SANDECH",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-21T00:00:00.000",
+      "evidence": "…edores e materiais promocionais; Colaboração com outras áreas para fortalecer a comunicação interna. FORMAÇÃO Curso: Bacharelado em Marketing, Comunicação, Administração ou Design; Período: a partir do 4º período. FERRAMENTAS Softwares de edição de imagem (Canva, Illustrator, Photoshop); Ferramentas de Inteligência Artificial; Pacote Office.",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.jobbol.com.br/vaga/29387152029",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=5a91757ee2335803"
+      ],
+      "title": "ESTAGIÁRIO NA ÁREA DE MARKETING - Copacabana - Sem experiência (Prospera Desenvolvimento Profissional)",
+      "company": "Jobbol",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-20T00:00:00.000",
+      "evidence": "Consultoria de recrutamento e seleção busca profissional Estagiário na área de Marketing em Rio de Janeiro (Copacabana). A Prospera Desenvolvimento Profissional é uma consultoria especializada em recrutamento e seleção, com atuação estratégica na atração, avaliação e desenvolvimento de talentos. Apoiam empresas de diferentes segmentos a contratar com mais assertividade, alinhando perfil técnico e comportamental às reais necessidades do negócio. ",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.jobbol.com.br/vaga/29387152025",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=85fe3cd6034f52ed"
+      ],
+      "title": "ESTAGIÁRIO NA ÁREA DE MARKETING - Zona Sul - Sem experiência (Prospera Desenvolvimento Profissional)",
+      "company": "Jobbol",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-20T00:00:00.000",
+      "evidence": "Consultoria de recrutamento e seleção busca profissional Estagiário na área de Marketing em Rio de Janeiro (Zona Sul). A Prospera Desenvolvimento Profissional é uma consultoria especializada em recrutamento e seleção, com atuação estratégica na atração, avaliação e desenvolvimento de talentos. Apoiam empresas de diferentes segmentos a contratar com mais assertividade, alinhando perfil técnico e comportamental às reais necessidades do negócio. Re",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://fmclogistica.vagas.solides.com.br/vaga/948146?origem=indeed",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=c4834e6ac563d660"
+      ],
+      "title": "Estagiário de Operações",
+      "company": "Empresa não informada",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "RI mencionada no anúncio — conferir requisitos",
+      "compatibility": "requirements",
+      "deadline": null,
+      "published": "2026-11-04T00:00:00.000",
+      "evidence": "…rsando graduação ou curso tecnólogo relacionado a Comércio Exterior, Logística, Relações Internacionais ou áreas correlatas. Conhecimento básico em Pacote Office, especialmente Excel. Interesse em comércio exterior e logística internacional. Organização, atenção aos detalhes, boa comunicação e disposição para aprender. Competências comportamentais Organização e planejamento. Atenção aos detalhes. Proatividade e iniciativa. Boa comunicação e relac",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://vemserigua.gupy.io/job/eyJqb2JJZCI6MTI3OTQyMTMsInNvdXJjZSI6ImluZGVlZCJ9",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=1d36b78369e103c0"
+      ],
+      "title": "Estagiário(a) Administrativo",
+      "company": "Iguá Saneamento",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-11-01T00:00:00.000",
+      "evidence": "Nascemos em 2017 com o propósito de Ser a Melhor Empresa de Saneamento PARA o Brasil. Hoje, estamos presentes em diversos municípios e estados brasileiros, com o objetivo de contribuir para que o país alcance a universalização dos serviços de água e esgoto. Nosso modelo de negócios consiste em concessões e parcerias público-privadas (PPPs). Somos uma das principais companhias de saneamento do país, inserida na vida de comunidades de diferentes po",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.jobbol.com.br/vaga/29387146295",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=038bb644a5f5cf05"
+      ],
+      "title": "ESTAGIÁRIO NA ÁREA DE LOGÍSTICA - Recreio dos Bandeirantes - Sem experiência (Super Estágios)",
+      "company": "Jobbol",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-16T00:00:00.000",
+      "evidence": "Agência de Integração de Estágio busca profissional Estagiário na área de Logística em Rio de Janeiro (Recreio dos Bandeirantes). A Super Estágios é uma agência que integra empresas, estudantes e instituições de ensino, com o serviço de recrutamento, seleção e gestão dos programas de estágios com o permanente acompanhamento de todos os processos. A empresa é pioneira na implantação de um moderno modelo de gestão, alinhando tecnologia com a ",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
+    {
+      "url": "https://www.jobbol.com.br/vaga/29387134439",
+      "board": "indeed",
+      "sources": [
+        "indeed"
+      ],
+      "sourceUrls": [
+        "https://br.indeed.com/viewjob?jk=4cf76ba473e85cd0"
+      ],
+      "title": "ESTAGIÁRIO TÉCNICO NA ÁREA DE ADMINISTRAÇÃO - Tijuca - Sem experiência (Provedor de Talentos)",
+      "company": "Jobbol",
+      "city": "Rio de Janeiro, RJ, BR",
+      "state": "",
+      "mode": "unknown",
+      "relevance": "Área afim — confirmar se aceita RI",
+      "compatibility": "related",
+      "deadline": null,
+      "published": "2026-10-07T00:00:00.000",
+      "evidence": "…ência de Integração de Estágio busca profissional Estagiário Técnico na área de Administração em Rio de Janeiro (Tijuca). O Provedor de Talentos iniciou sua trajetória no ano de 2002 como Agente de Integração, desenvolvendo soluções customizadas atendendo aos interesses dos clientes na execução dos Programas de Desenvolvimento de Recursos Humanos, propiciando a capacitação e a qualificação dos jovens para o mercado de trabalho, através do Program",
+      "firstSeen": "2026-11-04T21:06:14.437819+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
+      "searchScopes": [
+        "rio"
+      ]
+    },
     {
       "url": "https://www.linkedin.com/jobs/view/4481955507",
       "board": "linkedin",
@@ -66,7 +1028,7 @@
       "evidence": "…, Gestão Comercial, Gestão Financeira, Processos Gerenciais, Ciências Atuariais, Relações Internacionais ou correlatos; Disponibilidade para realizar estágio durante Janeiro e Fevereiro de segunda à sexta no Centro do Rio de Janeiro. Turno da aulas noturno ou possiblidade para trocar no curto prazo; Etapas do processo seletivo: Avaliação de currículo/LinkedIn Vídeo-entrevista Ligação com o RH Teste prático Entrevista presencial com o gestor da ár",
       "firstSeen": "2026-11-03T02:44:03.104618+00:00",
       "lastSeen": "2026-11-03T02:44:03.104618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -92,7 +1054,7 @@
       "evidence": "…, Gestão Comercial, Gestão Financeira, Processos Gerenciais, Ciências Atuariais, Relações Internacionais ou correlatos; Disponibilidade para realizar estágio durante Janeiro e Fevereiro de segunda à ****sexta no Centro do Rio de Janeiro. Turno da aulas noturno ou possiblidade para trocar no curto prazo; Etapas do processo seletivo: Avaliação de currículo/LinkedIn Vídeo-entrevista Ligação com o RH Teste prático Entrevista presencial com o gestor d",
       "firstSeen": "2026-11-03T02:44:03.104618+00:00",
       "lastSeen": "2026-11-03T02:44:03.104618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -118,7 +1080,7 @@
       "evidence": "Se você é apaixonado(a) por comunicação, está cursando Publicidade, Marketing, Jornalismo, Comunicação Social ou Administração, tem inglês avançado e quer aprender de verdade, aqui é o lugar certo para você crescer! Responsabilidades: Construção de briefings para produção de campanhas Construção de briefings para materiais gráficos Construção dos materiais de lançamentos das marcas Mapeamento de oportunidade para produção de conteúdos",
       "firstSeen": "2026-11-03T02:44:03.104618+00:00",
       "lastSeen": "2026-11-03T02:44:03.104618+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -143,7 +1105,7 @@
       "published": "2026-10-28T00:00:00.000",
       "evidence": "Empresa de Serviços de Transportes e Logística busca profissional Estagiário na área de Logística em Rio de Janeiro (Penha). O Grupo Prolog é uma empresa especializada em soluções logísticas e de transporte. Com foco na eficiência e inovação, oferece serviços personalizados para atender às necessidades de seus clientes. Responsabilidades Apoiar a Coordenação. Alimentar planilhas e relatórios. Acompanhar ",
       "firstSeen": "2026-11-03T02:44:03.104618+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -169,7 +1131,7 @@
       "published": "2026-10-22T00:00:00.000",
       "evidence": "Está preparado(a) para fazer parte de um time que faz a diferença, buscando oportunidades de desenvolvimento para sempre fazer o melhor? O Grupo Urca Energia é esse lugar. Nosso grupo, que inclui as empresas Bem Verde , Gás Verde , Eva Energia , Urca Trading e Urca Gás , oferece soluções ambientais incríveis, desde a produção até a venda, para quem acredita em um futuro mais sustentável. Nosso objetivo é revolucionar o futuro energético do Brasil",
       "firstSeen": "2026-11-03T02:44:03.104618+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -196,7 +1158,7 @@
       "evidence": "…dades e atribuições Coordenar e executar atividades relacionadas ao Programa de Compliance e Integridade. Atuar na identificação, avaliação e mitigação de riscos de compliance, éticos e regulatórios. Apoiar a implementação, manutenção e monitoramento de políticas, normas, procedimentos e controles internos. Conduzir avaliações de conformidade, monitoramentos, análises de riscos e planos de ação relacionados aos temas de compliance. Ser responsáve",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "remote"
       ]
@@ -221,7 +1183,7 @@
       "published": "2026-09-29T00:00:00.000",
       "evidence": "Descrição da vaga: O CIEE Rio em parceria com a FGV busca estudantes de Administração Comunicação cursos superiores de tecnologia nas áreas de gestão e processos organizacionais e áreas afins que estejam cursando o 4° período com disponibilidade para estagiar por 6h diárias em Botafogo - RJ Grade Horária: 30 horas Semanais e 2 folgas Semanais Atividades: Auxiliar na organização logística de eventos científicos;,Apoiar na preparação e envi",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -247,7 +1209,7 @@
       "published": "2026-09-24T00:00:00.000",
       "evidence": "… lugar pode ser com a gente! Atividades: Sobre a vaga Buscamos um Estagiário de Marketing dinâmico e criativo para integrar nossa equipe de comunicação e contribuir com projetos que impactam diretamente nossos clientes e resultados de negócio. Se você tem paixão por marketing digital, gosta de aprender rapidamente e quer fazer parte de um ambiente colaborativo, essa é a oportunidade certa. Responsabilidades Gerenciar e publicar conteúdo nas princ",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -273,7 +1235,7 @@
       "published": "2026-10-17T00:00:00.000",
       "evidence": "…ada vez mais organizadas, seguras e eficientes Requisitos e qualificações Estar cursando Administração, Engenharia de Produção, Gestão de Processos, Gestão Financeira, Economia ou áreas correlatas ; Ser uma pessoa organizada e atenta aos detalhes ; Ter cuidado e senso de responsabilidade com as informações tratadas; Ter boa comunicação e facilidade para interagir com diferentes pessoas e áreas ; Ter iniciativa para buscar informações e tirar dúvi",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -299,7 +1261,7 @@
       "published": "2026-10-16T00:00:00.000",
       "evidence": "… chance /ppbr/ppO CIEE RIO em parceria com a SERVIER buscam Estudantes de strongAdministração ou Direito cursando a partir do 3° período para Estágio com atuação na área de Compliance/strong/ppO estágio será no modelo presencial das 8h30 às 15h30 e acontecerá em Jacarepaguá/RJ/ppbr/ppBolsa-auxílio strongR170000/strong/ppA empresa também oferecestrong Plano de Saúdenbsp;Plano Odontológico Seguro de Vida Bolsa Natalina Auxílio Refeição R6000 por di",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -325,7 +1287,7 @@
       "published": "2026-10-16T00:00:00.000",
       "evidence": "Descrição da vaga: O CIEE Rio busca estudantes de Administração e Gestão de RH cursando do 2° ao antepenúltimo período para estágio Riachuelo/RJ Presencial 8h às 14h ou 14h às 20h Bolsa R90000 Benefícios TotalPass e parceria com o SESC Candidate-se e dê o próximo passo na sua carreira Fique atentoa ao e-mail para acompanhar o processo seletivo Grade Horária: Não foi possível encontrar essa informação em nossa base de",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -351,7 +1313,7 @@
       "published": "2026-10-06T00:00:00.000",
       "evidence": "…bre a vaga: Quer conquistar sua vaga de estágio na Band? Se você é estudante de Marketing, Publicidade e Propaganda, Ciência de Dados, candidate-se e venha fazer parte de uma das maiores redes de comunicação do País! Aqui você trabalhará em um ambiente inovador e com atividades que contribuirão para o seu desenvolvimento profissional. Principais atribuições: Coletar e analisar dados de audiência e mercado;. Criar apresentações e relatórios visuai",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -378,7 +1340,7 @@
       "evidence": "Empresa de Recrutamento e Seleção busca profissional Estagiário na área de Administração em Rio de Janeiro (Centro). Nattasha Regina é uma consultora de recursos humanos especializada no atendimento a empresas do setor de comércio, com foco em recrutamento, seleção e estruturação de processos de RH. Atua na identificação e atração de talentos alinhados ao perfil e à cultura da empresa, utilizando metodologias estratégicas e dados para apoiar",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -403,7 +1365,7 @@
       "published": "2026-10-16T00:00:00.000",
       "evidence": "…/strong em parceria comstrong TBG/strong busca estudantes cursando do strong de ADMINISTRAÇÃO ou CIÊNCIAS CONTÁBEIS/strong a partir do 4º período com disponibilidade para estagiar 6 horas por dia Grade Horária: 30 horas Semanais e 2 folgas Semanais Atividades: Apoio na revisão das fichas de controles internos;,Apoio na gestão do cadastro de partes relacionadas;,Apoio no ciclo de avaliação de controles internos.. Requisitos: Cursando nível superio",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -430,7 +1392,7 @@
       "evidence": "Empresa atuante no mercado de certificação digital seleciona estudantes de Administração, 4º ao 7º período, para oportunidade de estágio. Atividades: Elaborar e atualizar o fluxo diário de caixa; realizar conciliação bancária; acompanhar e controlar o fluxo de caixa mensal; realizar o controle de contas a pagar e a receber; efetuar lançamentos e atualizações em sistemas e planilhas financeiras; emitir notas fiscais e demais documentos relaci",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -456,7 +1418,7 @@
       "evidence": "Consultoria de recursos humanos busca profissional Estagiário na área de Recursos Humanos em Rio de Janeiro (Centro). A Ultra+ RH é uma consultoria de RH ágil e especializada. Seus serviços são focados em: terceirização da folha de pagamento, recrutamento e seleção e contratação de estagiários. Trazem também soluções personalizadas que atendam às necessidades das empresas. O que imp",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -481,7 +1443,7 @@
       "published": "2026-10-27T00:00:00.000",
       "evidence": "…s. Requisitos e qualificações Pré-requisitos: Estudantes do 2º ao 6º período da graduação em Administração, Marketing, Jornalismo, Publicidade e Propaganda, Relações Públicas, Ciências Sociais ou áreas correlatas; Disponibilidade para estagiar 6 horas por dia; Estrutura adequada para trabalho remoto; Interesse por redes sociais, comportamento do consumidor, tendências digitais e inteligência de mercado; Familiaridade ou interesse em ferramentas d",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -508,7 +1470,7 @@
       "evidence": "…lizados, garantindo a qualidade e a organização dos dados. Requisitos: Cursando graduação em Administração, Economia, Ciências Contábeis, Engenharia, Matemática, Estatística ou áreas correlatas. Conhecimento Intermediário/Avançado em Excel; Conhecimento em Power BI será considerado um diferencial. Escolaridade Mínima: Ensino Superior Formação desejada: Administração de empresas, Ensino Superior Economia, Ensino Superior Auxilio Home-Office 130,11",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "remote"
       ]
@@ -534,7 +1496,7 @@
       "evidence": "Concessionária de Caminhões busca profissional Estagiário na área de Administração em Biguaçu. A Cavese faz parte da rede de concessionárias cativas da Scania no Brasil. Oferecem as melhores soluções para seus clientes em caminhões novos e seminovos, ônibus, peças e serviços. São 7 casas presentes nas principais regiões de Santa Catarina, cobrindo 219 munícipios. Responsabilidades: Auxiliar na abertura de requisição de compras dentro d",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "remote"
       ]
@@ -559,7 +1521,7 @@
       "published": "2026-10-19T00:00:00.000",
       "evidence": "…à experiência e retenção de clientes. REQUISITOS E QUALIFICAÇÕES Estar cursando graduação em Administração, Gestão Comercial, Marketing, Comunicação, Gestão de Processos, Recursos Humanos, Psicologia ou áreas correlatas; Conhecimento básico de planilhas e ferramenta como Excel ou Google Sheets; Boa comunicação oral e escrita; Organização e atenção aos detalhes para atualizar registros e acompanhar pendências; Empatia, cordialidade e interesse em ",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -586,7 +1548,7 @@
       "evidence": "…as e apaixonadas por relacionamento com clientes para fazer parte do nosso time Comercial. Se você gosta de trabalhar com pessoas, possui facilidade de comunicação, é organizado(a), gosta de desafios e deseja desenvolver uma carreira nas áreas Comercial, Marketing e Atendimento, essa oportunidade é para você. Aqui, você terá contato direto com estratégias de captação de alunos, atendimento comercial, relacionamento com clientes, marketing digital",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -611,7 +1573,7 @@
       "published": "2026-10-19T00:00:00.000",
       "evidence": "…ngajamento nas ações de aprendizagem. REQUISITOS E QUALIFICAÇÕES Estar cursando graduação em Comunicação, Jornalismo, Pedagogia, Letras, Marketing, Recursos Humanos, Design ou áreas relacionadas; Ter boa comunicação escrita e atenção à clareza das informações; Gostar de aprender, pesquisar e organizar conteúdos; Ter organização, curiosidade e disposição para receber orientações e trabalhar em equipe; Ter interesse por educação, produção de conteú",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -637,7 +1599,7 @@
       "published": "2026-10-21T00:00:00.000",
       "evidence": "Vem ser RJZ Cyrela e transforme o futuro com a gente! Na Cyrela, transformamos espaços e criamos experiências únicas que encantam e inspiram. Com mais de 60 anos de história, estamos sempre em busca de inovação e sustentabilidade, oferecendo soluções diferenciadas no setor imobiliário. Valorizamos o potencial das pessoas e acreditamos que, juntos, podemos construir um futuro melhor. Se você é apaixonado por transformar, colaborar e fazer a difere",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -663,7 +1625,7 @@
       "published": "2026-10-21T00:00:00.000",
       "evidence": "Vem ser RJZ Cyrela e transforme o futuro com a gente! Na Cyrela, transformamos espaços e criamos experiências únicas que encantam e inspiram. Com mais de 60 anos de história, estamos sempre em busca de inovação e sustentabilidade, oferecendo soluções diferenciadas no setor imobiliário. Valorizamos o potencial das pessoas e acreditamos que, juntos, podemos construir um futuro melhor. Se você é apaixonado por transformar, colaborar e fazer a difere",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -689,7 +1651,7 @@
       "published": "2026-10-28T00:00:00.000",
       "evidence": "A sua missão será atuar na área de Marketing. Responsabilidades e atribuições Como será o seu dia-a-dia: Apoiar o controle e acompanhamento de despesas da área, auxiliando na análise de gastos e identificação de oportunidades de otimização. Auxiliar na elaboração e atualização de relatórios gerenciais, garantindo a organização e confiabilidade das informações. Contribuir para a melhoria dos processos d",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -715,7 +1677,7 @@
       "published": "2026-10-26T00:00:00.000",
       "evidence": "…buição de materiais. Apoiar o time de varejo nas demandas operacionais de Trade Marketing. Elaborar apresentações mensais em PowerPoint ou Canva com os registros e destaques das ações implementadas no período. Requisitos e qualificações Ensino superior em andamento em Marketing, Publicidade e Propaganda, Administração ou áreas correlatas. Conhecimento de Canva, PowerPoint e Excel. Organização, atenção aos detalhes, boa comunicação e facilidade pa",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -742,7 +1704,7 @@
       "evidence": "…s adicionais Esteja cursando os seguintes cursos e ou correlatos: Tecnologia em Marketing | Publicidade; Comunicação Social | Publicidade e Propaganda | Relações Públicas Nós te convidamos a desenvolver suas habilidades e crescer profissionalmente, ao lado de um time diverso e talentoso. Na nossa empresa, valorizamos o trabalho em equipe, a inovação e o compromisso com a excelência. ﻿Se você busca um ambiente de trabalho estimulante, com oportuni",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -768,7 +1730,7 @@
       "evidence": "Estágio Marketing (CRM) Desde sua criação em 1950 e sua invenção do conceito de férias com tudo incluído, o Club Med é o líder mundial em seu mercado, dentro de um espírito definitivamente de alto nível, amigável e multicultural. Com mais de 70 Villages de férias nos mais belos recantos do mundo, seu navio de cruzeiro e suas Vilas e Chalés de luxo, o Club Med é hoje, mais do ",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -794,7 +1756,7 @@
       "evidence": "…. Job Posting Location: Rio de Janeiro, Rio de Janeiro, Brazil Functional Area: Marketing Working Model: Hybrid Requisition ID: 14362 Acreditamos em um futuro sustentável com um olhar sensível às mudanças globais, e às necessidades individuais da vida que são o nosso maior propósito. Acreditamos na Inovação, e que juntos continuaremos vivendo intensamente nossa missão de Salvar e Proteger vidas ao redor do mundo. Estamos atuando na construção de ",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -820,7 +1782,7 @@
       "evidence": "…odução de conteúdo e rotina das redes sociais. Requisitos e qualificações Estar cursando Comunicação Social: Publicidade e Propaganda; Jornalismo; Marketing; Audiovisual ou áreas correlatas ; Interesse por redes sociais, comunicação digital e produção de conteúdo; Habilidade para captação de fotos e vídeos pelo celular; Conhecimento dos formatos e linguagens das redes sociais, especialmente Instagram, Stories e Reels ; Familiaridade com ferrament",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -843,9 +1805,9 @@
       "compatibility": "related",
       "deadline": null,
       "published": "2026-10-28T00:00:00.000",
-      "evidence": "Empresa de Serviços de Transportes e Logística busca profissional Estagiário na área de Logística em Rio de Janeiro (Penha). A Prolog Transportes e Logística atua no setor de transporte e logística, oferecendo soluções integradas para a movimentação de cargas. A empresa se dedica a atender as necessidades de seus clientes com eficiência e qualidade. Responsabilidades: Apoiar a Coordenação. Alimentar plan",
+      "evidence": "Empresa de Serviços de Transportes e Logística busca profissional Estagiário na área de Logística em Rio de Janeiro (Penha). A Prolog Transportes e Logística é uma empresa brasileira com sede em Nova Iguaçu, Rio de Janeiro, especializada no transporte rodoviário de cargas, distribuição de mercadorias e soluções logísticas integradas. Atua no atendimento aos setores de comércio eletrônico, varejo, indústr",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -872,7 +1834,7 @@
       "evidence": "EMPRESA DE MODA INFANTIL SELECIONA ESTUDANTES DE LOGÍSTICA, DO 1° AO 3° PERÍODO, PARA OPORTUNIDADE DE ESTÁGIO. ATIVIDADES: SEPARAR OS PEDIDOS REALIZADOS NO SITE E MARKETPLACES. CONFERIR OS PRODUTOS, TAMANHOS, CORES E QUANTIDADES. EMBALAR OS PEDIDOS CORRETAMENTE. ETIQUETAR E ORGANIZAR AS ENCOMENDAS PARA ENVIO. PREPARAR OS PEDIDOS PARA COLETA DAS TRANSPORTADORAS E ENTREGADORES. CONFERIR NOTAS FISCAIS E INFORMAÇÕES DE ",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -897,7 +1859,7 @@
       "published": "2026-09-22T00:00:00.000",
       "evidence": "…s um diferencial. Interesse por análise de dados, comportamento do consumidor e inteligência de mercado. Boa capacidade analítica e atenção aos detalhes. Boa comunicação escrita e verbal. Organização e habilidade para gerenciar múltiplas atividades simultaneamente. Facilidade para trabalhar em equipe e interagir com diferentes áreas. Perfil proativo, com vontade de aprender e desenvolver novas habilidades. Informações adicionais O que oferecemos?",
       "firstSeen": "2026-11-03T02:38:39.107697+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -923,7 +1885,7 @@
       "published": "2026-10-28T20:59:50.244Z",
       "evidence": "…idades e atribuiçõesDesenvolver e publicar conteúdos para os canais internos de comunicação voltados aos profissionais da empresa;Realizar a criação de layouts, captação de fotos e vídeos e edição de materiais audiovisuais;Manter os canais internos da companhia atualizados;Apoiar na identificação das necessidades de comunicação das áreas da empresa e propor soluções alinhadas à estratégia de comunicação e cultura organizacional;Apoiar na organiza",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -949,7 +1911,7 @@
       "published": "2026-10-21T18:41:28.047Z",
       "evidence": "Está preparado(a) para fazer parte de um time que faz a diferença, buscando oportunidades de desenvolvimento para sempre fazer o melhor? O Grupo Urca Energia é esse lugar.Nosso grupo, que inclui as empresas Bem Verde, Gás Verde, Eva Energia, Urca Trading e Urca Gás, oferece soluções ambientais incríveis, desde a produção até a venda, para quem acredita em um futuro mais sustentável.Nosso objetivo é revolucionar o futuro energético do Brasil, e nã",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -975,7 +1937,7 @@
       "published": "2026-09-22T20:25:38.828Z",
       "evidence": "… boletos e PIX, eliminando divergências e assegurando consistência no fechamento financeiro.Responder chamados e atendimentos relacionados a cancelamentos, prorrogações, confirmação de pagamentos, alterações de serviços e outras solicitações das escolas.Acompanhar os recebimentos da plataforma Decodificar e garantir que estejam corretamente lançados e conciliados.Gerar boletos de manutenções, lançamentos avulsos e serviços extras.Garantir que tod",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1001,7 +1963,7 @@
       "published": "2026-11-01T01:17:57.479Z",
       "evidence": "Nascemos em 2017 com o propósito de Ser a Melhor Empresa de Saneamento PARA o Brasil. Hoje, estamos presentes em diversos municípios e estados brasileiros, com o objetivo de contribuir para que o país alcance a universalização dos serviços de água e esgoto.Nosso modelo de negócios consiste em concessões e parcerias público-privadas (PPPs). Somos uma das principais companhias de saneamento do país, inserida na vida de comunidades de diferentes por",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1027,7 +1989,7 @@
       "published": "2026-10-30T18:05:14.142Z",
       "evidence": "…ira). Interesse por temas de matriz energética, inovação, transição ecológica e relações institucionais;Inglês fluente ou avançado (leitura, escrita e conversação;Domínio intermediário a avançado do Pacote Office / Google Workspace (especialmente Excel/Planilhas para análise de dados e PowerPoint para apresentações executivas)Informações adicionaisBolsa Auxílio: R$1.700,00Benefícios: VT",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1053,7 +2015,7 @@
       "published": "2026-10-28T14:32:28.056Z",
       "evidence": "Apoiará a área de Planejamento Financeiro nas rotinas de fechamento mensal, acompanhamento de Realizado x Orçado, atualização de bases e relatórios gerenciais, organização de arquivos de orçamento e estimativas, bem como no suporte operacional aos sistemas de planejamento. Atua na consolidação e conferência de informações financeiras, na preparação de materiais para acompanhamento de resultados e n",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1079,7 +2041,7 @@
       "published": "2026-10-21T14:12:22.266Z",
       "evidence": "…Office e Canva;Conhecimento em aplicação de testes psicológicos, subsistemas de Recursos Humanos e Treinamento.Informações adicionaisLocal de trabalho: Tijuca/RJ;Horário: Segunda à sexta - 8:00 às 14:00.Benefícios:Vale-transporte;Seguro de Vida.",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1105,7 +2067,7 @@
       "published": "2026-10-16T13:53:10.099Z",
       "evidence": "…istória! :)Responsabilidades e atribuiçõesAuxiliar na coleta e análise de dados financeiros para relatórios internos;Apoiar na preparação de relatórios financeiros mensais, trimestrais e anuais;Ajudar na elaboração de projeções financeiras e orçamentos;Colaborar com outras equipes para entender e interpretar os impactos financeiros de suas atividades;Participar de reuniões e contribuir com ideias para melhorias nos processos financeiros.Requisito",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1131,7 +2093,7 @@
       "published": "2026-10-08T18:16:37.162Z",
       "evidence": "Se você gosta de Marketing, tem interesse por Trade e quer aprender na prática sobre campanhas, materiais de PDV e ações de varejo, essa pode ser a sua próxima oportunidade!Estamos em busca de um Estagiário(a) de Trade Marketing para apoiar as rotinas da área, acompanhando campanhas, materiais, controles e demandas junto a times internos, agências e fornecedores. Responsabilidades e a",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1157,7 +2119,7 @@
       "published": "2026-10-06T19:38:29.501Z",
       "evidence": "Vaga destinada a trabalhar com suporte a gestão de projetos de novos produtos. Responsabilidades e atribuiçõesSuportar a equipe de gestão de projetos;Acompanhar indicadores de performance da área;Desenvolver Power BI;Realizar melhorias em processos;Fazer interface com outras equipes; Requisitos e qualificações Estar cursando graduação em Administração, Economia, Engenharia, Estatística, Ciência de Dados ou á",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1183,7 +2145,7 @@
       "published": "2026-10-05T14:41:27.691Z",
       "evidence": "… capitais e transações envolvendo agências multilaterais, agências de crédito à exportação e outros financiadores internacionais.Responsabilidades e atribuiçõesElaboração e revisão de contratos financeiros, inclusive contratos de financiamento, instrumentos de emissão de valores mobiliários, contratos de garantia e instrumentos acessórios;Elaboração e revisão de atos societários;Interação com Juntas Comerciais e outros órgãos governamentais;Parti",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1209,7 +2171,7 @@
       "published": "2026-10-02T15:55:56.461Z",
       "evidence": "…nálises que apoiem decisões de sortimento, distribuição, exposição e estratégia comercial;Retail Merchandising: apoiar análises de performance por loja e cluster, identificando oportunidades de adequação do sortimento às diferentes características e potenciais das lojas;Pesquisa e referências: acompanhar mercado, tendências, concorrentes e comportamento de consumo em joias e acessórios, conectando essas referências aos resultados internos;Visão 3",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1235,7 +2197,7 @@
       "published": "2026-09-25T18:27:38.663Z",
       "evidence": "Estamos em busca de um ESTAGIÁRIO DE MARKETING para fazer parte da nossa equipe. Se você é um profissional organizado, dinâmico e comprometido, esta pode ser a oportunidade perfeita para você.Responsabilidades e atribuiçõesApoio na produção de conteúdo para redes sociais, campanhas e materiais institucionais;Auxílio no relacionamento com influenciadores e parceiros de mídia;Contato e alinhamento com as d",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1261,7 +2223,7 @@
       "published": "2026-10-07T13:35:35.841Z",
       "evidence": "…a organizada, proativa e com vontade de aprender para fazer parte do nosso time Financeiro.No estágio, você terá a oportunidade de conhecer na prática a rotina da área, apoiando atividades financeiras e administrativas e contribuindo para a organização dos controles e processos do dia a dia. Responsabilidades e atribuições Apoiar nas rotinas de contas a pagar e receber;Auxiliar na organização de documentos;Apoiar na conciliação bancária;Atualizar",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1288,7 +2250,7 @@
       "evidence": "Administrativa Segurança e ordem pública Realizar o auxilio na digitalização de processos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -1313,7 +2275,7 @@
       "published": null,
       "evidence": "Administrativa Segurança e ordem pública Realizar o auxilio na digitalização de processos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1339,7 +2301,7 @@
       "published": null,
       "evidence": "Administrativa Segurança e ordem pública Acompanhar processos Auxiliar no atendimento ao publico no controle e organização de documentos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1365,7 +2327,7 @@
       "published": null,
       "evidence": "Administrativa Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar a liberação de notas fiscais de veiculação para faturamento e contas a pagar Auxiliar nas rotinas de contas a pagar e a receber.",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1391,7 +2353,7 @@
       "published": null,
       "evidence": "Administrativa Segurança e ordem pública Auxiliar no atendimento e suporte a dúvidas das unidades, por telefone e e-mail",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1417,7 +2379,7 @@
       "published": null,
       "evidence": "Administrativa Acompanhar o atendimento ao cliente Auxiliar no controle de notas fiscais ou documentos Realizar atividade supervisionada de aprendizado ao auxiliar na emissão de notas fiscais",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1443,7 +2405,7 @@
       "published": null,
       "evidence": "Administrativa Educação infantil - pré-escola Acessar arquivos diversos Acessar arquivos diversos e auxiliar na execução de rotinas da área Acessar arquivos diversos e distinguir o status de relevância",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1469,7 +2431,7 @@
       "published": null,
       "evidence": "Administrativa Outras atividades profissionais, científicas e técnicas não especificadas anteriormente Apoiar a área de suporte administrativo Atuar no atendimento telefônico ao cliente Auxiliar no suporte administrativo e operacional",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1496,7 +2458,7 @@
       "evidence": "Administrativa Administração pública em geral no controle de protocolos, processos, prazos e cadastros relatórios e controles gerenciais dados e indicadores",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -1521,7 +2483,7 @@
       "published": null,
       "evidence": "Administrativa Outras atividades profissionais, científicas e técnicas não especificadas anteriormente Apoiar a área de suporte administrativo Atuar no atendimento telefônico ao cliente Auxiliar no suporte administrativo e operacional",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1547,7 +2509,7 @@
       "published": null,
       "evidence": "Administrativa Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional Acessar arquivos diversos Acessar arquivos diversos e auxiliar na execução de rotinas da área Acessar na elaboração de relatórios mensais",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1573,7 +2535,7 @@
       "published": null,
       "evidence": "Administrativa Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios Acompanhar a avaliação de dados e elaboração de relatórios específicos Auxiliar no controle de planilhas Fazer atualização e organizar dados diversos Realizar controle de estoque Acompanhar ,planejamento, administracao e controle da producao",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1599,7 +2561,7 @@
       "published": null,
       "evidence": "Administrativa Produção e promoção de eventos esportivos Acessar arquivos diversos e auxiliar na execução de rotinas da área Auxiliar nas rotinas de contas a pagar e a receber. Apoiar na conciliação bancária",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1625,7 +2587,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de organizações associativas ligadas à cultura e à arte Atualizar planilhas de controle Auxiliar nas rotinas de contas a pagar e a receber. Apoiar na conciliação bancária",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1651,7 +2613,7 @@
       "published": null,
       "evidence": "Administrativa Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados Acessar arquivos diversos e auxiliar na execução de rotinas da área Auxiliar no acompanhamento dos registros e relatórios de ponto eletrônico Realizar o suporte de processo de admissao",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1677,7 +2639,7 @@
       "published": null,
       "evidence": "Administrativa Acompanhar o atendimento ao cliente Auxiliar na geração de base para ações de CRM Auxiliar as areas nas burocracias de atendimento a forca de vendas Acompanhar relatórios e planilhas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1703,7 +2665,7 @@
       "published": null,
       "evidence": "Marketing Comércio atacadista de produtos alimentícios em geral Acompanhar a criação de materiais para clientes Acompanhar a elaboração de planos de conteúdo Acompanhar e auxiliar a elaboração de apresentações em PowerPoint Auxiliar na criacao de relatorios de campanhas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1729,7 +2691,7 @@
       "published": null,
       "evidence": "Marketing Comércio atacadista de produtos alimentícios em geral Acompanhar a elaboração de planos de conteúdo Acompanhar pedido de material para o departamento Ajudar na elaboração e divulgação de campanhas e peças publicitárias, envolvendo ações de criação e produção Fazer o cronograma semanal das gravações que deverão ser feitas pela equipe de vídeo Auxiliar na cria",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1755,7 +2717,7 @@
       "published": null,
       "evidence": "Administrativa Comércio atacadista de embalagens Auxiliar na emissão de documentos Auxiliar no controle de notas fiscais ou documentos Realizar o acompanhamento de pendencias de documento funcionais e ou contratos, pipeline, etc.",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1781,7 +2743,7 @@
       "published": null,
       "evidence": "Administrativa Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios Acessar arquivos diversos e auxiliar na execução de rotinas da área Auxiliar no gerenciamento do sistema de qualidade ISO 9002 Auxiliar no atendimento interno",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1807,7 +2769,7 @@
       "published": null,
       "evidence": "Administrativa Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados Auxiliar no acompanhamento dos registros e relatórios de ponto eletrônico Realizar o suporte de processo de admissao Prestar suporte nas demais atividades da área",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1834,7 +2796,7 @@
       "evidence": "Recursos Humanos Ensino fundamental Acessar na elaboração de relatórios mensais Auxiliar nas atividades de recrutamento e seleção Avaliar entrevistas e questionários Coordenar o acompanhamento de entrevistas Realizar atividades supervisionadas de aprendizado na execução de processo seletivos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -1860,7 +2822,7 @@
       "evidence": "Administrativa Atividades de fiscalização profissional na organização dos processos de compras e licitações processos de compras e licitações no sistema operacional utilizado na comunicação com fornecedores via telefone e email",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -1885,7 +2847,7 @@
       "published": null,
       "evidence": "Administrativa Serviços combinados de escritório e apoio administrativo Auxiliar na rotina administrativa Realizar o suporte na gestão dos arquivos de apoio a analise Verificar documentos Realizar o suporte de processo de admissao",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1911,7 +2873,7 @@
       "published": null,
       "evidence": "Recursos Humanos Serviços combinados de escritório e apoio administrativo Auxiliar nas atividades de recrutamento e seleção Auxiliar no controle de planilhas Auxiliar na conferência de documentos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1937,7 +2899,7 @@
       "published": null,
       "evidence": "Marketing Outras atividades de telecomunicações não especificadas anteriormente Cadastrar novos clientes Acompanhar as atividades externas para producao de conteudo para redes sociais e websites Auxiliar na classificacao dos conteudos enviados e recebidos nas redes sociais, de acordo com os assuntos tratados",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1963,7 +2925,7 @@
       "published": null,
       "evidence": "Administrativa Outras atividades de telecomunicações não especificadas anteriormente Auxiliar no contato com clientes Conduzir auditoria de processos Auxiliar rotinas administrativas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -1989,7 +2951,7 @@
       "published": null,
       "evidence": "Marketing Apoiar a equipe de marketing nos assuntos relacionados aos meios de comunicação Auxiliar a equipe de produção na organização dos materiais e equipamentos da área Auxiliar na execução de mídia Apoiar na assessoria à equipe em questões de layout gráfico e no planejamento e implementação de projetos gráficos (publicações, folders, pôsteres, etc.)",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2041,7 +3003,7 @@
       "published": null,
       "evidence": "Recursos Humanos Serviços combinados de escritório e apoio administrativo Atuar como apoio para atividades da área administrativa/financeira e gestão de pessoas Auxiliar nas atividades de recrutamento e seleção Conferir documentações diversas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2068,7 +3030,7 @@
       "evidence": "Marketing Auxiliar a implementação das campanhas Auxiliar na construção de layouts, edição de fotos, busca de imagens em bancos Auxiliar na criação de designs digitais",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -2094,7 +3056,7 @@
       "evidence": "Administrativa Serviços de arquitetura Auxiliar no gerenciamento de mídias sociais Elaborar material para site e redes sociais Participar do planejamento e controle das ações de marketing",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -2119,7 +3081,7 @@
       "published": null,
       "evidence": "Administrativa Marketing direto Apoiar o desenvolvimento da prospecção de clientes, análise de mercado Auxiliar no contato com clientes Organizar agenda de reunião e relatório de resultados da área Auxiliar na prospecção de clientes",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2145,7 +3107,7 @@
       "published": null,
       "evidence": "Comunicação Seleção e agenciamento de mão-de-obra Acompanhar conteúdos publicitários Auxiliar na publicação de conteúdo nas redes sociais Auxiliar a edicao de videos para serem publicados nas plataformas digitais Auxiliar na produção de conteúdo",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2171,7 +3133,7 @@
       "published": null,
       "evidence": "Administrativa Fabricação de artefatos de borracha não especificados anteriormente Auxiliar no lançamento de dados em sistema Cooperar na confeccao de relatorios Acompanhar os fechamentos contábeis mensais Auxiliar na Organização e recebimento de documentos Auxiliar na execução de rotinas da área",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2197,7 +3159,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de fisioterapia Acessar arquivos diversos e auxiliar na execução de rotinas da área Atuar no atendimento telefônico ao cliente Auxiliar na rotina administrativa",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2224,7 +3186,7 @@
       "evidence": "Administrativa Comércio varejista de livros Fazer lançamentos contábeis Organizar planilhas da área; Auxiliar rotinas administrativas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -2249,7 +3211,7 @@
       "published": null,
       "evidence": "Marketing Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente Acompanhar a criação, desenvolvimento, produção e divulgação das atividades de marketing Acompanhar as ações que envolvam a imagem da empresa Auxiliar na execução de mídia",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2301,7 +3263,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de organizações associativas ligadas à cultura e à arte Auxiliar no atendimento e orientações gerais ao público Auxiliar no controle de planilhas Apoiar em processos de cadastros Auxiliar nas rotinas administrativas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2327,7 +3289,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar nas rotinas administrativas do setor Organizar e participar em eventos e reuniões de treinamento Participar do planejamento de estratégias de marketing",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2353,7 +3315,7 @@
       "published": null,
       "evidence": "Administrativa Agências de viagens Auxiliar no controle de contas a pagar e a receber Auxiliar no faturamento Auxiliar o fluxo de caixa",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2379,7 +3341,7 @@
       "published": null,
       "evidence": "Administrativa Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas Atender clientes internos e externos Auxiliar no controle de planilhas Enviar , receber e controlar os e-mails",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2405,7 +3367,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar a digitalização dos documentos e tabloides do setor Auxiliar no arquivo de documentos Auxiliar na Organização e recebimento de documentos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2431,7 +3393,7 @@
       "published": null,
       "evidence": "Marketing Atuar no suporte em edição de vídeos Auxiliar na execução de mídia Auxiliar no suporte à área de marketing Apoiar na edição da infoletter digital",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2457,7 +3419,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de associações de defesa de direitos sociais Auxiliar na rotina administrativa Realizar o suporte administrativo e operacional Auxiliar no setor pessoal",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2483,7 +3445,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar na avaliação de processos e apólices de seguros Auxiliar no controle de planilhas Auxiliar no suporte administrativo e operacional Fazer cotações de seguros",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2509,7 +3471,7 @@
       "published": null,
       "evidence": "RELACOES INTERNACIONAIS Outras atividades profissionais, científicas e técnicas não especificadas anteriormente Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar as atualizações dos relatórios mensais Apoiar no desenvolvimento de estudos, análises e pesquisas sobre setores específicos e situação de mercado",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2535,7 +3497,7 @@
       "published": null,
       "evidence": "Administrativa Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente Auxiliar a geração de solicitações de compras Auxiliar o lançamento e correção de notas no sistema Fazer a conferência de fluxo de caixa Auxiliar o supervisor no controle de contas a pagar e receber",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2561,7 +3523,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de teleatendimento Auxiliar na matrícula de alunos Conduzir orientação aos estudantes cadastrados sobre serviços e procedimentos Realizar atividade supervisionada de aprendizado ao atualizar cadastro no sistema",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2587,7 +3549,7 @@
       "published": null,
       "evidence": "Administrativa Peritos e avaliadores de seguros Atualizar planilhas de controle Auxiliar a digitalizar e organizar documentos Auxiliar na elaboração de e-mails corporativos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2613,7 +3575,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar no atendimento de emissão de nota fiscal eletrônica Auxiliar no controle de entrada de notas fiscais de ativos Compor com o auxilio nos pagamentos das notas fiscais e boletos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2639,7 +3601,7 @@
       "published": null,
       "evidence": "Administrativa Acompanhar contratos e processos Acompanhar o atendimento ao cliente Coletar e verificar documentação de clientes",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2665,7 +3627,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar na extração de dados, consolidação das informações e análise de relatórios Executar e acompanhar os indicadores da área Auxiliar no processo de análise de relatórios gerenciais",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2691,7 +3653,7 @@
       "published": null,
       "evidence": "Comunicação Comércio varejista de artigos de joalheria Auxiliar a divulgação de ações e moderação das redes sociais Acompanhar as redes sociais Auxiliar na criacao de roteiros e storyboards Auxiliar na producao de conteudo para redes sociais",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2717,7 +3679,7 @@
       "published": null,
       "evidence": "Comunicação Lanchonetes, casas de chá, de sucos e similares Esclarecer duvidas dos clientes sobre produtos e serviços. Prestar suporte nas demais atividades da área Auxiliar no atendimento ao cliente",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2743,7 +3705,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar na montagem de cronograma e controle de entregas Auxiliar no controle de prazos Auxiliar no recebimento, conferência e confirmação de pedidos Controlar arquivos e documentos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2769,7 +3731,7 @@
       "published": null,
       "evidence": "Administrativa Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas Atender clientes internos e externos Auxiliar no controle de planilhas Enviar , receber e controlar os e-mails",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2795,7 +3757,7 @@
       "published": null,
       "evidence": "Comunicação Conduzir o auxilio na manutenção de websites Esclarecer duvidas dos clientes sobre produtos e serviços. Fazer divulgação da empresa em sites e blogs Planejar material para atualização diária do site Auxiliar na producao de conteudo para redes sociais",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2821,7 +3783,7 @@
       "published": null,
       "evidence": "Administrativa Atividade médica ambulatorial com recursos para realização de exames complementares Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhamento e pagamento de notas fiscais e acompanhamento orçamentário Auxiliar no controle de planilhas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2847,7 +3809,7 @@
       "published": null,
       "evidence": "Administrativa Apoiar na digitação das notas fiscais de pagamento Auxiliar no atendimento ao cliente Acompanhar notas fiscais e pagamentos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2873,7 +3835,7 @@
       "published": null,
       "evidence": "Administrativa Impressão de material para uso publicitário Acessar arquivos diversos Acessar arquivos diversos e auxiliar na execução de rotinas da área Acessar arquivos diversos e distinguir o status de relevância",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2899,7 +3861,7 @@
       "published": null,
       "evidence": "Comunicação Correspondentes de instituições financeiras Acompanhar publicações em redes sociais Atuar em pesquisa na Internet Auxiliar na criação de projetos de comunicação visual",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2925,7 +3887,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar na conferencia de entregas ou despachos de materiais e mercadorias Auxiliar na entrada e saída de mercadorias do estoque Auxiliar na montagem de cronograma e controle de entregas Alimentar planilhas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -2952,7 +3914,7 @@
       "evidence": "Administrativa Atividades de fiscalização profissional Auxiliar na elaboração de memorando, ofícios e despachos Auxiliar no controle de materiais Controlar a entrada e saída de processos Auxiliar no atendimento telefonico Auxiliar na elaboração de planilhas e relatórios",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -2977,7 +3939,7 @@
       "published": null,
       "evidence": "Administrativa Atualizar planilhas e relatórios Conduzir a verificação de pagamentos Realizar o apoio no atendimento ao publico interno e externo (protocolo) Auxiliar na recepcao e triagem de documentos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3003,7 +3965,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de apoio à educação, exceto caixas escolares Auxiliar nas rotinas administrativas Realizar atividades supervisionadas de aprendizado ao organizar documentos, prontuários e/ou registros diversos Realizar o atendimento e orientação ao cliente/ paciente Realizar o controle de planilhas Auxiliar em atividades do setor",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3030,7 +3992,7 @@
       "evidence": "Administrativa Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia Participar do suporte na comunicação e satisfação do cliente Realizar o atendimento e orientação ao cliente/ paciente Realizar o auxilio nos destaques e divulgações das campanhas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -3056,7 +4018,7 @@
       "evidence": "Administrativa Administração pública em geral Acompanhar a tramitação de documentos Auxiliar na consolidação das informações Auxiliar na elaboração de atas de reunião Auxiliar no controle de planilhas Auxiliar no controle de processos internos Avaliar e apresentar indicadores de desempenho Cooperar na elaboração de documentos oficiais Realizar atividades de apoio admi",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -3081,7 +4043,7 @@
       "published": null,
       "evidence": "Administrativa Acompanhar o atendimento ao cliente Acompanhar notas fiscais e pagamentos Prestar suporte nas demais atividades da área",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3107,7 +4069,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar nas rotinas administrativas do setor Elaborar documentos, relatórios, planilhas e formulários diversos Organizar a documentação do processo de admissão dos colaboradores contratados",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3133,7 +4095,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de atenção ambulatorial não especificadas anteriormente Atuar no atendimento telefônico ao cliente Auxiliar na organização de documentos Auxiliar na execução de rotinas da área",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3159,7 +4121,7 @@
       "published": null,
       "evidence": "Administrativa Comércio varejista de móveis Alimentar dados em sistemas corporativos Auxiliar no controle de planilhas Atender ao cliente",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3185,7 +4147,7 @@
       "published": null,
       "evidence": "Administrativa Comércio a varejo de automóveis, camionetas e utilitários usados Acessar arquivos diversos e auxiliar na execução de rotinas da área Acessar arquivos diversos e elaborar relatórios sob demanda Acompanhamento supervisionado de relatórios da área administrativa",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3237,7 +4199,7 @@
       "published": null,
       "evidence": "RELACOES INTERNACIONAIS Auxiliar na organização de documentos Preparar documentação relativa a formalização de processos Realizar atividades supervisionadas de aprendizado ao fazer contato com fornecedores e requisitantes internos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3263,7 +4225,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar nas atividades de recrutamento e seleção de pessoal Auxiliar no acompanhamento dos registros e relatórios de ponto eletrônico Auxiliar os funcionários de treinamento da área",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3289,7 +4251,7 @@
       "published": null,
       "evidence": "Administrativa Atuar no atendimento telefônico ao cliente Acompanhar notas fiscais e pagamentos Auxiliar no controle de estoque",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3315,7 +4277,7 @@
       "published": null,
       "evidence": "Comércio Exterior Conduzir apoio aos processos de elaboração de propostas Fazer follow-up junto às áreas parceiras sobre os indicadores de pessoas das áreas de atendimento interno Auxiliar no preenchimento de planilhas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3341,7 +4303,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar no recebimento, conferência e confirmação de pedidos Fazer a emissão de pedidos ou baixa de estoque Liberar pedidos Realizar controle de estoque Registrar pedidos de clientes",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3367,7 +4329,7 @@
       "published": null,
       "evidence": "Marketing Seleção e agenciamento de mão-de-obra Auxiliar a redigir textos Auxiliar na execução de mídia Executar a criação de artes para folder, filipeta, banner, cartaz e catálogo Oferecer suporte no desenvolvimento e realização de eventos Organizar e acompanhar as campanhas.",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3393,7 +4355,7 @@
       "published": null,
       "evidence": "Economia Auxiliar nos documentos administrativos Conduzir o acompanhamento da gestão de carteiras Auxiliar no acompanhamento de planilhas e controle do setor",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3419,7 +4381,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar na rotina administrativa Arquivar e manter documentos atualizados e organizados Auxiliar na elaboração de relatório em excel Auxiliar elaboração de planilhas do excel/word",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3445,7 +4407,7 @@
       "published": null,
       "evidence": "Administrativa Comércio varejista de brinquedos e artigos recreativos Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar e emitir pedido de vendas dos clientes dentro do setor de estagio Acompanhar os recebimentos de planilhas, mercadorias e materiais em geral Auxiliar na rotina administrativa Acompanhar o recebimento dos pedidos pelos forn",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3471,7 +4433,7 @@
       "published": null,
       "evidence": "Comunicação Serviços de organização de feiras, congressos, exposições e festas Acompanhar a produção e aprovação interna das peças promocionais Acompanhar a prospecção de novos clientes Acompanhar as pautas de criação e briefings Auxiliar na analise de propostas de negocio da área comercial Auxiliar na produção de conteúdo e gestão das redes sociais da empresa Auxilia",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3497,7 +4459,7 @@
       "published": null,
       "evidence": "Marketing Treinamento em desenvolvimento profissional e gerencial Analisar veículos de comunicação Atuar no suporte em edição de vídeos Auxiliar nas pesquisas de referencias Auxiliar no acompanhamento de entrevistas e de gravação de vídeos Fazer pesquisas na internet",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3523,7 +4485,7 @@
       "published": null,
       "evidence": "Administrativa Acessar arquivos diversos e auxiliar na execução de rotinas da área Auxiliar na elaboração de relatórios Auxiliar no suporte administrativo e operacional",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3549,7 +4511,7 @@
       "published": null,
       "evidence": "Administrativa Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal. Atualizar sistemas de controle Auxiliar na organização de documentos Auxiliar nas atividades administrativas do setor Auxiliar no controle de planilhas Auxiliar na elaboracao de relatorios",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3575,7 +4537,7 @@
       "published": null,
       "evidence": "Marketing Auxiliar na execução de mídia Auxiliar no suporte à área de marketing Executar a criação de artes para folder, filipeta, banner, cartaz e catálogo",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3601,7 +4563,7 @@
       "published": null,
       "evidence": "Administrativa Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal. Atualizar sistemas de controle Auxiliar nas atividades administrativas do setor Auxiliar no controle de planilhas Auxiliar na elaboracao de relatorios Auxiliar na organização de documentos",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3628,7 +4590,7 @@
       "evidence": "Comunicação Comércio varejista de artigos do vestuário e acessórios Acompanhar o planejamento estratégico de mídias sociais Acompanhar publicações em redes sociais Auxiliar na edição de vídeos Auxiliar no gerenciamento de mídias sociais Realizar o acompanhamento de publicações em redes sociais Auxiliar no atendimento ao cliente",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -3653,7 +4615,7 @@
       "published": null,
       "evidence": "Marketing Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências Assessorar no planejamento de mídia Auxiliar na pesquisa de conteúdo e imagens para desenvolvimento de peças Auxiliar no desenvolvimento de conteúdo para redes sociais",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3679,7 +4641,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de psicologia e psicanálise Atualizar e alimentar o sistema Auxiliar no atendimento ao público Auxiliar no controle de planilhas",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3706,7 +4668,7 @@
       "evidence": "Marketing Auxiliar na execução de mídia Auxiliar na interface com as lojas para levantamento de oportunidades locais e alinhamento das ações planejadas Auxiliar no suporte de marketing e vendas Auxiliar no atendimento ao cliente",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -3732,7 +4694,7 @@
       "evidence": "Administrativa Auxiliar nos cálculos de impostos Auxiliar nos processos de faturamento Elaborar relatórios de contabilidade",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -3758,7 +4720,7 @@
       "evidence": "Administrativa Serviços advocatícios Auxiliar no controle de planilhas Auxiliar na conciliacao bancaria Auxiliar nas rotinas de contas a pagar e a receber.",
       "firstSeen": "2026-11-03T02:34:53.982354+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -3783,7 +4745,7 @@
       "published": "2026-10-29T21:49:45.077Z",
       "evidence": "…sponsabilidades e atribuições Prestar suporte direto à equipe de relacionamento comercial (Bankers/Superintendência) e de originação/execução em todas as etapas da esteira de crédito, produtos estruturados e formalização de operações para clientes de grande porte.Suporte à Esteira de Crédito e Análise:Planilhamento Financeiro: Extração, consolidação e inserção de demonstrações financeiras (DRE, Balanço Patrimonial, DFC) nos sistemas internos de c",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3809,7 +4771,7 @@
       "published": "2026-10-29T18:35:29.011Z",
       "evidence": "…atrocínio.Requisitos e qualificações Cursando ensino superior em Administração, Relações Internacionais, Comunicação Social, Publicidade e Propaganda, Marketing ou áreas correlatas;Conhecimento intermediário em Excel e familiaridade com o Pacote Office;Inglês intermediário;Conhecimento em Canva;Familiaridade com redes sociais e interesse pela produção de conteúdos e materiais visuais;Disponibilidade para atuar em modelo híbrido, sendo 3 dias pres",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3835,7 +4797,7 @@
       "published": "2026-10-28T18:20:15.800Z",
       "evidence": "🎯 A sua missão será atuar na área de Marketing.Responsabilidades e atribuiçõesComo será o seu dia-a-dia:Apoiar o controle e acompanhamento de despesas da área, auxiliando na análise de gastos e identificação de oportunidades de otimização.Auxiliar na elaboração e atualização de relatórios gerenciais, garantindo a organização e confiabilidade das informações.Contribuir para a melhoria dos processos da áre",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3861,7 +4823,7 @@
       "published": "2026-10-28T13:48:29.050Z",
       "evidence": "…Requisitos e qualificaçõesEstar cursando graduação em Logística, Administração, Comércio Exterior, Finanças ou áreas correlatadas com previsão de conclusão à partir de junho/2028.Boa capacidade analítica.Disponibilidade para atuar no período matutino (pelo menos 3 vezes na semana).Pacote Office Avançado (Ênfase em Excel: tabela dinâmica, PROCV, fórmulas, gráficos, etc...)Power BI para visualização e extração de dadosFacilidade com números e lógic",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3887,7 +4849,7 @@
       "published": "2026-10-28T11:28:36.305Z",
       "evidence": "… partir de 2028.1;Estar cursando graduação em Administração, Comércio Exterior, Relações Internacionais, Defesa, Estratégia Internacional ou áreas afins;Conhecimentos do Microsoft Office;Inglês intermediário alto a avançado;Interesse em freight forwarding e operações logísticas será um diferencial.Informações adicionaisNa DMS respiramos inovação e somos fascinados por pessoas! Aqui temos plano de carreira e gestão do desempenho, com oportunidades",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3913,7 +4875,7 @@
       "published": "2026-10-26T18:04:24.780Z",
       "evidence": "…ibuição de materiais.Apoiar o time de varejo nas demandas operacionais de Trade Marketing.Elaborar apresentações mensais em PowerPoint ou Canva com os registros e destaques das ações implementadas no período.Requisitos e qualificaçõesEnsino superior em andamento em Marketing, Publicidade e Propaganda, Administração ou áreas correlatas.Conhecimento de Canva, PowerPoint e Excel.Organização, atenção aos detalhes, boa comunicação e facilidade para tr",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3939,7 +4901,7 @@
       "published": "2026-10-22T20:41:48.203Z",
       "evidence": "…de negócios que começa com o cultivo da cana-de-açúcar até chegar na produção e comercialização de etanol, açúcar e bioenergia.Atuamos ainda – sob licença da marca Shell – na distribuição de combustíveis, lubrificantes e outras especialidades no Brasil, além de operações de refino na Argentina e distribuição de derivados de combustíveis e lubrificantes na Argentina e no Paraguai.Se identificou?Estamos em busca de Estagiário para atuar no time de ",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3965,7 +4927,7 @@
       "published": "2026-10-16T19:37:23.406Z",
       "evidence": "…ões adicionaisEsteja cursando os seguintes cursos e ou correlatos:Tecnologia em Marketing | Publicidade;Comunicação Social | Publicidade e Propaganda | Relações Públicas",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -3991,7 +4953,7 @@
       "published": "2026-10-16T18:24:11.624Z",
       "evidence": "… cada vez mais organizadas, seguras e eficientesRequisitos e qualificaçõesEstar cursando Administração, Engenharia de Produção, Gestão de Processos, Gestão Financeira, Economia ou áreas correlatas;Ser uma pessoa organizada e atenta aos detalhes;Ter cuidado e senso de responsabilidade com as informações tratadas;Ter boa comunicação e facilidade para interagir com diferentes pessoas e áreas;Ter iniciativa para buscar informações e tirar dúvidas qua",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4017,7 +4979,7 @@
       "published": "2026-10-14T14:19:14.150Z",
       "evidence": "…rias da BAT. A vaga envolve contato direto com temas de performance, estratégia comercial, desenvolvimento de plano de comunicação e cadastro das ofertas promocionais. Dessa forma, será necessário participar tanto de tarefas analíticas, suporte na criação de comunicação quanto de processos operacionais que sustentam o cotidiano do negócio. Responsabilidades e atribuiçõesAcompanhamento de indicadores de Performance comercial;Atualização de relatór",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4043,7 +5005,7 @@
       "published": "2026-10-13T22:04:15.244Z",
       "evidence": "…as e apaixonadas por relacionamento com clientes para fazer parte do nosso time Comercial.Se você gosta de trabalhar com pessoas, possui facilidade de comunicação, é organizado(a), gosta de desafios e deseja desenvolver uma carreira nas áreas Comercial, Marketing e Atendimento, essa oportunidade é para você.Aqui, você terá contato direto com estratégias de captação de alunos, atendimento comercial, relacionamento com clientes, marketing digital e",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4069,7 +5031,7 @@
       "published": "2026-10-09T21:23:09.583Z",
       "evidence": "Buscamos pessoas comunicativas, determinadas, que gostem de gente e tenham ambição de crescer junto com uma das maiores joalherias do país.Responsabilidades e atribuiçõesResponsável pelo acompanhamento e análise dos principais indicadores (KPIs) da área.Analisar dados e números para entender o desempenho das lojas e apoiar na tomada de decisões.Montar e divulgar reports de indicadores de venda de loja. Apoiar no acompanhamento das rotinas operaci",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4095,7 +5057,7 @@
       "published": "2026-10-09T14:20:13.666Z",
       "evidence": "…tre outros).Requisitos e qualificaçõesRequisitos e qualificações Estar cursando graduação em Administração, Economia, Engenharia, Marketing ou áreas correlatas. Previsão de formatura a partir de junho/julho de 2028. Perfil proativo, com vontade de aprender e desenvolver novas habilidades. Boa comunicação escrita e verbal. Conhecimento intermediário de Excel e PowerPoint. Organização e habilidade para gerenciar múltiplas atividades simultaneamente",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4121,7 +5083,7 @@
       "published": "2026-10-30T19:09:09.613Z",
       "evidence": "…eto. Requisitos e qualificaçõesPré-requisitos:Estudantes do 2º ao 6º período da graduação em Administração, Marketing, Jornalismo, Publicidade e Propaganda, Relações Públicas e áreas de comunicação correlatas;Disponibilidade para estagiar 6 horas por dia;Estrutura adequada para trabalho remoto;Boa comunicação escrita e interesse por redação para ambientes digitais;Interesse por redes sociais, comportamento do consumidor e relacionamento entre mar",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4147,7 +5109,7 @@
       "published": "2026-10-27T13:40:10.597Z",
       "evidence": "…gas. Requisitos e qualificaçõesPré-requisitos:Estudantes do 2º ao 6º período da graduação em Administração, Marketing, Jornalismo, Publicidade e Propaganda, Relações Públicas, Ciências Sociais ou áreas correlatas;Disponibilidade para estagiar 6 horas por dia;Estrutura adequada para trabalho remoto;Interesse por redes sociais, comportamento do consumidor, tendências digitais e inteligência de mercado;Familiaridade ou interesse em ferramentas de in",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4173,7 +5135,7 @@
       "published": "2026-10-25T03:11:16.610Z",
       "evidence": "…ssoas de diferentes níveis de senioridade e áreas;E quais as funções?Estágio em Marketing e Vendas | Pesados OnlinePrincipais atividadesApoiar a captação de novos anunciantes e a ampliação do estoque de máquinas do Pesados Online;Desenvolver ações comerciais para atrair proprietários e empresas interessadas em vender seus equipamentos;Apoiar a prospecção de clientes, anunciantes e novas oportunidades de negócios;Promover o engajamento do time int",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4199,7 +5161,7 @@
       "published": "2026-10-07T15:02:33.736Z",
       "evidence": "…toria e no desenvolvimento de soluções de tecnologia e inovação voltadas para a sustentabilidade, gestão de ativos ambientais e no desenvolvimento de estratégias visando a ecoeficiência e a economia Net-Zero. Somos movidos pela vontade em comum de impactar a sociedade positivamente, pautados pela inovação, pela valorização das pessoas, pela geração de valor e pela ética.Sua missão será apoiar no desenvolvimento de atividades técnicas relacionados",
       "firstSeen": "2026-11-03T02:24:22.226752+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4225,7 +5187,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica Desenvolver material para treinamentos Auxiliar na elaboracao de formularios, graficos, planilhas, fluxogramas, planos de acao e demais instrumentos organizacionais Auxiliar a digitalizar e organizar documentos",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4251,7 +5213,7 @@
       "published": null,
       "evidence": "Administrativa Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador Ajudar no atendimento de telefone e de público Auxiliar na rotina administrativa Auxiliar nas negociações com os fornecedores",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4277,7 +5239,7 @@
       "published": null,
       "evidence": "Administrativa Administração pública em geral Redação de ofícios, despachos, portarias, decisões e memorandos Contato telefônico e via e-mail com departamentos e instituições diversas Elaborar planilhas e documentos",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4303,7 +5265,7 @@
       "published": null,
       "evidence": "Administrativa Instalação de máquinas e equipamentos industriais Acompanhar contratos e processos Analisar documentos e planilhas Arquivar documentos Conferir entregas ou despachos de materiais e mercadorias",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4329,7 +5291,7 @@
       "published": "2026-10-30T00:00:00.000",
       "evidence": "… área. Requisitos Ensino Superior cursando em Comércio Exterior, Administração, Relações Internacionais ou áreas correlatas; Conhecimento no Pacote Office, principalmente Excel; Inglês intermediário, sendo o nível avançado um diferencial. Buscamos Alguém Com Organização e atenção aos detalhes; Proatividade e produtividade; Boa comunicação; Facilidade para aprender e utilizar sistemas; Interesse em aprender e se desenvolver na área de Comércio Ext",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4355,7 +5317,7 @@
       "published": "2026-10-29T00:00:00.000",
       "evidence": "…sponsabilidades e atribuições Prestar suporte direto à equipe de relacionamento comercial (Bankers/Superintendência) e de originação/execução em todas as etapas da esteira de crédito, produtos estruturados e formalização de operações para clientes de grande porte. Suporte à Esteira De Crédito e Análise Planilhamento Financeiro: Extração, consolidação e inserção de demonstrações financeiras (DRE, Balanço Patrimonial, DFC) nos sistemas internos de ",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4381,7 +5343,7 @@
       "published": "2026-10-30T00:00:00.000",
       "evidence": "…sponsabilidades e atribuições Prestar suporte direto à equipe de relacionamento comercial (Bankers/Superintendência) e de originação/execução em todas as etapas da esteira de crédito, produtos estruturados e formalização de operações para clientes de grande porte. Suporte à Esteira de Crédito e Análise: Planilhamento Financeiro: Extração, consolidação e inserção de demonstrações financeiras (DRE, Balanço Patrimonial, DFC) nos sistemas internos de",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4407,7 +5369,7 @@
       "published": "2026-10-28T00:00:00.000",
       "evidence": "…equisitos e qualificações Estar cursando graduação em Logística, Administração, Comércio Exterior, Finanças ou áreas correlatadas com previsão de conclusão à partir de junho/2028. Boa capacidade analítica. Disponibilidade para atuar no período matutino (pelo menos 3 vezes na semana). Pacote Office Avançado (Ênfase em Excel: tabela dinâmica, PROCV, fórmulas, gráficos, etc...) Power BI para visualização e extração de dados Facilidade com números e ",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4433,7 +5395,7 @@
       "published": "2026-10-29T00:00:00.000",
       "evidence": "…itos e qualificações Ensino superior completo ou em andamento em Administração, Comércio Exterior, Logística, Engenharia, Economia ou áreas correlatas; Experiência inicial em compras, suprimentos ou procurement (estágio ou experiência júnior será considerado); Vivência ou conhecimento básico de negociação com fornecedores; Excel intermediário; Disponibilidade para trabalhar presencialmente em Eldorado do Sul/RS. Informações adicionais Será um dif",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -4485,7 +5447,7 @@
       "published": "2026-10-30T00:00:00.000",
       "evidence": "…, processos e tecnologia. Aqui, você terá a oportunidade de conhecer a operação comercial de ponta a ponta, acompanhando indicadores, CRM, pipeline e processos que apoiam a tomada de decisão e a produtividade do time. Se você gosta de dados, organização, tecnologia e negócios , essa oportunidade pode ser para você! Responsabilidades e atribuições CRM e qualidade de dados Apoiar a atualização, organização e manutenção dos dados no CRM; Acompanhar ",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -4511,7 +5473,7 @@
       "published": "2026-10-29T00:00:00.000",
       "evidence": "…ilidades: Horário: 6hs Nível: Estágio Regime de contratação: Estágio ESTÁGIO EM MARKETING E CONTEÚDO DIGITAL- Clínica de Estética Bairro Santo Agostinho/BH ATIVIDADES: Apoiar o planejamento e execução do calendário de conteúdo; Acompanhar e organizar a produção de Reels, Stories e Carrosséis; Criar e adaptar peças utilizando a identidade visual já estabelecida; Produzir conteúdos de antes e depois; Organizar capas e manter o feed visualmente harm",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -4538,7 +5500,7 @@
       "evidence": "…ças e melhorar a saúde da população através de nossa oportunidade de Estágio em Marketing - Onco-Hematologia. Educação necessária: Cursando ensino superior em Farmácia, Administração, Comunicação e Marketing ou áreas afins a partir do 3º período com previsão de Graduação a partir de Dezembro de 2028. Previsão de Data de início: Janeiro de 2027 Data limite para inscrição: 11 de Novembro de 2026 Previsão da data de entrevista: Novembro de 2026 Busc",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "remote"
       ]
@@ -4563,7 +5525,7 @@
       "published": "2026-10-27T00:00:00.000",
       "evidence": "…o, reporte para nossa equipe. Seu desafio no time O time de Geração de Demanda e Marketing da Feedz está construindo do zero a operação de inbound da plataforma de gestão de pessoas da TOTVS para pequenas e médias empresas. Como pessoa Designer Júnior, você dará vida visual às campanhas da Feedz, criando peças digitais com qualidade, agilidade e consistência de marca para apoiar a geração de demanda qualificada. Você também desenvolverá sua visão",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -4589,7 +5551,7 @@
       "published": "2026-10-31T00:00:00.000",
       "evidence": "…a para Estágio/ppA empresa busca candidatos com interesse de atuação na área de Recursos Humanos que tenham vontade de aprender e boa capacidade de adaptação/p Grade Horária: Segunda-feira das 1000 até 1600 Terça-feira das 1000 até 1600 Quarta-feira das 1000 até 1600 Quinta-feira das 1000 até 1600 Sexta-feira das 1000 até 1600 Atividades: Controle de documentação, digitalização e arquivo;,Lançamento de dados e controle de planilhas excel;,Apoio e",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4615,7 +5577,7 @@
       "published": "2026-10-30T00:00:00.000",
       "evidence": "Você tem espírito comercial, fome por vendas e gosta de transformar oportunidades em resultados? Estamos em busca de uma pessoa comunicativa, proativa e com atitude, que tenha vontade de aprender, negociar e bater metas. Alguém que goste de desafios, tenha energia para conquistar novos clientes e queira crescer na área comercial, fazendo parte da nossa Central de Reservas. No El Misti,",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4641,7 +5603,7 @@
       "published": "2026-10-30T00:00:00.000",
       "evidence": "…o. Requisitos e qualificações Pré-requisitos: Estudantes do 2º ao 6º período da graduação em Administração, Marketing, Jornalismo, Publicidade e Propaganda, Relações Públicas e áreas de comunicação correlatas; Disponibilidade para estagiar 6 horas por dia; Estrutura adequada para trabalho remoto; Boa comunicação escrita e interesse por redação para ambientes digitais; Interesse por redes sociais, comportamento do consumidor e relacionamento entre",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -4668,7 +5630,7 @@
       "evidence": "…stema. Requisitos: Cursando Ensino Técnico ou Superior em Administração, Gestão Comercial, Processos Gerenciais ou áreas correlatas; Excelente comunicação verbal e escrita; Perfil proativo, organizado e com foco em resultados; Conhecimento básico em informática (Pacote Office, com foco em Excel); Disponibilidade para estagiar de segunda a sexta-feira, das 7h às 14h (com 1h de intervalo). Diferenciais: Interesse ou vivência na área de atendimento ",
       "firstSeen": "2026-11-02T21:47:06.785802+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -4693,7 +5655,7 @@
       "published": null,
       "evidence": "Administrativa Apoiar a equipe de marketing nos assuntos relacionados aos meios de comunicação Auxiliar na organização de documentos Auxiliar no atendimento ao cliente",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4719,7 +5681,7 @@
       "published": null,
       "evidence": "Administrativa Administração pública em geral AUXILIAR NA AUTUACAO DE PROCESSOS E DOCUMENTOS AUXILIAR NA TRAMITACAO DE DOCUMENTOS NO SISTEMA MGP Acompanhamento supervisionado das atividades da área de engenharia de estruturas",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4745,7 +5707,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar na digitação de documentos Acompanhar as demandas do setor Auxiliar na execução de rotinas da área",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4771,7 +5733,7 @@
       "published": null,
       "evidence": "Administrativa Artes cênicas, espetáculos e atividades complementares não especificadas anteriormente Acessar arquivos diversos e auxiliar na execução de rotinas da área Analisar propostas de fornecedores Auxiliar na área comercial Auxiliar na confecção e elaboração de propostas e contratos comerciais para clientes Apoiar na elaboração de relatórios e documentos admin",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4797,7 +5759,7 @@
       "published": null,
       "evidence": "Administrativa Corretores e agentes de seguros, de planos de previdência complementar e de saúde Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar contratos e processos Atuar no atendimento telefônico ao cliente",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -4849,7 +5811,7 @@
       "published": "2026-10-20T00:00:00.000",
       "evidence": "…rganizar dados e controles da mesa, em Excel ou com programação. O que buscamos Estudante de Economia, Engenharia, Administração, Matemática ou cursos afins, [a partir do 4º período, com formatura a partir de 2028]. Boa base quantitativa e facilidade com números. Interesse real por mercado financeiro, em especial opções e derivativos. Comunicação clara, por escrito e na conversa. Disponibilidade para 6 horas por dia, presencial. Diferenciais Conh",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4864,7 +5826,7 @@
       "sourceUrls": [
         "https://www.linkedin.com/jobs/view/4481503944"
       ],
-      "title": "ESTAGIÁRIO DE MARKETING - TIJUCA/RJ",
+      "title": "ESTAGIÁRIO (A) DE MARKETING - SOCIAL MEDIA - TIJUCA/RJ",
       "company": "Equipe Certa",
       "city": "Rio de Janeiro, Rio de Janeiro, Brazil",
       "state": "",
@@ -4875,8 +5837,8 @@
       "published": "2026-10-20T00:00:00.000",
       "evidence": "… comprometida em entregar resultados. Estamos procurando um(a) estagiário(a) de marketing apaixonado(a) por moda, escrita e redes sociais para fazer parte do nosso time criativo. Conheça melhor nossa marca: https://www.lucidez.com.br/ Seu Principal Desafio Auxiliar na condução das estratégias de marketing e comunicação, abrangendo desde a pesquisa de mercado e análise de público-alvo até a criação e execução de campanhas publicitárias. Principais",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-10-26T18:43:17.727361+00:00",
-      "status": "não encontrada na última coleta",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
+      "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -4901,7 +5863,7 @@
       "published": "2026-10-24T00:00:00.000",
       "evidence": "…companhantes; Realizar procedimentos de autorização de convênios; Prestar apoio administrativo aos setores envolvidos; Auxiliar nas rotinas administrativas e no atendimento da unidade. Cidade : Rio de Janeiro - RJ Região : Tijuca Regime De Contratação Estágio Departamento Administrativo",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4927,7 +5889,7 @@
       "published": "2026-10-22T00:00:00.000",
       "evidence": "ESTÁGIO - ESTUDANTES DE RELAÇÕES INTERNACIONAIS Inicie sua jornada na hotelaria de luxo em um dos hotéis mais icônicos do mundo. O Copacabana Palace , a Belmond Hotel, reconhecido entre os melhores hotéis do mundo pelo The World’s 50 Best Hotels 2026 , está com oportunidades abertas para quem deseja encantar, aprender e crescer em um ambiente de excelência. O QUE VOCÊ IRÁ APRENDER E VIVENCIA",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -4979,7 +5941,7 @@
       "published": "2026-10-21T00:00:00.000",
       "evidence": "… mandatório: Estar cursando Administração, Publicidade e Propaganda, Marketing, Relações Internacionais, ou áreas correlatas, com formação prevista entre dezembro/2028 e Julho/2029 Perfil analítico, organizado, proativo e com vontade de aprender. Disponibilidade para estagiar 6h/dia. Para essa posição, é desejável: Interesse por análise de dados e elaboração de apresentações; Conhecimento em Power BI será considerado um diferencial; Conhecimento ",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -5006,7 +5968,7 @@
       "evidence": "Empresa de Comércio Exterior busca profissional Estagiário na área de Ciências Contábeis em Rio de Janeiro (Centro). É uma empresa atua fortemente no setor de Comércio Exterior e Logística Internacional. Responsabilidades: Acompanhar processos de importação nos sistemas. Realizar lançamentos de informações das rotinas operacionais. Apoiar a equipe nas atividades de importação e ",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -5057,7 +6019,7 @@
       "published": "2026-10-14T00:00:00.000",
       "evidence": "Criação de propaganda/comercial em outros idiomas e para todo país; Criação de apresentações visuais; - Mandar e-mail para donos das empresas para agendamento de reuniões.- Criação de propaganda/comercial em outros idiomas e para todo país; Criação de apresentações visuais; Mandar e-mail para donos das empresas para agendamento de reuniões.",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -5109,7 +6071,7 @@
       "published": "2026-10-22T00:00:00.000",
       "evidence": "…de negócios que começa com o cultivo da cana-de-açúcar até chegar na produção e comercialização de etanol, açúcar e bioenergia. Atuamos ainda – sob licença da marca Shell – na distribuição de combustíveis, lubrificantes e outras especialidades no Brasil, além de operações de refino na Argentina e distribuição de derivados de combustíveis e lubrificantes na Argentina e no Paraguai. Se identificou? Estamos em busca de Estagiário para atuar no time ",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -5135,7 +6097,7 @@
       "published": "2026-10-25T00:00:00.000",
       "evidence": "…oas de diferentes níveis de senioridade e áreas; E quais as funções? Estágio em Marketing e Vendas | Pesados Online Principais atividades Apoiar a captação de novos anunciantes e a ampliação do estoque de máquinas do Pesados Online; Desenvolver ações comerciais para atrair proprietários e empresas interessadas em vender seus equipamentos; Apoiar a prospecção de clientes, anunciantes e novas oportunidades de negócios; Promover o engajamento do tim",
       "firstSeen": "2026-10-26T18:43:17.727361+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -5162,7 +6124,7 @@
       "evidence": "Marketing Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios Auxiliar na execução de mídia Auxiliar no cadastro e controle de jobs Fazer pesquisas na internet Acompanhamento de campanha para monitorar crises e oportunidades;",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -5187,7 +6149,7 @@
       "published": null,
       "evidence": "Administrativa Auxiliar no atendimento a clientes e fornecedores Conduzir a organização de documentos Receber , atender e orientar clientes internos e externos Auxiliar no acompanhamento de planilhas e controle do setor Auxiliar no setor administrativo",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -5239,7 +6201,7 @@
       "published": null,
       "evidence": "Administrativa Atividades de cobranças e informações cadastrais Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar o atendimento ao cliente Auxiliar nos procedimentos administrativos do setor",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -5291,7 +6253,7 @@
       "published": null,
       "evidence": "Administrativa Corretores e agentes de seguros, de planos de previdência complementar e de saúde Acessar arquivos diversos e auxiliar na execução de rotinas da área Acompanhar e conferir processos Acompanhar fluxo de vendas Analisar e desenvolver o fluxo de atendimento aos usuários Apoiar a equipe de atendimento na atualização de informações cadastrais",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -5395,7 +6357,7 @@
       "published": "2026-10-15T00:00:00.000",
       "evidence": "…rapidamente pelo email: vaga-398851@vagas.abler.in Nível: Estagiário Cursos de: Administração Escolaridade: Graduação - Administração - Cursando Tipo de contrato: Estagiário Jornada de trabalho: Empresa atuante no mercado de certificação digital seleciona estudantes de Administração, 4º ao 7º período, para oportunidade de estágio. Atividades: Elaborar e atualizar o fluxo diário de caixa; realizar conciliação bancária; acompanhar e controlar o flu",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -5421,7 +6383,7 @@
       "published": "2026-10-16T00:00:00.000",
       "evidence": "…stema. Requisitos: Cursando Ensino Técnico ou Superior em Administração, Gestão Comercial, Processos Gerenciais ou áreas correlatas; Excelente comunicação verbal e escrita; Perfil proativo, organizado e com foco em resultados; Conhecimento básico em informática (Pacote Office, com foco em Excel); Disponibilidade para estagiar de segunda a sexta-feira, das 7h às 14h (com 1h de intervalo). Diferenciais: Interesse ou vivência na área de atendimento ",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -5499,7 +6461,7 @@
       "published": "2026-10-07T00:00:00.000",
       "evidence": "…s da área de Exatas Negócios e Gestão Administração Economia Ciências Contábeis Relações Internacionais Áreas correlatas Comunicação e Marketing Marketing Publicidade e Propaganda Áreas correlatas Requisitos Disponibilidade para estagiar em modelo híbrido ; Disponibilidade para jornada de 4 ou 6 horas diárias , em horário comercial; Residir ou possuir fácil acesso a uma das localidades abaixo: São Paulo/SP Rio de Janeiro/RJ Belo Horizonte/MG Nova",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -5525,7 +6487,7 @@
       "published": "2026-10-07T00:00:00.000",
       "evidence": "…a organizada, proativa e com vontade de aprender para fazer parte do nosso time Financeiro. No estágio, você terá a oportunidade de conhecer na prática a rotina da área, apoiando atividades financeiras e administrativas e contribuindo para a organização dos controles e processos do dia a dia. Responsabilidades e atribuições Apoiar nas rotinas de contas a pagar e receber; Auxiliar na organização de documentos; Apoiar na conciliação bancária; Atual",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -5552,7 +6514,7 @@
       "evidence": "…rias da BAT. A vaga envolve contato direto com temas de performance, estratégia comercial, desenvolvimento de plano de comunicação e cadastro das ofertas promocionais. Dessa forma, será necessário participar tanto de tarefas analíticas, suporte na criação de comunicação quanto de processos operacionais que sustentam o cotidiano do negócio. Responsabilidades e atribuições Acompanhamento de indicadores de Performance comercial; Atualização de relat",
       "firstSeen": "2026-10-19T18:45:27.819002+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -5629,7 +6591,7 @@
       "published": null,
       "evidence": "Administrativa Serviços de comunicação multimídia - SCM Acompanhamento e geração de indicadores de performance de atendimento eletrônico e atualização de relatórios de rotina Atualizar planilhas de controle Atuar no atendimento telefônico ao cliente",
       "firstSeen": "2026-10-12T21:18:58.086725+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -5655,7 +6617,7 @@
       "published": null,
       "evidence": "Marketing Construção de edifícios Planejar estratégias de marketing Planejar mapas de mídia Atender ao cliente",
       "firstSeen": "2026-10-12T21:18:58.086725+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -5759,7 +6721,7 @@
       "published": "2026-10-10T00:00:00.000",
       "evidence": "Descrição da vaga Buscamos pessoas comunicativas, determinadas, que gostem de gente e tenham ambição de crescer junto com uma das maiores joalherias do país. Responsabilidades e atribuições Responsável pelo acompanhamento e análise dos principais indicadores (KPIs) da área. Analisar dados e números para entender o desempenho das lojas e apoiar na tomada de decisões. Montar e divulgar reports de indicadores de venda de loja. Apoiar no acompanhamen",
       "firstSeen": "2026-10-12T21:18:58.086725+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -5889,7 +6851,7 @@
       "published": null,
       "evidence": "Administrativa Comércio varejista de artigos esportivos Acessar arquivos diversos e auxiliar na execução de rotinas da área Ajustar a planilha de controle Analisar documentos e planilhas",
       "firstSeen": "2026-10-05T20:40:58.763034+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -5941,7 +6903,7 @@
       "published": null,
       "evidence": "Administrativa Acompanhar as atividades diárias do departamento Auxiliar no acompanhamento dos registros e relatórios de ponto eletrônico Controlar entrada e saída de dados para manutenção dos benefícios Efetuar atividades que interagem com as áreas de produtos de RH: reestruturação de estrutura, desligamento, transferências, admissão, ponto eletrônico, benefícios etc",
       "firstSeen": "2026-10-05T20:40:58.763034+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -6074,7 +7036,7 @@
       "published": "2026-09-30T00:00:00.000",
       "evidence": "…harias, Administração, Publicidade e Propaganda, Marketing, Comunicação Social, Relações Internacionais ou áreas correlatas. Interesse e Busca por desenvolvimento : Interesse genuíno por vendas B2B, desenvolvimento de negócios, comunicação estratégica e pelo ecossistema de marketing digital e tecnologia. Comunicação e Oratória : Excelente comunicação verbal e escrita, com boa oratória, desenvoltura para se expressar em público e um perfil natural",
       "firstSeen": "2026-10-05T20:40:58.763034+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -6152,7 +7114,7 @@
       "published": "2026-10-02T00:00:00.000",
       "evidence": "… chance /ppbr/ppO CIEE RIO em parceria com a SERVIER buscam Estudantes de strongAdministração cursando a partir do 3° período para Estágio com atuação na área Administrativa e Vendas/strong/ppO estágio será no modelo presencial das 8h30 às 15h30 e acontecerá em Jacarepaguá/RJ/ppbr/ppBolsa-auxílio strongR170000/strong/ppA empresa também oferecestrong Plano de Saúdenbsp;Plano Odontológico Seguro de Vida Bolsa Natalina Auxílio Refeição R6000 por dia",
       "firstSeen": "2026-10-05T20:40:58.763034+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -6204,7 +7166,7 @@
       "published": "2026-10-01T00:00:00.000",
       "evidence": "…cada evento seja um sucesso, buscamos um(a) estagiário(a) para atuar no suporte administrativo, acompanhando os projetos do início ao fim. PERFIL Para somar ao nosso time, buscamos uma pessoa: Dinâmica e Proativa: Que tenha energia para lidar com o ritmo ágil e as demandas dos eventos. Organizada e Criteriosa: Com um olhar muito atento aos detalhes, garantindo que nenhuma informação ou etapa passe despercebida. Curiosa: Que tenha vontade de apren",
       "firstSeen": "2026-10-05T20:40:58.763034+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "remote"
@@ -6360,7 +7322,7 @@
       "published": null,
       "evidence": "Marketing Instalação e manutenção elétrica Auxiliar na execução de mídia Auxiliar no suporte à área de marketing Fazer pesquisas na internet",
       "firstSeen": "2026-09-28T19:43:19.364719+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -6387,7 +7349,7 @@
       "evidence": "Administrativa UTI móvel Acompanhar na execução das atividades internas das agências, apoiando nas rotinas administrativas e comerciais, elaborando documentos, relatórios, planilhas e formulários diversos Auxiliar na rotina administrativa Auxiliar no controle de planilhas Auxiliar na organizacao de arquivos",
       "firstSeen": "2026-09-28T19:43:19.364719+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -6465,7 +7427,7 @@
       "evidence": "Agência de Integração de Estágio busca profissional Estagiário na área de Marketing em Rio de Janeiro (Centro Rio). O Provedor de Talentos iniciou sua trajetória no ano de 2002 como Agente de Integração, desenvolvendo soluções customizadas atendendo aos interesses dos clientes na execução dos Programas de Desenvolvimento de Recursos Humanos, propiciando a capacitação e a qualificação dos jovens para o mercado de trabalho, através do Program",
       "firstSeen": "2026-09-28T19:43:19.364719+00:00",
       "lastSeen": "2026-11-03T02:38:39.107697+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "rio"
       ]
@@ -6620,7 +7582,7 @@
       "published": "2026-09-25T17:19:18.750Z",
       "evidence": "Estágio em Gestão de Processos e Projetos, para alunos de graduação em Administração, Economia ou Engenharias;Trabalho híbrido, com um dia presencial, no Centro do Rio, pertinho da estação Carioca do metrô.De segunda a sexta-feira, seis horas diárias, em horário flexível.Para estagiar e crescer no Instituto Infnet, uma faculdade com foco em Engenharias Tech, Ciência de Dados, Comunicação e Design Digital.Oportunidade de cont",
       "firstSeen": "2026-09-25T19:27:31.354398+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -6672,7 +7634,7 @@
       "published": null,
       "evidence": "Administrativa Acompanhamento do atendimento ao telefone Apoiar na inserção e atualização de dados no sistema Auxiliar na análise do imóvel",
       "firstSeen": "2026-09-25T19:27:31.354398+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -6724,7 +7686,7 @@
       "published": null,
       "evidence": "Marketing Serviços de comunicação multimídia - SCM Auxiliar no atendimento ao cliente Fazer atendimento ao cliente Auxiliar na execução de rotinas da área",
       "firstSeen": "2026-09-25T19:27:31.354398+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -6750,7 +7712,7 @@
       "published": null,
       "evidence": "Marketing Auxiliar na organização de planilhas de controle Auxiliar no atendimento ao cliente Auxiliar no controle de leads gerados nas atividades, entre outras atividades pertinentes ao cargo",
       "firstSeen": "2026-09-25T19:27:31.354398+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -6829,7 +7791,7 @@
       "evidence": "Marketing Acompanhar as planilhas de atividades de marketing planejadas (calendário de marketing) Atuar no suporte em edição de vídeos Auxiliar no atendimento ao cliente Auxiliar na confeccao de posts para as redes sociais",
       "firstSeen": "2026-09-25T19:27:31.354398+00:00",
       "lastSeen": "2026-11-03T02:37:57.212068+00:00",
-      "status": "encontrada na última coleta",
+      "status": "não encontrada na última coleta",
       "searchScopes": [
         "public"
       ]
@@ -6906,7 +7868,7 @@
       "published": null,
       "evidence": "Administrativa Gestão e administração da propriedade imobiliária Auxiliar na preparação e digitação de lançamentos contábeis Realizar o atendimento aos clientes Verificar e responder as solicitações dos clientes via telefone, e-mail e whatsapp",
       "firstSeen": "2026-09-25T19:27:31.354398+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -6984,7 +7946,7 @@
       "published": null,
       "evidence": "Administrativa Cadastrar follow-up de pedidos de compras Realizar o auxilio no controle de prazos, vencimentos e operações Apoiar a area operacional para interface com area de compras Apoiar a contratacao de fornecedores junto ao setor de compras Atualizar planilhas de indicadores e elaboração de relatorios Apoiar efetivamente nas cotações junto a fornecedores e follo",
       "firstSeen": "2026-09-25T19:27:31.354398+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -7192,7 +8154,7 @@
       "published": "2026-09-23T00:00:00.000",
       "evidence": "Descrição da vaga: O CIEE Rio busca estudantes de Administração ou Economia cursando 3º ao 5º período para estágio na empresa Local Centro - RJ Modalidade 4x presencial e 1x homeoffice Bolsa R 209600 Benefícios Auxílio transporte Auxílio Refeição R 84800 mensal Assistência Médica e Wellhub Gympass TotalPass e parceria com o SESC Candidate-se e dê o próximo passo na sua carreira Fique atentoa ao e-mail para acompanhar",
       "firstSeen": "2026-09-25T19:27:31.354398+00:00",
-      "lastSeen": "2026-11-03T02:38:39.107697+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -7374,7 +8336,7 @@
       "published": "2026-09-21T19:29:55.809Z",
       "evidence": "…os um diferencial.Interesse por análise de dados, comportamento do consumidor e inteligência de mercado.Boa capacidade analítica e atenção aos detalhes.Boa comunicação escrita e verbal.Organização e habilidade para gerenciar múltiplas atividades simultaneamente.Facilidade para trabalhar em equipe e interagir com diferentes áreas.Perfil proativo, com vontade de aprender e desenvolver novas habilidades. Informações adicionaisO que oferecemos?Nossos",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-11-03T02:34:53.982354+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -7556,7 +8518,7 @@
       "published": null,
       "evidence": "Administrativa Acompanhar o trabalho de auditoria Analisar documentos e planilhas Auxiliar no lançamento de dados em sistema",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-11-03T02:37:57.212068+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "public"
@@ -7634,7 +8596,7 @@
       "published": "2026-09-21T00:00:00.000",
       "evidence": "…ração de relatórios financeiros para revisão do CFO. Requisitos e qualificações Cursando Economia, Engenharia, Ciências Contábeis ou Administração, a partir do 4º período, com previsão de conclusão em pelo menos 12 meses; Ter cursado disciplinas básicas de Matemática e Estatística; Conhecimento avançado em Excel, incluindo conferência de fórmulas e identificação de inconsistências; Conhecimento para leitura e interpretação de Demonstração do Resu",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"
@@ -7660,7 +8622,7 @@
       "published": "2026-09-21T00:00:00.000",
       "evidence": "…ontratos, sistema de gestão e controles financeiros. Requisitos e qualificações Cursando Economia, Engenharia, Ciências Contábeis ou Administração, a partir do 4º período, com previsão de conclusão em pelo menos 12 meses; Ter cursado disciplinas básicas de Matemática e Estatística; Conhecimento avançado em Excel, incluindo conferência de fórmulas e identificação de inconsistências; Conhecimento para leitura e interpretação de Demonstração do Resu",
       "firstSeen": "2026-09-23T02:06:16.498618+00:00",
-      "lastSeen": "2026-11-03T02:44:03.104618+00:00",
+      "lastSeen": "2026-11-04T21:06:14.437819+00:00",
       "status": "encontrada na última coleta",
       "searchScopes": [
         "rio"

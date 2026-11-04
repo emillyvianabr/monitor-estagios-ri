@@ -1,42 +1,314 @@
 # Radar RI · JobSpy
 
-Coleta: 2026-11-03T02:44:03.104618+00:00
+Coleta: 2026-11-04T21:06:14.437819+00:00
 
 Busca limitada às consultas configuradas; não representa todas as vagas disponíveis.
 
 ## Fontes
 
-- linkedin: 26 busca\(s\), 260 resultado\(s\), 17 candidato\(s\) ao painel.
-- indeed: Coleta anterior: 26 busca\(s\), 457 resultado\(s\), 112 candidato\(s\) ao painel.
-- ciee: Coleta anterior: Coleta anterior: 1 busca\(s\), 2080 resultado\(s\), 119 candidato\(s\) ao painel.
-- gupy: Coleta anterior: Coleta anterior: Coleta anterior: 1 busca\(s\), 236 resultado\(s\), 33 candidato\(s\) ao painel.
-- 99jobs: Coleta anterior: Coleta anterior: Coleta anterior: 1 busca\(s\), 0 resultado\(s\), 0 candidato\(s\) ao painel.
+- gupy: 1 busca\(s\), 240 resultado\(s\), 33 candidato\(s\) ao painel.
+- 99jobs: 1 busca\(s\), 0 resultado\(s\), 0 candidato\(s\) ao painel.
+- ciee: 1 busca\(s\), 2166 resultado\(s\), 114 candidato\(s\) ao painel.
+- linkedin: 26 busca\(s\), 260 resultado\(s\), 21 candidato\(s\) ao painel.
+- indeed: 26 busca\(s\), 455 resultado\(s\), 109 candidato\(s\) ao painel.
 
-## Vagas encontradas (219)
+## Vagas encontradas (220)
 
-### [Estagiário de verão \| Summer Job VMB 2027](https://www.linkedin.com/jobs/view/4481955507)
+### [Estágio em Comunicação](https://ciee.app/login?codigoVaga=6289203&acesso=VITRINE_VAGA)
 
-VMB Invest · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO RIO DE JANEIRO · Rio de Janeiro, RJ, Brasil · Não identificado
 
-RI mencionada no anúncio — conferir requisitos. Fontes: linkedin.
+Área afim — confirmar se aceita RI. Fontes: ciee.
 
-…, Gestão Comercial, Gestão Financeira, Processos Gerenciais, Ciências Atuariais, Relações Internacionais ou correlatos; Disponibilidade para realizar estágio durante Janeiro e Fevereiro de segunda à sexta no Centro do Rio de Janeiro. Turno da aulas noturno ou possiblidade para trocar no curto prazo; Etapas do processo seletivo: Avaliação de currículo/LinkedIn Vídeo-entrevista Ligação com o RH Teste prático Entrevista presencial com o gestor da ár
+Comunicação Atividades de fiscalização profissional na elaboração e formatação de projetos de eventos na organização e manutenção dos arquivos físicos e eletrônicos da gerência e da coordenação de eventos planilhas, cadastros, controles administrativos e bancos de informações de fornecedores utilizados pela GEVE/CEVE
 
-### [Estágio](https://www.linkedin.com/jobs/view/4478922154)
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6288963&acesso=VITRINE_VAGA)
 
-VMB Invest · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
+TRIBUNAL DE JUSTICA DO ESTADO DO RIO DE JANEIRO · Rio de Janeiro, RJ, Brasil · Não identificado
 
-RI mencionada no anúncio — conferir requisitos. Fontes: linkedin.
+Área afim — confirmar se aceita RI. Fontes: ciee.
 
-…, Gestão Comercial, Gestão Financeira, Processos Gerenciais, Ciências Atuariais, Relações Internacionais ou correlatos; Disponibilidade para realizar estágio durante Janeiro e Fevereiro de segunda à \*\*\*\*sexta no Centro do Rio de Janeiro. Turno da aulas noturno ou possiblidade para trocar no curto prazo; Etapas do processo seletivo: Avaliação de currículo/LinkedIn Vídeo-entrevista Ligação com o RH Teste prático Entrevista presencial com o gestor d
+Administrativa Justiça FAZER REQUISICAO E CONTROLE DE MATERIAL DE EXPEDIENTE E CONSUMO; ORGANIZAR DOCUMENTOS, PRONTUARIOS E/ OU REGISTROS DIVERSOS; FAZER ATUALIZACAO E ORGANIZAR DADOS DIVERSOS.
 
-### [Estagiário de marketing](https://www.linkedin.com/jobs/view/4484083182)
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6288589&acesso=VITRINE_VAGA)
 
-Empresa Confidencial · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
+EQUIPOCLASS · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Administrativa Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares Acessar arquivos diversos e auxiliar na execução de rotinas da área Auxiliar as áreas de suporte Auxiliar na elaboração de documentos diversos
+
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6288516&acesso=VITRINE_VAGA)
+
+AEC.RIO · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Administrativa Atividades de contabilidade Organizar e arquivar documentos Realizar atividades de aprendizado supervisionadas na conciliação bancaria ou contábil Auxiliar nas rotinas de contas a pagar e a receber.
+
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6288282&acesso=VITRINE_VAGA)
+
+SEA1 OFFSHORE DO BRASIL S.A. · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Administrativa Navegação de apoio marítimo Auxiliar no controle e organização de documentos Acompanhar a classificacao e descricao de documentos Auxiliar em apuracao de impostos
+
+### [Estágio em Comunicação](https://ciee.app/login?codigoVaga=6287298&acesso=VITRINE_VAGA)
+
+JVA SAUDE · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Comunicação Laboratórios clínicos Auxiliar a criação de identidade visual para projetos institucionais Elaborar apresentações institucionais e corporativas Auxiliar na confecção de posts para as redes sociais
+
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6287172&acesso=VITRINE_VAGA)
+
+GEOMED HOSPITALAR · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Administrativa Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios Auxiliar na conferência de estoque de material de expediente Auxiliar no controle de estoques, compras e seleção de fornecedores Realizar serviços de apoio a área de operações
+
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6287067&acesso=VITRINE_VAGA)
+
+CLINOT CLINICA MEDICA LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Administrativa Atividade médica ambulatorial com recursos para realização de exames complementares Acompanhamento do atendimento ao telefone Acompanhar a revisão de fluxos e procedimentos administrativos Atuar no atendimento telefônico ao cliente
+
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6287008&acesso=VITRINE_VAGA)
+
+ESTILO AZVDO · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Administrativa Serviços de organização de feiras, congressos, exposições e festas Acompanhar e conferir processos Auxiliar no suporte administrativo e operacional Acessar na instrucao dos processos organizacionais
+
+### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6286998&acesso=VITRINE_VAGA)
+
+ABDAN - ASSOCIACAO BRASILEIRA PARA DESENVOLVIMENTO DE ATIVIDADES NUCLEARES · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Administrativa Atividades de associações de defesa de direitos sociais Auxiliar no planejamento de atividades da empresa Criar , revisar e coletar documentos e formularios Realizar briefings
+
+### [Estágio em Comunicação](https://ciee.app/login?codigoVaga=6286996&acesso=VITRINE_VAGA)
+
+ESTILO AZVDO · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Comunicação Serviços de organização de feiras, congressos, exposições e festas Auxiliar na redação e publicidade de conteúdo para perfis em redes sociais Elaborar estratégias de marketing Auxiliar Produção de conteúdo para social media
+
+### [Estágio em Comunicação](https://ciee.app/login?codigoVaga=6286966&acesso=VITRINE_VAGA)
+
+SINDICATO DOS PROFESSORES DO MUNICIPIO DO RIO DE JANEIRO E REGIAO · Rio de Janeiro, RJ, Brasil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: ciee.
+
+Comunicação Atividades de organizações sindicais Auxiliar na divulgação de informação para a mídia Auxiliar no monitoramento da performance dos conteúdos publicados Elaborar textos de divulgação para sites
+
+### [Estagiário Mercado de Capitais Internacional](https://www.linkedin.com/jobs/view/4484699585)
+
+Freitas, Leite e Avvad Advogados · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
 
 Área afim — confirmar se aceita RI. Fontes: linkedin.
 
-Se você é apaixonado\(a\) por comunicação, está cursando Publicidade, Marketing, Jornalismo, Comunicação Social ou Administração, tem inglês avançado e quer aprender de verdade, aqui é o lugar certo para você crescer! Responsabilidades: Construção de briefings para produção de campanhas Construção de briefings para materiais gráficos Construção dos materiais de lançamentos das marcas Mapeamento de oportunidade para produção de conteúdos
+…ntas fazem parte do trabalho. Você vai integrar a equipe de Mercado de Capitais Internacional e aprender, na prática, como estruturas jurídicas brasileiras e estrangeiras se conectam ao mercado financeiro. O QUE VOCÊ VAI FAZER Aprender de perto como estruturas jurídicas de países diferentes se conectam. Na rotina da equipe, você vai: • Apoiar o contato com autoridades do mercado de capitais do Brasil, e de jurisdições estrangeiras como Estados Un
+
+### [Programa de estágio](https://www.linkedin.com/jobs/view/4480050584)
+
+VMB Invest · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: linkedin.
+
+… de dono e entrega de resultados. 🎯 O que buscamos: Estudantes de graduação dos cursos de Administração, Economia, Engenharia, Contabilidade ou áreas correlatas; \(a partir do 1º período\), com disponibilidade para o horário de estágio de segunda à sexta \(modalidade 100% presencial\). Residir no Rio de Janeiro ou proximidades. Interesse genuíno pelo mercado financeiro, vendas e relacionamento com investidores. Perfil comercial, boa comunicação, foco
+
+### [Estágio em Marketing Digital, Conteúdo e Endomarketing](https://www.linkedin.com/jobs/view/4486320604)
+
+Zoom Entregas Rápidas · Rio de Janeiro, Rio de Janeiro, Brazil · Híbrido
+
+Área afim — confirmar se aceita RI. Fontes: linkedin.
+
+…rtalecer a comunicação interna e apoiar campanhas em parceria com as equipes de marketing, RH e comercial. Principais responsabilidades Redes sociais e produção de conteúdo Pesquisar tendências, formatos e o funcionamento de plataformas como TikTok, Instagram, Facebook, LinkedIn e Google. Planejar, em conjunto com a liderança, a linha editorial e o calendário de publicações. Escrever roteiros, gravar e editar vídeos para redes sociais e comunicaç
+
+### [Estagiário Marketing Produto](https://www.linkedin.com/jobs/view/4486518761)
+
+Embelleze · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: linkedin.
+
+…ência e tendências de beleza e cosméticos; Suporte na criação de briefings para marketing, design e agências; Organização e acompanhamento de testes de produto, testes de claims e testes sensoriais; Auxílio no controle de documentos técnicos, fichas e apresentações de lançamento; Suporte na rotina do time de marcas e interface com fornecedores. Outros Requisitos Cursando a partir do 4º período de Farmácia, Química, Engenharia Química, Marketing, 
+
+### [CIEE Rio - Estágio - Administração](https://buscas.taqe.com.br/vacancies/ciee-rio-estagio-administracao-v4?jobid=v-6ae2431fdfa84763f81c9d60-u-678a62e86a212620f1e28193&source=Indeed)
+
+Ciee One Rio de Janeiro · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Descrição da vaga: CIEE Rio Estágio Administração Centro da Cidade O CIEE Rio está em busca de estudantes proativos para integrar o nosso time de Operações Se você está em busca de aprendizado prático e desenvolvimento profissional essa oportunidade é para você Cursos elegíveis Administração Pedagogia Gestão de Recursos Humanos Processos Gerenciais ou cursos afins Requisitos Estar cursando preferencialm
+
+### [Estágio em Finanças](https://jobs.quickin.io/hyper/jobs/6ae2011b3cade40013d5a98e?src=Indeed)
+
+hyper · Rio de Janeiro, RJ, BR · Híbrido
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Quem somos? De forma geral, somos um grupo de negócios. Formado por times multidisciplinares com soluções empresariais em Gestão, Marketing e Tecnologia. Nosso Propósito é criar recursos para escalar empresas. Nosso ambiente é dinâmico e inovador, sempre em busca de novas oportunidades de crescimento. Estamos em busca de um\(a\) estagiário\(a\) para o nosso time financeiro. Responsabilidades: Controle de Contas a Pagar, Contas a Receber através do si
+
+### [Analista de Marketing Jr \[Captação\]](https://app.jobconvo.com/job/Mjc5MDU0OQ-analista-de-marketing-jr-captacao/28bd76fe-790a-479a-bc1d-5108fd088059?source=Indeed)
+
+UNISUAM · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…de captação para os cursos de Pós-graduação Stricto Sensu. Desenvolver ações de marketing direto e inbound, incluindo fluxos automatizados, nutrição de leads e comunicação segmentada. Gerenciar o relacionamento com candidatos em todas as etapas do funil, garantindo clareza na jornada e experiência positiva. Monitorar indicadores de performance \(leads, conversões, engajamento, entregabilidade, CPL, etc.\). Elaborar conteúdos para e-mails, landing p
+
+### [Vaga de estágio em Produção de Conteúdo no portal SCC10](https://gruposcc.enlizt.me/vagas/vaga_de_estagio_em_producao_de_conteudo_no_portal_scc10-031126)
+
+GRUPO SCC · Florianópolis, SC, BR · Remoto
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Vaga de Estágio em Produção de Conteúdo Buscamos estudante de Comunicação Social que tenha como características o dinamismo e a conexão com o ecossistema digital, além da paixão por contar histórias, para se juntar à equipe do portal SCC10! Se você tem boa redação, curiosidade aguçada e quer aprender na prática o ritmo de um veículo de comunicação digital, então essa vaga é para você! RESPONSABILIDADES: Apuração: au
+
+### [Analista de Social Media - Mercado Externo](https://facapartegrendene.gupy.io/job/eyJqb2JJZCI6MTI3NjA5MjcsInNvdXJjZSI6ImluZGVlZCJ9)
+
+Grendene · Remoto, BR · Remoto
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…ões Atuar como responsável das interações com a comunidade nos canais ativos no mercado internacional \(IG, FB, TIKTOK\); Realizar o levantamento de insights de conteúdos/comunidade e desenvolvimento de reports para os times internos; Estruturar o cronograma de conteúdos das contas oficiais da Melissa no mercado externo; Elaborar a produção textual de todos os conteúdos nos canais oficiais do mercado externo \(copys, respostas e demais textos\); Apoi
+
+### [Estágio em Contas a Receber](https://globalcareers.lge.com/jobs/3304)
+
+LG Electronics · São Paulo, SP, BR · Remoto
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…umprimento dos prazos. O que você precisa ter: Ensino superior em andamento nos cursos de Administração, Economia, Ciências Contábeis, Ciências Econômicas ou Contabilidade. Conhecimento intermediário em Excel; Perfil analítico, organizado, comprometido e responsável; Conhecimento em extratos bancários será considerado um diferencial. Modelo de trabalho: 4 vezes presenciais e 1 home-office Local de trabalho: Morumbi/SP Todos os candidatos qualific
+
+### [Estágio em Contas a Receber](https://lgcns.eightfold.ai/careers?pid=563087417702866&domain=lgcns.com&sort_by=relevance)
+
+LG Chem · São Paulo, SP, BR · Remoto
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…umprimento dos prazos. O que você precisa ter: Ensino superior em andamento nos cursos de Administração, Economia, Ciências Contábeis, Ciências Econômicas ou Contabilidade. Conhecimento intermediário em Excel; Perfil analítico, organizado, comprometido e responsável; Conhecimento em extratos bancários será considerado um diferencial. Modelo de trabalho: 4 vezes presenciais e 1 home-office Local de trabalho: Morumbi/SP Todos os candidatos qualific
+
+### [Estagiar para Transformar 2027 \| Brasil - DF, GO, MG, MS, MT, PB, PE, PR, RJ, SC, SP](https://gruposaltaedu.gupy.io/job/eyJqb2JJZCI6MTI3Mzk4MTUsInNvdXJjZSI6ImluZGVlZCJ9)
+
+Grupo Salta Educação · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…nte, apaixonado pelo que faz. O nosso DNA é marcado pela cultura de excelência, impacto social, desenvolvimento pessoal e espírito realizador. Acreditamos que um time diverso é o caminho para cumprir a nossa missão de transformar vidas e, por isso, visamos a contratar talentos em igualdade de oportunidades. Também levamos a inclusão a sério, pensando em processos de reconhecimento justos e éticos, além de contarmos com grupos de afinidade racial,
+
+### [FINEP - ESTÁGIO - ADMINISTRAÇÃO - PCD](https://buscas.taqe.com.br/vacancies/copia-finep-estagio-ciencia-de-dados-e-ciencia-de-dados-e-ia?jobid=v-6abe6209aa334d47beeffd15-u-682794ca001681ce17e98361&source=Indeed)
+
+Ciee One Rio de Janeiro · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Descrição da vaga: pO CIEE Rio em parceria com a FINEP busca estudantes de Administração Administração Pública ou Gestão Pública para compor sua equipe Todas as vagas são afirmativas para Pessoas com Deficiência/p Grade Horária: 20 horas Semanais e 2 folgas Semanais Atividades: Atividades Administrativas. Requisitos: Estar regularmente matriculado nos cursos de graduação ADMINISTRAÇÃO / ADMINISTRAÇÃO PÚBLICA / GESTÃO PÚBLICA,Ter matrícula e 
+
+### [Estágio em Revenue Operations \(RevOps\)](https://caju.gupy.io/job/eyJqb2JJZCI6MTI3OTg2NTIsInNvdXJjZSI6ImluZGVlZCJ9)
+
+Caju · Remoto, BR · Remoto
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+… demandas da operação e registrar no backlog do time Requisitos e qualificações Cursando Administração, Engenharia, Sistemas de Informação ou áreas afins, com previsão de formatura a partir de 2028 Disponibilidade de 6h por dia Organização e disciplina com rotinas recorrentes Planilhas \(Excel/Google Sheets\) em nível básico a intermediário Curiosidade por sistemas: gostar de entender como uma ferramenta funciona por dentro e de fuçar configuração 
+
+### [Analista Sênior de Inteligência de Negócios e Performance de Portfólio - PER](https://gruporeal.gupy.io/job/eyJqb2JJZCI6MTI4MjgwNDcsInNvdXJjZSI6ImluZGVlZCJ9)
+
+Grupo Real · Remoto, BR · Remoto
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…crescimento e quer fazer parte de uma história que conecta tradição, inovação e impacto social, vem com a gente . Porque no Grupo Real, você é a peça fundamental para o nosso sucesso.
+
+### [Estágio em Crédito e Análise Financeira](https://enterpriserh.pandape.com.br/Detail/3859129?ov=5&xtor=AL-366332663&source=Indeed)
+
+Enterpriserh · Betim, MG, BR · Remoto
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…e de um dos maiores grupos automotivos do mundo, que atua na oferta de soluções financeiras para concessionárias, clientes corporativos e frotistas. Possui foco em inovação, segurança e flexibilidade, contribuindo para o desenvolvimento e suporte às operações do setor automotivo. Atividades: Apoiar os analistas nas análises de crédito e na avaliação de informações financeiras e cadastrais de clientes. Auxiliar na análise de balanços patrimoniais,
+
+### [Estágio em Marketing Digital, Conteúdo e Endomarketing](https://zoomentregas.inhire.app/vagas/7bf62bd4-3cb3-4ba0-a1f9-b1d46fcff916/estagio-em-marketing-digital-conteudo-e-endomarketing?source=indeed)
+
+ZOOM ENTREGAS RÁPIDAS · Rio de Janeiro, RJ, BR · Híbrido
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…rtalecer a comunicação interna e apoiar campanhas em parceria com as equipes de marketing, RH e comercial. Principais responsabilidades Redes sociais e produção de conteúdo Pesquisar tendências, formatos e o funcionamento de plataformas como TikTok, Instagram, Facebook, LinkedIn e Google. Planejar, em conjunto com a liderança, a linha editorial e o calendário de publicações. Escrever roteiros, gravar e editar vídeos para redes sociais e comunicaç
+
+### [ESTAGIÁRIO NA ÁREA DE MARKETING - Jacarepaguá - Sem experiência \(American Pet\)](https://www.jobbol.com.br/vaga/29387161190)
+
+Jobbol · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…ércio de Produtos e Serviços para Pets busca profissional Estagiário na área de Marketing em Rio de Janeiro \(Jacarepaguá\). Atua no comércio de produtos e serviços voltados ao cuidado de animais de estimação. Desenvolve atividades relacionadas ao atendimento de clientes e à oferta de soluções para o bem-estar pet. Responsabilidades: Apoiar na criação de conteúdos para redes sociais e campanhas. Auxiliar no planejamento e organização. Acompanhar in
+
+### [ESTÁGIO EM COMUNICAÇÃO INTERNA - RIO DE JANEIRO/RJ](https://sandech.vagas.solides.com.br/vaga/941859?origem=indeed)
+
+SANDECH · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…edores e materiais promocionais; Colaboração com outras áreas para fortalecer a comunicação interna. FORMAÇÃO Curso: Bacharelado em Marketing, Comunicação, Administração ou Design; Período: a partir do 4º período. FERRAMENTAS Softwares de edição de imagem \(Canva, Illustrator, Photoshop\); Ferramentas de Inteligência Artificial; Pacote Office.
+
+### [ESTAGIÁRIO NA ÁREA DE MARKETING - Copacabana - Sem experiência \(Prospera Desenvolvimento Profissional\)](https://www.jobbol.com.br/vaga/29387152029)
+
+Jobbol · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Consultoria de recrutamento e seleção busca profissional Estagiário na área de Marketing em Rio de Janeiro \(Copacabana\). A Prospera Desenvolvimento Profissional é uma consultoria especializada em recrutamento e seleção, com atuação estratégica na atração, avaliação e desenvolvimento de talentos. Apoiam empresas de diferentes segmentos a contratar com mais assertividade, alinhando perfil técnico e comportamental às reais necessidades do negócio. 
+
+### [ESTAGIÁRIO NA ÁREA DE MARKETING - Zona Sul - Sem experiência \(Prospera Desenvolvimento Profissional\)](https://www.jobbol.com.br/vaga/29387152025)
+
+Jobbol · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Consultoria de recrutamento e seleção busca profissional Estagiário na área de Marketing em Rio de Janeiro \(Zona Sul\). A Prospera Desenvolvimento Profissional é uma consultoria especializada em recrutamento e seleção, com atuação estratégica na atração, avaliação e desenvolvimento de talentos. Apoiam empresas de diferentes segmentos a contratar com mais assertividade, alinhando perfil técnico e comportamental às reais necessidades do negócio. Re
+
+### [Estagiário de Operações](https://fmclogistica.vagas.solides.com.br/vaga/948146?origem=indeed)
+
+Empresa não informada · Rio de Janeiro, RJ, BR · Não identificado
+
+RI mencionada no anúncio — conferir requisitos. Fontes: indeed.
+
+…rsando graduação ou curso tecnólogo relacionado a Comércio Exterior, Logística, Relações Internacionais ou áreas correlatas. Conhecimento básico em Pacote Office, especialmente Excel. Interesse em comércio exterior e logística internacional. Organização, atenção aos detalhes, boa comunicação e disposição para aprender. Competências comportamentais Organização e planejamento. Atenção aos detalhes. Proatividade e iniciativa. Boa comunicação e relac
+
+### [Estagiário\(a\) Administrativo](https://vemserigua.gupy.io/job/eyJqb2JJZCI6MTI3OTQyMTMsInNvdXJjZSI6ImluZGVlZCJ9)
+
+Iguá Saneamento · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Nascemos em 2017 com o propósito de Ser a Melhor Empresa de Saneamento PARA o Brasil. Hoje, estamos presentes em diversos municípios e estados brasileiros, com o objetivo de contribuir para que o país alcance a universalização dos serviços de água e esgoto. Nosso modelo de negócios consiste em concessões e parcerias público-privadas \(PPPs\). Somos uma das principais companhias de saneamento do país, inserida na vida de comunidades de diferentes po
+
+### [ESTAGIÁRIO NA ÁREA DE LOGÍSTICA - Recreio dos Bandeirantes - Sem experiência \(Super Estágios\)](https://www.jobbol.com.br/vaga/29387146295)
+
+Jobbol · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+Agência de Integração de Estágio busca profissional Estagiário na área de Logística em Rio de Janeiro \(Recreio dos Bandeirantes\). A Super Estágios é uma agência que integra empresas, estudantes e instituições de ensino, com o serviço de recrutamento, seleção e gestão dos programas de estágios com o permanente acompanhamento de todos os processos. A empresa é pioneira na implantação de um moderno modelo de gestão, alinhando tecnologia com a 
+
+### [ESTAGIÁRIO TÉCNICO NA ÁREA DE ADMINISTRAÇÃO - Tijuca - Sem experiência \(Provedor de Talentos\)](https://www.jobbol.com.br/vaga/29387134439)
+
+Jobbol · Rio de Janeiro, RJ, BR · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: indeed.
+
+…ência de Integração de Estágio busca profissional Estagiário Técnico na área de Administração em Rio de Janeiro \(Tijuca\). O Provedor de Talentos iniciou sua trajetória no ano de 2002 como Agente de Integração, desenvolvendo soluções customizadas atendendo aos interesses dos clientes na execução dos Programas de Desenvolvimento de Recursos Humanos, propiciando a capacitação e a qualificação dos jovens para o mercado de trabalho, através do Program
 
 ### [Estagiário na área de Logística](https://www.linkedin.com/jobs/view/4484497182)
 
@@ -53,14 +325,6 @@ Urca Energia · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
 Área afim — confirmar se aceita RI. Fontes: linkedin.
 
 Está preparado\(a\) para fazer parte de um time que faz a diferença, buscando oportunidades de desenvolvimento para sempre fazer o melhor? O Grupo Urca Energia é esse lugar. Nosso grupo, que inclui as empresas Bem Verde , Gás Verde , Eva Energia , Urca Trading e Urca Gás , oferece soluções ambientais incríveis, desde a produção até a venda, para quem acredita em um futuro mais sustentável. Nosso objetivo é revolucionar o futuro energético do Brasil
-
-### [Jurídico e Compliance \| Advogado\(a\) Pleno - Foco em Compliance \| São Paulo - SP](https://copastur.gupy.io/job/eyJqb2JJZCI6MTI2ODc1MjcsInNvdXJjZSI6ImluZGVlZCJ9)
-
-COPASTUR VIAGENS E TURISMO LTDA · São Paulo, SP, BR · Remoto
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…dades e atribuições Coordenar e executar atividades relacionadas ao Programa de Compliance e Integridade. Atuar na identificação, avaliação e mitigação de riscos de compliance, éticos e regulatórios. Apoiar a implementação, manutenção e monitoramento de políticas, normas, procedimentos e controles internos. Conduzir avaliações de conformidade, monitoramentos, análises de riscos e planos de ação relacionados aos temas de compliance. Ser responsáve
 
 ### [FGV - ESTÁGIO - ADMINISTRAÇÃO COMUNICAÇÃO OU ÁREA CORRELATAS EVENTOS](https://buscas.taqe.com.br/vacancies/fgv-estagio-eventos-administracao-comunicacao-cursos-superiores-de-tecnologia?jobid=v-6abbcfe0e66c0f0bbc2be180-u-64c2ac5e410d34d703db00c2&source=Indeed)
 
@@ -110,14 +374,6 @@ Rede Bandeirantes de Comunicação · Rio de Janeiro, RJ, BR · Remoto
 
 …bre a vaga: Quer conquistar sua vaga de estágio na Band? Se você é estudante de Marketing, Publicidade e Propaganda, Ciência de Dados, candidate-se e venha fazer parte de uma das maiores redes de comunicação do País! Aqui você trabalhará em um ambiente inovador e com atividades que contribuirão para o seu desenvolvimento profissional. Principais atribuições: Coletar e analisar dados de audiência e mercado;. Criar apresentações e relatórios visuai
 
-### [ESTAGIÁRIO NA ÁREA DE ADMINISTRAÇÃO - Centro - Sem experiência \(Nattasha Regina RH\)](https://www.jobbol.com.br/vaga/29387149820)
-
-Jobbol · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Empresa de Recrutamento e Seleção busca profissional Estagiário na área de Administração em Rio de Janeiro \(Centro\). Nattasha Regina é uma consultora de recursos humanos especializada no atendimento a empresas do setor de comércio, com foco em recrutamento, seleção e estruturação de processos de RH. Atua na identificação e atração de talentos alinhados ao perfil e à cultura da empresa, utilizando metodologias estratégicas e dados para apoiar
-
 ### [TBG - ESTÁGIO - ADMINISTRAÇÃO OU CIÊNCIAS CONTÁBEIS](https://buscas.taqe.com.br/vacancies/tbg-estagio-administracao-e-ciencias-contabeis?jobid=v-6ad2848bc5cefe976b375eab-u-64418305abcfdd7ef3d7aedf&source=Indeed)
 
 Ciee One Rio de Janeiro · Rio de Janeiro, RJ, BR · Não identificado
@@ -125,22 +381,6 @@ Ciee One Rio de Janeiro · Rio de Janeiro, RJ, BR · Não identificado
 Área afim — confirmar se aceita RI. Fontes: indeed.
 
 …/strong em parceria comstrong TBG/strong busca estudantes cursando do strong de ADMINISTRAÇÃO ou CIÊNCIAS CONTÁBEIS/strong a partir do 4º período com disponibilidade para estagiar 6 horas por dia Grade Horária: 30 horas Semanais e 2 folgas Semanais Atividades: Apoio na revisão das fichas de controles internos;,Apoio na gestão do cadastro de partes relacionadas;,Apoio no ciclo de avaliação de controles internos.. Requisitos: Cursando nível superio
-
-### [Estágio em Administração](https://fundacaomudes.pandape.com.br/Detail/3813250?ov=5&xtor=AL-366332663&source=Indeed)
-
-FUNDAÇÃO MUDES · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Empresa atuante no mercado de certificação digital seleciona estudantes de Administração, 4º ao 7º período, para oportunidade de estágio. Atividades: Elaborar e atualizar o fluxo diário de caixa; realizar conciliação bancária; acompanhar e controlar o fluxo de caixa mensal; realizar o controle de contas a pagar e a receber; efetuar lançamentos e atualizações em sistemas e planilhas financeiras; emitir notas fiscais e demais documentos relaci
-
-### [ESTAGIÁRIO NA ÁREA DE RECURSOS HUMANOS - Centro - Sem experiência \(Ultra+ RH Consultoria\)](https://www.jobbol.com.br/vaga/29387134553)
-
-Jobbol · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Consultoria de recursos humanos busca profissional Estagiário na área de Recursos Humanos em Rio de Janeiro \(Centro\). A Ultra+ RH é uma consultoria de RH ágil e especializada. Seus serviços são focados em: terceirização da folha de pagamento, recrutamento e seleção e contratação de estagiários. Trazem também soluções personalizadas que atendam às necessidades das empresas. O que imp
 
 ### [Estágio em Mídias Sociais \| Monitoramento \| Remoto](https://elife.gupy.io/job/eyJqb2JJZCI6MTI3ODg2NTQsInNvdXJjZSI6ImluZGVlZCJ9)
 
@@ -150,22 +390,6 @@ Elifegroup · Remoto, BR · Remoto
 
 …s. Requisitos e qualificações Pré-requisitos: Estudantes do 2º ao 6º período da graduação em Administração, Marketing, Jornalismo, Publicidade e Propaganda, Relações Públicas, Ciências Sociais ou áreas correlatas; Disponibilidade para estagiar 6 horas por dia; Estrutura adequada para trabalho remoto; Interesse por redes sociais, comportamento do consumidor, tendências digitais e inteligência de mercado; Familiaridade ou interesse em ferramentas d
 
-### [Estágio em Análise de Dados Financeiros](https://enterpriserh.pandape.com.br/Detail/3859141?ov=5&xtor=AL-366332663&source=Indeed)
-
-Enterpriserh · Betim, MG, BR · Remoto
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…lizados, garantindo a qualidade e a organização dos dados. Requisitos: Cursando graduação em Administração, Economia, Ciências Contábeis, Engenharia, Matemática, Estatística ou áreas correlatas. Conhecimento Intermediário/Avançado em Excel; Conhecimento em Power BI será considerado um diferencial. Escolaridade Mínima: Ensino Superior Formação desejada: Administração de empresas, Ensino Superior Economia, Ensino Superior Auxilio Home-Office 130,11
-
-### [ESTAGIÁRIO NA ÁREA DE ADMINISTRAÇÃO - Sem experiência \(Cavese Scania\)](https://www.jobbol.com.br/vaga/29387153556)
-
-Jobbol · Biguaçu, SC, BR · Remoto
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Concessionária de Caminhões busca profissional Estagiário na área de Administração em Biguaçu. A Cavese faz parte da rede de concessionárias cativas da Scania no Brasil. Oferecem as melhores soluções para seus clientes em caminhões novos e seminovos, ônibus, peças e serviços. São 7 casas presentes nas principais regiões de Santa Catarina, cobrindo 219 munícipios. Responsabilidades: Auxiliar na abertura de requisição de compras dentro d
-
 ### [Estagiário\(a\) de Relacionamento com o Cliente \(Remoto\)](https://oportunidades.mindsight.com.br/pontotel/185)
 
 PONTOTEL · São Paulo, SP, BR · Remoto
@@ -173,14 +397,6 @@ PONTOTEL · São Paulo, SP, BR · Remoto
 Área afim — confirmar se aceita RI. Fontes: indeed.
 
 …à experiência e retenção de clientes. REQUISITOS E QUALIFICAÇÕES Estar cursando graduação em Administração, Gestão Comercial, Marketing, Comunicação, Gestão de Processos, Recursos Humanos, Psicologia ou áreas correlatas; Conhecimento básico de planilhas e ferramenta como Excel ou Google Sheets; Boa comunicação oral e escrita; Organização e atenção aos detalhes para atualizar registros e acompanhar pendências; Empatia, cordialidade e interesse em 
-
-### [Estágio Comercial - AFYA Unigranrio \(Barra\)](https://cnaidiomas.gupy.io/job/eyJqb2JJZCI6MTI3MTk5OTAsInNvdXJjZSI6ImluZGVlZCJ9)
-
-CNA Idiomas · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…as e apaixonadas por relacionamento com clientes para fazer parte do nosso time Comercial. Se você gosta de trabalhar com pessoas, possui facilidade de comunicação, é organizado\(a\), gosta de desafios e deseja desenvolver uma carreira nas áreas Comercial, Marketing e Atendimento, essa oportunidade é para você. Aqui, você terá contato direto com estratégias de captação de alunos, atendimento comercial, relacionamento com clientes, marketing digital
 
 ### [Estagiário\(a\) de Conteúdo \(Remoto\)](https://oportunidades.mindsight.com.br/pontotel/186)
 
@@ -222,53 +438,13 @@ Dermage · Rio de Janeiro, RJ, BR · Não identificado
 
 …buição de materiais. Apoiar o time de varejo nas demandas operacionais de Trade Marketing. Elaborar apresentações mensais em PowerPoint ou Canva com os registros e destaques das ações implementadas no período. Requisitos e qualificações Ensino superior em andamento em Marketing, Publicidade e Propaganda, Administração ou áreas correlatas. Conhecimento de Canva, PowerPoint e Excel. Organização, atenção aos detalhes, boa comunicação e facilidade pa
 
-### [Nube - Oportunidade de Estágio em Marketing - 380223](https://nubevagasefetivas.gupy.io/job/eyJqb2JJZCI6MTI3NDA1NzYsInNvdXJjZSI6ImluZGVlZCJ9)
-
-Empresa não informada · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…s adicionais Esteja cursando os seguintes cursos e ou correlatos: Tecnologia em Marketing \| Publicidade; Comunicação Social \| Publicidade e Propaganda \| Relações Públicas Nós te convidamos a desenvolver suas habilidades e crescer profissionalmente, ao lado de um time diverso e talentoso. Na nossa empresa, valorizamos o trabalho em equipe, a inovação e o compromisso com a excelência. ﻿Se você busca um ambiente de trabalho estimulante, com oportuni
-
-### [Estágio Marketing \(CRM\)](https://www.clubmedjobs.com/pt/vaga/-/-/2619/45708348928)
-
-Club Med · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Estágio Marketing \(CRM\) Desde sua criação em 1950 e sua invenção do conceito de férias com tudo incluído, o Club Med é o líder mundial em seu mercado, dentro de um espírito definitivamente de alto nível, amigável e multicultural. Com mais de 70 Villages de férias nos mais belos recantos do mundo, seu navio de cruzeiro e suas Vilas e Chalés de luxo, o Club Med é hoje, mais do 
-
-### [Estágio em Marketing de Produto \| Flamengo - RJ](https://jobs.bbraun.com/job/Est%C3%A1gio-em-Marketing-de-Produto-Flamengo-RJ/14362-en_US)
-
-B. Braun Labs Inc. · Rio de Janeiro, RJ, BR · Híbrido
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…. Job Posting Location: Rio de Janeiro, Rio de Janeiro, Brazil Functional Area: Marketing Working Model: Hybrid Requisition ID: 14362 Acreditamos em um futuro sustentável com um olhar sensível às mudanças globais, e às necessidades individuais da vida que são o nosso maior propósito. Acreditamos na Inovação, e que juntos continuaremos vivendo intensamente nossa missão de Salvar e Proteger vidas ao redor do mundo. Estamos atuando na construção de 
-
-### [Estagiário\(a\) de Digital](https://atracaodetalentos.totvs.app/gruponexcom/49/estagiario-a-de-digital)
-
-Grupo Nexcom · Rio de Janeiro, RJ, BR · Híbrido
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…odução de conteúdo e rotina das redes sociais. Requisitos e qualificações Estar cursando Comunicação Social: Publicidade e Propaganda; Jornalismo; Marketing; Audiovisual ou áreas correlatas ; Interesse por redes sociais, comunicação digital e produção de conteúdo; Habilidade para captação de fotos e vídeos pelo celular; Conhecimento dos formatos e linguagens das redes sociais, especialmente Instagram, Stories e Reels ; Familiaridade com ferrament
-
 ### [ESTAGIÁRIO NA ÁREA DE LOGÍSTICA - Penha - Sem experiência \(Prolog Transportes e Logística\)](https://www.jobbol.com.br/vaga/29387163530)
 
 Jobbol · Rio de Janeiro, RJ, BR · Não identificado
 
 Área afim — confirmar se aceita RI. Fontes: indeed.
 
-Empresa de Serviços de Transportes e Logística busca profissional Estagiário na área de Logística em Rio de Janeiro \(Penha\). A Prolog Transportes e Logística atua no setor de transporte e logística, oferecendo soluções integradas para a movimentação de cargas. A empresa se dedica a atender as necessidades de seus clientes com eficiência e qualidade. Responsabilidades: Apoiar a Coordenação. Alimentar plan
-
-### [Estágio em Logística](https://fundacaomudes.pandape.com.br/Detail/3746838?ov=5&xtor=AL-366332663&source=Indeed)
-
-FUNDAÇÃO MUDES · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-EMPRESA DE MODA INFANTIL SELECIONA ESTUDANTES DE LOGÍSTICA, DO 1° AO 3° PERÍODO, PARA OPORTUNIDADE DE ESTÁGIO. ATIVIDADES: SEPARAR OS PEDIDOS REALIZADOS NO SITE E MARKETPLACES. CONFERIR OS PRODUTOS, TAMANHOS, CORES E QUANTIDADES. EMBALAR OS PEDIDOS CORRETAMENTE. ETIQUETAR E ORGANIZAR AS ENCOMENDAS PARA ENVIO. PREPARAR OS PEDIDOS PARA COLETA DAS TRANSPORTADORAS E ENTREGADORES. CONFERIR NOTAS FISCAIS E INFORMAÇÕES DE 
+Empresa de Serviços de Transportes e Logística busca profissional Estagiário na área de Logística em Rio de Janeiro \(Penha\). A Prolog Transportes e Logística é uma empresa brasileira com sede em Nova Iguaçu, Rio de Janeiro, especializada no transporte rodoviário de cargas, distribuição de mercadorias e soluções logísticas integradas. Atua no atendimento aos setores de comércio eletrônico, varejo, indústr
 
 ### [Estágio em Inteligência de Mercado \(Consumer Insights\) - Vaga Afirmativa para pessoas Pretas e Pardas](https://bat.gupy.io/job/eyJqb2JJZCI6MTI1MTMyMzUsInNvdXJjZSI6ImluZGVlZCJ9)
 
@@ -390,14 +566,6 @@ Estamos em busca de um ESTAGIÁRIO DE MARKETING para fazer parte da nossa equipe
 
 …a organizada, proativa e com vontade de aprender para fazer parte do nosso time Financeiro.No estágio, você terá a oportunidade de conhecer na prática a rotina da área, apoiando atividades financeiras e administrativas e contribuindo para a organização dos controles e processos do dia a dia. Responsabilidades e atribuições Apoiar nas rotinas de contas a pagar e receber;Auxiliar na organização de documentos;Apoiar na conciliação bancária;Atualizar
 
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6284333&acesso=VITRINE_VAGA)
-
-DETRAN RJ · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Segurança e ordem pública Realizar o auxilio na digitalização de processos
-
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6284226&acesso=VITRINE_VAGA)
 
 DETRAN RJ · Rio de Janeiro, RJ, Brasil · Não identificado
@@ -453,14 +621,6 @@ AJMARQUES SEGURANCA DO TRABALHO LTDA · Rio de Janeiro, RJ, Brasil · Não ident
 Área afim — confirmar se aceita RI. Fontes: ciee.
 
 Administrativa Outras atividades profissionais, científicas e técnicas não especificadas anteriormente Apoiar a área de suporte administrativo Atuar no atendimento telefônico ao cliente Auxiliar no suporte administrativo e operacional
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6283747&acesso=VITRINE_VAGA)
-
-JUNTA COMERCIAL DO EST. DO RIO DE JANEIRO-JUCERJA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Administração pública em geral no controle de protocolos, processos, prazos e cadastros relatórios e controles gerenciais dados e indicadores
 
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6283743&acesso=VITRINE_VAGA)
 
@@ -558,22 +718,6 @@ SUPERMERCADOS FEIRA NOVA · Rio de Janeiro, RJ, Brasil · Não identificado
 
 Administrativa Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados Auxiliar no acompanhamento dos registros e relatórios de ponto eletrônico Realizar o suporte de processo de admissao Prestar suporte nas demais atividades da área
 
-### [Estágio em Recursos Humanos](https://ciee.app/login?codigoVaga=6281875&acesso=VITRINE_VAGA)
-
-ESCOLA CANADENSE DA BARRA LTDA - ME · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Recursos Humanos Ensino fundamental Acessar na elaboração de relatórios mensais Auxiliar nas atividades de recrutamento e seleção Avaliar entrevistas e questionários Coordenar o acompanhamento de entrevistas Realizar atividades supervisionadas de aprendizado na execução de processo seletivos
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6281729&acesso=VITRINE_VAGA)
-
-CONSELHO REGIONAL DE PSICOLOGIA QUINTA REGIAO · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Atividades de fiscalização profissional na organização dos processos de compras e licitações processos de compras e licitações no sistema operacional utilizado na comunicação com fornecedores via telefone e email
-
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6281195&acesso=VITRINE_VAGA)
 
 SOLUCOES NO DESENVOLVIMENTO HUMANO LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
@@ -622,22 +766,6 @@ BLUEVECHUB OPERACOES LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
 
 Recursos Humanos Serviços combinados de escritório e apoio administrativo Atuar como apoio para atividades da área administrativa/financeira e gestão de pessoas Auxiliar nas atividades de recrutamento e seleção Conferir documentações diversas
 
-### [Estágio em Marketing](https://ciee.app/login?codigoVaga=6277378&acesso=VITRINE_VAGA)
-
-LIMATEC INSTALACOES LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Marketing Auxiliar a implementação das campanhas Auxiliar na construção de layouts, edição de fotos, busca de imagens em bancos Auxiliar na criação de designs digitais
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6277216&acesso=VITRINE_VAGA)
-
-M+T ARQUITETUTRA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Serviços de arquitetura Auxiliar no gerenciamento de mídias sociais Elaborar material para site e redes sociais Participar do planejamento e controle das ações de marketing
-
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6276834&acesso=VITRINE_VAGA)
 
 V4 CHAVES & CO · Rio de Janeiro, RJ, Brasil · Não identificado
@@ -669,14 +797,6 @@ EQUILIBRARE · Rio de Janeiro, RJ, Brasil · Não identificado
 Área afim — confirmar se aceita RI. Fontes: ciee.
 
 Administrativa Atividades de fisioterapia Acessar arquivos diversos e auxiliar na execução de rotinas da área Atuar no atendimento telefônico ao cliente Auxiliar na rotina administrativa
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6274728&acesso=VITRINE_VAGA)
-
-UBOOK · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Comércio varejista de livros Fazer lançamentos contábeis Organizar planilhas da área; Auxiliar rotinas administrativas
 
 ### [Estágio em Marketing](https://ciee.app/login?codigoVaga=6274624&acesso=VITRINE_VAGA)
 
@@ -886,14 +1006,6 @@ CRD - CENTRO DE REFERENCIA DIGITAL · Rio de Janeiro, RJ, Brasil · Não identif
 
 Administrativa Auxiliar na conferencia de entregas ou despachos de materiais e mercadorias Auxiliar na entrada e saída de mercadorias do estoque Auxiliar na montagem de cronograma e controle de entregas Alimentar planilhas
 
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6240407&acesso=VITRINE_VAGA)
-
-CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO RIO DE JANEIRO · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Atividades de fiscalização profissional Auxiliar na elaboração de memorando, ofícios e despachos Auxiliar no controle de materiais Controlar a entrada e saída de processos Auxiliar no atendimento telefonico Auxiliar na elaboração de planilhas e relatórios
-
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6240054&acesso=VITRINE_VAGA)
 
 CRD - CENTRO DE REFERENCIA DIGITAL · Rio de Janeiro, RJ, Brasil · Não identificado
@@ -909,22 +1021,6 @@ ESPANDI · Rio de Janeiro, RJ, Brasil · Não identificado
 Área afim — confirmar se aceita RI. Fontes: ciee.
 
 Administrativa Atividades de apoio à educação, exceto caixas escolares Auxiliar nas rotinas administrativas Realizar atividades supervisionadas de aprendizado ao organizar documentos, prontuários e/ou registros diversos Realizar o atendimento e orientação ao cliente/ paciente Realizar o controle de planilhas Auxiliar em atividades do setor
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6236161&acesso=VITRINE_VAGA)
-
-DUJUMAR CENTRO ODONTOLOGICO DE DIAGNOSTICO POR IMAGEM LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia Participar do suporte na comunicação e satisfação do cliente Realizar o atendimento e orientação ao cliente/ paciente Realizar o auxilio nos destaques e divulgações das campanhas
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6234463&acesso=VITRINE_VAGA)
-
-CONTROLADORIA GERAL DO ESTADO DO RIO DE JANEIRO - CGE · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Administração pública em geral Acompanhar a tramitação de documentos Auxiliar na consolidação das informações Auxiliar na elaboração de atas de reunião Auxiliar no controle de planilhas Auxiliar no controle de processos internos Avaliar e apresentar indicadores de desempenho Cooperar na elaboração de documentos oficiais Realizar atividades de apoio admi
 
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6234304&acesso=VITRINE_VAGA)
 
@@ -1086,14 +1182,6 @@ PRA LOG TRANSPORTES E SERVICOS · Rio de Janeiro, RJ, Brasil · Não identificad
 
 Administrativa Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal. Atualizar sistemas de controle Auxiliar nas atividades administrativas do setor Auxiliar no controle de planilhas Auxiliar na elaboracao de relatorios Auxiliar na organização de documentos
 
-### [Estágio em Comunicação](https://ciee.app/login?codigoVaga=6205457&acesso=VITRINE_VAGA)
-
-ZUL · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Comunicação Comércio varejista de artigos do vestuário e acessórios Acompanhar o planejamento estratégico de mídias sociais Acompanhar publicações em redes sociais Auxiliar na edição de vídeos Auxiliar no gerenciamento de mídias sociais Realizar o acompanhamento de publicações em redes sociais Auxiliar no atendimento ao cliente
-
 ### [Estágio em Marketing](https://ciee.app/login?codigoVaga=6199179&acesso=VITRINE_VAGA)
 
 CLINICA DRA JULIANA SANTOS E DR RAFAEL ALMEIDA · Rio de Janeiro, RJ, Brasil · Não identificado
@@ -1109,30 +1197,6 @@ PRIORIZE SER CLINICA MULTIDISCIPLINAR · Rio de Janeiro, RJ, Brasil · Não iden
 Área afim — confirmar se aceita RI. Fontes: ciee.
 
 Administrativa Atividades de psicologia e psicanálise Atualizar e alimentar o sistema Auxiliar no atendimento ao público Auxiliar no controle de planilhas
-
-### [Estágio em Marketing](https://ciee.app/login?codigoVaga=6187978&acesso=VITRINE_VAGA)
-
-TAIZ CALMON - ACESSORIOS ESSENCIAIS · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Marketing Auxiliar na execução de mídia Auxiliar na interface com as lojas para levantamento de oportunidades locais e alinhamento das ações planejadas Auxiliar no suporte de marketing e vendas Auxiliar no atendimento ao cliente
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6176838&acesso=VITRINE_VAGA)
-
-CRD - CENTRO DE REFERENCIA DIGITAL · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Auxiliar nos cálculos de impostos Auxiliar nos processos de faturamento Elaborar relatórios de contabilidade
-
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6176511&acesso=VITRINE_VAGA)
-
-C.PORTO SOCIEDADE DE ADVOGADOS · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa Serviços advocatícios Auxiliar no controle de planilhas Auxiliar na conciliacao bancaria Auxiliar nas rotinas de contas a pagar e a receber.
 
 ### [Estágio Comercial - Large Corporate, Multinacionais e IF](https://abcbrasil.gupy.io/job/eyJqb2JJZCI6MTIzODMxNzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
 
@@ -1358,14 +1422,6 @@ Nice Recrutamento e seleção. · Belo Horizonte, MG, BR · Remoto
 
 …ilidades: Horário: 6hs Nível: Estágio Regime de contratação: Estágio ESTÁGIO EM MARKETING E CONTEÚDO DIGITAL- Clínica de Estética Bairro Santo Agostinho/BH ATIVIDADES: Apoiar o planejamento e execução do calendário de conteúdo; Acompanhar e organizar a produção de Reels, Stories e Carrosséis; Criar e adaptar peças utilizando a identidade visual já estabelecida; Produzir conteúdos de antes e depois; Organizar capas e manter o feed visualmente harm
 
-### [Estágio em Marketing - Onco-Hematologia, 2026](https://jobs.gsk.com/gb/en/job/450400)
-
-GSK · Rio de Janeiro, RJ, BR · Híbrido
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…ças e melhorar a saúde da população através de nossa oportunidade de Estágio em Marketing - Onco-Hematologia. Educação necessária: Cursando ensino superior em Farmácia, Administração, Comunicação e Marketing ou áreas afins a partir do 3º período com previsão de Graduação a partir de Dezembro de 2028. Previsão de Data de início: Janeiro de 2027 Data limite para inscrição: 11 de Novembro de 2026 Previsão da data de entrevista: Novembro de 2026 Busc
-
 ### [Designer Júnior - Geração de Demanda e Marketing Feedz \| RD Station \(Remoto\) afirmativa para pessoas com deficiência](https://grnh.se/mjk677y92us)
 
 RD Station · Florianópolis, SC, BR · Remoto
@@ -1397,14 +1453,6 @@ Elifegroup · Remoto, BR · Remoto
 Área afim — confirmar se aceita RI. Fontes: indeed.
 
 …o. Requisitos e qualificações Pré-requisitos: Estudantes do 2º ao 6º período da graduação em Administração, Marketing, Jornalismo, Publicidade e Propaganda, Relações Públicas e áreas de comunicação correlatas; Disponibilidade para estagiar 6 horas por dia; Estrutura adequada para trabalho remoto; Boa comunicação escrita e interesse por redação para ambientes digitais; Interesse por redes sociais, comportamento do consumidor e relacionamento entre
-
-### [Estágio Comercial \| Rio de Janeiro](https://trescal.inhire.app/vagas/eb0fbe14-9368-4af8-b233-2cb6b5cc284f/estagio-comercial-or-rio-de-janeiro?source=indeed)
-
-Trescal Brasil · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…stema. Requisitos: Cursando Ensino Técnico ou Superior em Administração, Gestão Comercial, Processos Gerenciais ou áreas correlatas; Excelente comunicação verbal e escrita; Perfil proativo, organizado e com foco em resultados; Conhecimento básico em informática \(Pacote Office, com foco em Excel\); Disponibilidade para estagiar de segunda a sexta-feira, das 7h às 14h \(com 1h de intervalo\). Diferenciais: Interesse ou vivência na área de atendimento 
 
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6279365&acesso=VITRINE_VAGA)
 
@@ -1454,6 +1502,14 @@ Options & Company · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
 
 …rganizar dados e controles da mesa, em Excel ou com programação. O que buscamos Estudante de Economia, Engenharia, Administração, Matemática ou cursos afins, \[a partir do 4º período, com formatura a partir de 2028\]. Boa base quantitativa e facilidade com números. Interesse real por mercado financeiro, em especial opções e derivativos. Comunicação clara, por escrito e na conversa. Disponibilidade para 6 horas por dia, presencial. Diferenciais Conh
 
+### [ESTAGIÁRIO \(A\) DE MARKETING - SOCIAL MEDIA - TIJUCA/RJ](https://www.linkedin.com/jobs/view/4481503944)
+
+Equipe Certa · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
+
+Área afim — confirmar se aceita RI. Fontes: linkedin.
+
+… comprometida em entregar resultados. Estamos procurando um\(a\) estagiário\(a\) de marketing apaixonado\(a\) por moda, escrita e redes sociais para fazer parte do nosso time criativo. Conheça melhor nossa marca: https://www.lucidez.com.br/ Seu Principal Desafio Auxiliar na condução das estratégias de marketing e comunicação, abrangendo desde a pesquisa de mercado e análise de público-alvo até a criação e execução de campanhas publicitárias. Principais
+
 ### [ESTÁGIO ADMINISTRATIVO \(RIO DE JANEIRO/RJ\) - VGAKSR230](https://www.linkedin.com/jobs/view/4483317735)
 
 Alpha Estágio · Rio de Janeiro, Rio de Janeiro, Brazil · Não identificado
@@ -1478,14 +1534,6 @@ RI mencionada no anúncio — conferir requisitos. Fontes: indeed.
 
 … mandatório: Estar cursando Administração, Publicidade e Propaganda, Marketing, Relações Internacionais, ou áreas correlatas, com formação prevista entre dezembro/2028 e Julho/2029 Perfil analítico, organizado, proativo e com vontade de aprender. Disponibilidade para estagiar 6h/dia. Para essa posição, é desejável: Interesse por análise de dados e elaboração de apresentações; Conhecimento em Power BI será considerado um diferencial; Conhecimento 
 
-### [ESTAGIÁRIO NA ÁREA DE CIÊNCIAS CONTÁBEIS - Centro - Sem experiência \(Ativa - Comércio Exterior\)](https://www.jobbol.com.br/vaga/29387152409)
-
-Jobbol · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Empresa de Comércio Exterior busca profissional Estagiário na área de Ciências Contábeis em Rio de Janeiro \(Centro\). É uma empresa atua fortemente no setor de Comércio Exterior e Logística Internacional. Responsabilidades: Acompanhar processos de importação nos sistemas. Realizar lançamentos de informações das rotinas operacionais. Apoiar a equipe nas atividades de importação e 
-
 ### [Vaga de Estágio - Administração - RJ2026000109](https://www.universia.net/br/emprego/b7cfc4e1-c339-46c6-8f6d-1d4d9302d432/marketing-consultant-vaga-de-estagio-administracao-rj2026000109-rio-de-janeiro.html?referer=00000000-0000-0000-0000-000000000004&entityid=00000000-0000-0000-0000-000000000004)
 
 Agiel · Rio de Janeiro, RJ, BR · Não identificado
@@ -1509,14 +1557,6 @@ bmc hyundai · Remoto, BR · Remoto
 Área afim — confirmar se aceita RI. Fontes: indeed.
 
 …oas de diferentes níveis de senioridade e áreas; E quais as funções? Estágio em Marketing e Vendas \| Pesados Online Principais atividades Apoiar a captação de novos anunciantes e a ampliação do estoque de máquinas do Pesados Online; Desenvolver ações comerciais para atrair proprietários e empresas interessadas em vender seus equipamentos; Apoiar a prospecção de clientes, anunciantes e novas oportunidades de negócios; Promover o engajamento do tim
-
-### [Estágio em Marketing](https://ciee.app/login?codigoVaga=6271850&acesso=VITRINE_VAGA)
-
-MONTANA HIDROTECNICA LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Marketing Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios Auxiliar na execução de mídia Auxiliar no cadastro e controle de jobs Fazer pesquisas na internet Acompanhamento de campanha para monitorar crises e oportunidades;
 
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6271697&acesso=VITRINE_VAGA)
 
@@ -1573,14 +1613,6 @@ RI mencionada no anúncio — conferir requisitos. Fontes: indeed.
 Área afim — confirmar se aceita RI. Fontes: indeed.
 
 …a organizada, proativa e com vontade de aprender para fazer parte do nosso time Financeiro. No estágio, você terá a oportunidade de conhecer na prática a rotina da área, apoiando atividades financeiras e administrativas e contribuindo para a organização dos controles e processos do dia a dia. Responsabilidades e atribuições Apoiar nas rotinas de contas a pagar e receber; Auxiliar na organização de documentos; Apoiar na conciliação bancária; Atual
-
-### [Estágio em Performance Comercial - Vaga Afirmativa para pessoas Pretas e Pardas](https://bat.gupy.io/job/eyJqb2JJZCI6MTI3MDU4MDksInNvdXJjZSI6ImluZGVlZCJ9)
-
-BAT Brasil · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-…rias da BAT. A vaga envolve contato direto com temas de performance, estratégia comercial, desenvolvimento de plano de comunicação e cadastro das ofertas promocionais. Dessa forma, será necessário participar tanto de tarefas analíticas, suporte na criação de comunicação quanto de processos operacionais que sustentam o cotidiano do negócio. Responsabilidades e atribuições Acompanhamento de indicadores de Performance comercial; Atualização de relat
 
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6264541&acesso=VITRINE_VAGA)
 
@@ -1654,22 +1686,6 @@ RTT TELECOM · Rio de Janeiro, RJ, Brasil · Não identificado
 
 Marketing Instalação e manutenção elétrica Auxiliar na execução de mídia Auxiliar no suporte à área de marketing Fazer pesquisas na internet
 
-### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6249038&acesso=VITRINE_VAGA)
-
-MEDSHORE SERVICOS EM SAUDE E SEGURANCA LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Administrativa UTI móvel Acompanhar na execução das atividades internas das agências, apoiando nas rotinas administrativas e comerciais, elaborando documentos, relatórios, planilhas e formulários diversos Auxiliar na rotina administrativa Auxiliar no controle de planilhas Auxiliar na organizacao de arquivos
-
-### [ESTAGIÁRIO NA ÁREA DE MARKETING - Centro Rio - Sem experiência \(Provedor de Talentos\)](https://www.jobbol.com.br/vaga/29387002918)
-
-Jobbol · Rio de Janeiro, RJ, BR · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: indeed.
-
-Agência de Integração de Estágio busca profissional Estagiário na área de Marketing em Rio de Janeiro \(Centro Rio\). O Provedor de Talentos iniciou sua trajetória no ano de 2002 como Agente de Integração, desenvolvendo soluções customizadas atendendo aos interesses dos clientes na execução dos Programas de Desenvolvimento de Recursos Humanos, propiciando a capacitação e a qualificação dos jovens para o mercado de trabalho, através do Program
-
 ### [Estágio em Gestão de Processos e Projetos](https://estagio-e-trainee-infnet.gupy.io/job/eyJqb2JJZCI6MTI2MDE1MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=)
 
 Instituto Infnet - Venha ser estagiário ou trainee! · Rio de Janeiro, Rio de Janeiro, Brasil · Híbrido
@@ -1701,14 +1717,6 @@ CURSO SUPERMODULOS · Rio de Janeiro, RJ, Brasil · Não identificado
 Área afim — confirmar se aceita RI. Fontes: ciee.
 
 Marketing Auxiliar na organização de planilhas de controle Auxiliar no atendimento ao cliente Auxiliar no controle de leads gerados nas atividades, entre outras atividades pertinentes ao cargo
-
-### [Estágio em Marketing](https://ciee.app/login?codigoVaga=6247387&acesso=VITRINE_VAGA)
-
-MULTIMEIOS MULTIPARQUE COMERCIO DE BRINQUEDOS LTDA · Rio de Janeiro, RJ, Brasil · Não identificado
-
-Área afim — confirmar se aceita RI. Fontes: ciee.
-
-Marketing Acompanhar as planilhas de atividades de marketing planejadas \(calendário de marketing\) Atuar no suporte em edição de vídeos Auxiliar no atendimento ao cliente Auxiliar na confeccao de posts para as redes sociais
 
 ### [Estágio em Administrativa](https://ciee.app/login?codigoVaga=6246695&acesso=VITRINE_VAGA)
 
