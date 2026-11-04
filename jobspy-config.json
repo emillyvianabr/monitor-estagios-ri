@@ -15,7 +15,11 @@
     "programa de estágio",
     "administração",
     "comercial",
-    "sustentabilidade"
+    "sustentabilidade",
+    "internacional",
+    "marketing",
+    "logística",
+    "inteligência de mercado"
   ],
   "scopes": [
     "rio",
@@ -24,5 +28,9 @@
   "resultsPerSearch": 10,
   "pauseSeconds": 4,
   "queryTimeoutSeconds": 120,
-  "maxAgeDays": 45
+  "maxAgeDays": 45,
+  "resultsBySource": {
+    "linkedin": 10,
+    "indeed": 25
+  }
 }

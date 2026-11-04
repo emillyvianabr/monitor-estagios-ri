@@ -67,11 +67,13 @@ def compatibility(title, body):
         return 'any-course', 'Todos os cursos — conferir demais requisitos', any_course.group()
     if re.search(r'\bestagio (?:em|de) (?:direito|engenharia|enfermagem|medicina|educacao fisica)\b', norm(title)):
         return None, None, None
-    close = ['comercio exterior', 'comex', 'cooperacao internacional', 'relacoes governamentais', 'relacoes institucionais', 'negocios internacionais']
+    close = ['comercio exterior', 'comex', 'cooperacao internacional', 'relacoes governamentais', 'relacoes institucionais', 'negocios internacionais',
+             'comercio internacional', 'mercado internacional', 'mercados internacionais', 'assuntos internacionais', 'organismos internacionais',
+             'diplomacia', 'politica internacional', 'importacao', 'exportacao', 'import export', 'terceiro setor', 'impacto social']
     for term in close:
         if re.search(r'\b' + term + r'\b', combined):
             return 'related', 'Área afim — confirmar se aceita RI', term
-    broader = r'administrativ[oa]|administracao|comercial|marketing|logistica|suprimentos|compras|sustentabilidade|esg|politicas publicas|ciencias (?:humanas|sociais)|economia|gestao de projetos'
+    broader = r'administrativ[oa]|administracao|comercial|marketing|logistica|suprimentos|compras|sustentabilidade|esg|politicas publicas|ciencias (?:humanas|sociais)|economia|gestao de projetos|internacional|financeir[oa]|financas|comunicacao|inteligencia de mercado|pesquisa de mercado|relacoes publicas|recursos humanos'
     match = re.search(r'\b(?:' + broader + r')\b', norm(title))
     if not match:
         match = re.search(r'\b(?:cursando|estudantes? de|graduacao em|cursos? de|formacao em)\s+(?:' + broader + r')\b', norm(body))

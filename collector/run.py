@@ -32,8 +32,9 @@ def run():
         terms = ['estágio'] if source in {'gupy', 'ciee', '99jobs'} else (config['terms'][:1] if args.smoke else config['terms'])
         for term in terms:
             for scope in (config['scopes'] if source in {'linkedin', 'indeed'} else ['public']):
-                spec = dict(source=source, term=term, scope=scope, smoke=args.smoke, limit=5 if args.smoke else config['resultsPerSearch'])
-                if source == '99jobs' and not args.smoke: spec['limit'] = 30
+                per_source = config.get('resultsBySource', {}).get(source, config['resultsPerSearch'])
+                spec = dict(source=source, term=term, scope=scope, smoke=args.smoke, limit=5 if args.smoke else per_source)
+                if source == '99jobs' and not args.smoke: spec['limit'] = 200
                 try:
                     proc = subprocess.run([sys.executable, str(ROOT / 'collector/worker.py'), json.dumps(spec)], capture_output=True, text=True, encoding='utf-8', timeout=config['queryTimeoutSeconds'])
                     if proc.returncode: raise RuntimeError(f'worker terminou com código {proc.returncode}')

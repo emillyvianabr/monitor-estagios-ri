@@ -16,10 +16,10 @@ Não é preciso cadastrar API keys ou tokens pessoais. O GitHub fornece o token 
 
 ## Fontes e cobertura
 
-- **LinkedIn:** JobSpy, termos configurados em `jobspy-config.json`, dois recortes (Rio e remoto Brasil), até 10 resultados por busca.
-- **Gupy:** consulta pública por estágio, até 3 páginas de 100 resultados.
-- **CIEE:** vitrine pública de estágio, até 3 páginas de 100 resultados. Os links de candidatura podem exigir login. Modalidade nem sempre está disponível.
-- **99jobs:** primeira página da busca por estágio, até 30 cartões; lê detalhes apenas quando a localização está no recorte.
+- **LinkedIn:** JobSpy, termos configurados em `jobspy-config.json`, dois recortes (Rio e remoto Brasil), até 10 resultados por busca. Cada busca leva cerca de 40 s (lê a descrição de cada anúncio), por isso o limite é menor que o do Indeed.
+- **Gupy:** a API pública `/api/v1/jobs` foi desativada (404). A coleta lê a página de busca do portal (`portal.gupy.io/job-search/`), com os termos `estágio` e `estagiário` (a busca casa o título; termos compostos não retornam nada) em dois recortes (município do Rio e remoto), até 9 páginas de 12 resultados por busca. Se a Gupy mudar a página, a fonte aparece como falha no painel.
+- **CIEE:** vitrine pública de estágio, lida por completo (páginas de 500; cerca de 3.700 vagas no Brasil). Só entram vagas de **nível superior** (`nivelEscolar = SU`); técnico e médio são descartados. Os links de candidatura podem exigir login. Modalidade nem sempre está disponível.
+- **99jobs:** busca por estágio paginada (até 10 páginas, 200 cartões); lê detalhes apenas quando a localização está no recorte. A busca inteira tem poucas vagas (~116 no país, na última verificação) e pode não ter nenhuma no Rio; zero resultados não indica erro.
 
 Google Jobs está desativado. Nube, Cia de Talentos e Prefeitura não fazem parte desta versão.
 
@@ -29,10 +29,12 @@ A coleta é limitada, não exaustiva. Uma fonte responder sem anúncios compatí
 
 Presencial, híbrido e modalidade não identificada: **município do Rio de Janeiro**. Remoto: localização identificada no Brasil; confira restrições adicionais no anúncio. `is_remote=false` não comprova presencial.
 
+Limites por fonte ficam em `resultsBySource` (`jobspy-config.json`); fontes sem entrada usam `resultsPerSearch`. O Indeed responde rápido e usa 25; o LinkedIn fica em 10. O workflow tem limite de 60 minutos.
+
 Compatibilidade:
 - **RI mencionada:** o anúncio cita o curso, mas os demais requisitos precisam ser conferidos.
 - **Todos os cursos:** há indicação explícita de curso livre/qualquer graduação.
-- **Área afim:** administrativo, comercial, marketing, logística, compras, sustentabilidade, economia, gestão de projetos e áreas semelhantes. Não confirma aceitação de RI.
+- **Área afim:** administrativo, comercial, marketing, logística, compras, sustentabilidade, economia, gestão de projetos, financeiro, comunicação, inteligência de mercado, relações públicas, recursos humanos, importação/exportação, comércio internacional, terceiro setor e títulos que contenham "internacional". Não confirma aceitação de RI. Essas áreas ficam na mesma categoria no painel.
 
 Anúncios precisam ser identificados como estágio. Bancos de talentos são excluídos. Datas conhecidas fora de 45 dias são descartadas; anúncios sem data permanecem para conferência. Modalidade explícita da fonte tem prioridade.
 

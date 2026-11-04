@@ -1,45 +1,16 @@
 {
-  "checkedAt": "2026-11-02T21:47:06.785802+00:00",
+  "checkedAt": "2026-11-03T02:44:03.104618+00:00",
   "queries": [
-    {
-      "source": "gupy",
-      "term": "estágio",
-      "scope": "public",
-      "received": 0,
-      "rejected": {},
-      "warnings": [
-        "HTTPError: 404 Client Error: Not Found for url: https://employability-portal.gupy.io/api/v1/jobs?jobName=est%C3%A1gio&offset=0&limit=100"
-      ]
-    },
-    {
-      "source": "99jobs",
-      "term": "estágio",
-      "scope": "public",
-      "received": 0,
-      "rejected": {},
-      "warnings": []
-    },
-    {
-      "source": "ciee",
-      "term": "estágio",
-      "scope": "public",
-      "received": 300,
-      "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 113,
-        "sem evidência de RI, cursos abertos ou área afim": 183
-      },
-      "warnings": []
-    },
     {
       "source": "linkedin",
       "term": "relações internacionais",
       "scope": "rio",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 3,
+        "sem evidência de RI, cursos abertos ou área afim": 2,
         "não confirmado como estágio": 1,
         "localização ou modalidade fora do recorte/insuficiente": 4,
-        "data fora da janela": 1
+        "data fora da janela": 2
       },
       "warnings": []
     },
@@ -62,7 +33,7 @@
       "rejected": {
         "localização ou modalidade fora do recorte/insuficiente": 5,
         "não confirmado como estágio": 3,
-        "sem evidência de RI, cursos abertos ou área afim": 1
+        "data fora da janela": 1
       },
       "warnings": []
     },
@@ -106,8 +77,8 @@
       "rejected": {
         "não confirmado como estágio": 1,
         "localização ou modalidade fora do recorte/insuficiente": 3,
-        "sem evidência de RI, cursos abertos ou área afim": 4,
-        "data fora da janela": 2
+        "sem evidência de RI, cursos abertos ou área afim": 3,
+        "data fora da janela": 3
       },
       "warnings": []
     },
@@ -117,10 +88,11 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 3,
-        "sem evidência de RI, cursos abertos ou área afim": 5,
+        "localização ou modalidade fora do recorte/insuficiente": 6,
         "banco de talentos": 1,
-        "não confirmado como estágio": 1
+        "não confirmado como estágio": 1,
+        "data fora da janela": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 1
       },
       "warnings": []
     },
@@ -140,8 +112,8 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 9,
-        "localização ou modalidade fora do recorte/insuficiente": 1
+        "sem evidência de RI, cursos abertos ou área afim": 8,
+        "localização ou modalidade fora do recorte/insuficiente": 2
       },
       "warnings": []
     },
@@ -227,200 +199,102 @@
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 8,
-        "localização ou modalidade fora do recorte/insuficiente": 2
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "relações internacionais",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 4,
-        "não confirmado como estágio": 1,
-        "data fora da janela": 2
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "relações internacionais",
-      "scope": "remote",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 6,
-        "localização ou modalidade fora do recorte/insuficiente": 1,
-        "data fora da janela": 2
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "comércio exterior",
-      "scope": "rio",
-      "received": 4,
-      "rejected": {
-        "data fora da janela": 2
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "comércio exterior",
-      "scope": "remote",
-      "received": 2,
-      "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 1
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "cooperação internacional",
-      "scope": "rio",
-      "received": 0,
-      "rejected": {},
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "cooperação internacional",
-      "scope": "remote",
-      "received": 2,
-      "rejected": {
-        "não confirmado como estágio": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 1
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "relações governamentais",
-      "scope": "rio",
-      "received": 1,
-      "rejected": {
-        "não confirmado como estágio": 1
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "relações governamentais",
-      "scope": "remote",
-      "received": 0,
-      "rejected": {},
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "qualquer curso",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
-        "não confirmado como estágio": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 7
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "qualquer curso",
-      "scope": "remote",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 6
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "programa de estágio",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 7,
-        "data fora da janela": 1
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "programa de estágio",
-      "scope": "remote",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 5,
-        "não confirmado como estágio": 2
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "administração",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 6,
-        "localização ou modalidade fora do recorte/insuficiente": 2
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "administração",
-      "scope": "remote",
-      "received": 10,
-      "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 1,
-        "não confirmado como estágio": 1,
-        "sem evidência de RI, cursos abertos ou área afim": 4
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "comercial",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 3,
-        "localização ou modalidade fora do recorte/insuficiente": 2,
-        "data fora da janela": 2
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "comercial",
-      "scope": "remote",
-      "received": 10,
-      "rejected": {
-        "sem evidência de RI, cursos abertos ou área afim": 4,
-        "localização ou modalidade fora do recorte/insuficiente": 2
-      },
-      "warnings": []
-    },
-    {
-      "source": "indeed",
-      "term": "sustentabilidade",
-      "scope": "rio",
-      "received": 10,
-      "rejected": {
         "sem evidência de RI, cursos abertos ou área afim": 9,
         "localização ou modalidade fora do recorte/insuficiente": 1
       },
       "warnings": []
     },
     {
-      "source": "indeed",
-      "term": "sustentabilidade",
+      "source": "linkedin",
+      "term": "internacional",
+      "scope": "rio",
+      "received": 10,
+      "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 4,
+        "sem evidência de RI, cursos abertos ou área afim": 3,
+        "não confirmado como estágio": 1
+      },
+      "warnings": []
+    },
+    {
+      "source": "linkedin",
+      "term": "internacional",
       "scope": "remote",
       "received": 10,
       "rejected": {
-        "localização ou modalidade fora do recorte/insuficiente": 2,
-        "sem evidência de RI, cursos abertos ou área afim": 8
+        "localização ou modalidade fora do recorte/insuficiente": 6,
+        "não confirmado como estágio": 1,
+        "sem evidência de RI, cursos abertos ou área afim": 2,
+        "banco de talentos": 1
+      },
+      "warnings": []
+    },
+    {
+      "source": "linkedin",
+      "term": "marketing",
+      "scope": "rio",
+      "received": 10,
+      "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 8,
+        "data fora da janela": 1
+      },
+      "warnings": []
+    },
+    {
+      "source": "linkedin",
+      "term": "marketing",
+      "scope": "remote",
+      "received": 10,
+      "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 9,
+        "sem evidência de RI, cursos abertos ou área afim": 1
+      },
+      "warnings": []
+    },
+    {
+      "source": "linkedin",
+      "term": "logística",
+      "scope": "rio",
+      "received": 10,
+      "rejected": {
+        "sem evidência de RI, cursos abertos ou área afim": 1,
+        "localização ou modalidade fora do recorte/insuficiente": 7,
+        "data fora da janela": 1
+      },
+      "warnings": []
+    },
+    {
+      "source": "linkedin",
+      "term": "logística",
+      "scope": "remote",
+      "received": 10,
+      "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 10
+      },
+      "warnings": []
+    },
+    {
+      "source": "linkedin",
+      "term": "inteligência de mercado",
+      "scope": "rio",
+      "received": 10,
+      "rejected": {
+        "sem evidência de RI, cursos abertos ou área afim": 4,
+        "não confirmado como estágio": 1,
+        "localização ou modalidade fora do recorte/insuficiente": 1,
+        "banco de talentos": 2,
+        "data fora da janela": 1
+      },
+      "warnings": []
+    },
+    {
+      "source": "linkedin",
+      "term": "inteligência de mercado",
+      "scope": "remote",
+      "received": 10,
+      "rejected": {
+        "localização ou modalidade fora do recorte/insuficiente": 7,
+        "sem evidência de RI, cursos abertos ou área afim": 2
       },
       "warnings": []
     }

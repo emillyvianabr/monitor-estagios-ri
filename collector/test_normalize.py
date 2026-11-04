@@ -51,4 +51,28 @@ class Filters(unittest.TestCase):
         self.assertEqual(len(merged), 1); self.assertEqual(merged[0]['firstSeen'], '2026-09-01'); self.assertEqual(merged[0]['sources'], ['google','linkedin'])
         self.assertEqual(combine([job], [], [], NOW)[0]['status'], PENDING)
         self.assertNotEqual(combine([job], [], [{'board':'linkedin','ok':True}], NOW)[0]['status'], ACTIVE)
+
+class BroaderCompatibility(unittest.TestCase):
+    def kind(self, title, description=''):
+        row = {**BASE, 'title': title, 'description': description}
+        job, reason = normalize(row, 'gupy', 'rio', NOW)
+        return job['compatibility'] if job else None
+
+    def test_new_close_terms_are_related(self):
+        for title in ['Estágio em Importação', 'Estágio Exportação - Rio', 'Estágio em Comércio Internacional', 'Estágio Mercado Internacional']:
+            self.assertEqual(self.kind(title), 'related', title)
+
+    def test_new_broader_title_terms_are_related(self):
+        for title in ['Estágio Financeiro', 'Estágio em Comunicação Corporativa', 'Estágio em Inteligência de Mercado',
+                      'Estágio Internacional', 'Estágio Recursos Humanos']:
+            self.assertEqual(self.kind(title), 'related', title)
+
+    def test_unrelated_internships_still_rejected(self):
+        for title in ['Estágio em Engenharia Civil', 'Estágio em Fisioterapia', 'Estágio Técnico Industrial', 'Estágio em Direito', 'Estágio em Compliance']:
+            self.assertIsNone(self.kind(title), title)
+
+    def test_ri_and_any_course_keep_priority_over_related(self):
+        self.assertEqual(self.kind('Estágio Financeiro', 'Aceitamos qualquer curso superior.'), 'any-course')
+        self.assertEqual(self.kind('Estágio Financeiro', 'Cursando Relações Internacionais.'), 'requirements')
+
 if __name__ == '__main__': unittest.main()
